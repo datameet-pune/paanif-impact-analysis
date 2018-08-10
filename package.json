@@ -1,0 +1,30 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "8.x.x",
+    "npm": "5.0.3"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "server": "nodemon index.js",
+    "client": "npm run start --prefix static",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/datastore": "^1.4.1",
+    "@google-cloud/storage": "^1.7.0",
+    "@google/earthengine": "^0.1.140-prerelease",
+    "body-parser": "^1.18.3",
+    "concurrently": "^3.5.0",
+    "express": "^4.16.2",
+    "fast-csv": "^2.4.1",
+    "lodash": "^4.17.10",
+    "nodemon": "^1.12.1",
+    "sjcl": "^1.0.7"
+  }
+}

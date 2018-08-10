@@ -1,0 +1,33 @@
+indexes:
+
+- kind: village
+  ancestor: no
+  properties:
+  - name: dtname
+  - name: ipname
+
+- kind: village
+  ancestor: no
+  properties:
+  - name: wc_edition
+  - name: dtname
+
+- kind: village
+  ancestor: no
+  properties:
+  - name: dtname
+  - name: ipname
+  - name: villname
+  - name: vlgcd2011
+
+- kind: village
+  properties:
+  - name: wc_edition
+  - name: villname
+  - name: vlgcd2011
+
+- kind: auth
+  properties:
+  - name: user
+  - name: pass
+  
