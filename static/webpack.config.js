@@ -3,8 +3,8 @@ var webpack = require('webpack');
 const UglifyJSPlugin = require('uglifyjs-webpack-plugin');
 
 // var CompressionPlugin = require('compression-webpack-plugin');
-// var BundleAnalyzerPlugin = require('webpack-bundle-analyzer')
-//   .BundleAnalyzerPlugin;
+var BundleAnalyzerPlugin = require('webpack-bundle-analyzer')
+  .BundleAnalyzerPlugin;
 
 module.exports = {
   mode: 'development',
@@ -91,7 +91,7 @@ module.exports = {
         }),
         new UglifyJSPlugin({
           sourceMap: true
-        })
+        }),
 
         // note that webpack's -p shortcut runs the UglifyJsPlugin (https://github.com/webpack/docs/wiki/optimization)
         // but for some reason leaves in one multiline comment while removing the rest,
@@ -111,7 +111,7 @@ module.exports = {
         //   threshold: 10240,
         //   minRatio: 0.8
         // })
-        // ,new BundleAnalyzerPlugin()
+        new BundleAnalyzerPlugin()
       ];
     }
     return [];

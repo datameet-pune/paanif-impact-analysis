@@ -7,7 +7,7 @@ import { bindActionCreators } from 'redux';
 class Map extends Component {
   render() {
     return (
-      <div className="row ">
+      <div className="row map-wrapper">
         <div className="map-header col-sm-12">
           <div className="table-title">
             {this.props.village

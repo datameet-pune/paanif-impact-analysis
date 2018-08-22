@@ -240,8 +240,12 @@ class Map extends Component {
       this.props.village &&
       this.villageCode !== this.props.village.villageCode
     ) {
+      // $.getJSON(
+      //   'static/src/data/geometry/wc12_sample121_vlgcd2011__' +
+      //     this.props.village.villageCode +
+      //     '.geojson',
       $.getJSON(
-        'static/src/data/geometry/wc12_sample121_vlgcd2011__' +
+        'static/src/data/geojsons/vlgcd2011__' +
           this.props.village.villageCode +
           '.geojson',
         function(data) {
@@ -360,7 +364,7 @@ class Map extends Component {
       <div className="col-sm-6 before-wrapper">
         <div id={this.props.id}>{this.state.year}</div>
 
-        <div id="map1" className="map1" ref="map1" />
+        <div id="map1" className={'map_' + this.props.id} ref="map1" />
         <div id={this.props.id + '_legend'} />
       </div>
     );

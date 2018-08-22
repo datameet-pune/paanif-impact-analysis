@@ -1,5 +1,17 @@
 var main_config = require('../../main_config');
 const bucketName = main_config.mapTilesBucket;
+const csvBucketName = main_config.csvBucket;
+const csvBucketFolder = 'test-bucket';
+const csvFiles = {
+  LandUse: 'land_use',
+  SownAreaKharif: 'sown_area',
+  SownAreaRabi: 'sown_area',
+  IrrigatedAreaRabi: 'irrigated_area',
+  IrrigatedAreaKharif: 'irrigated_area',
+  SoilMoistureIndexJan: 'soil_moisture_index',
+  SoilMoistureIndexJune: 'soil_moisture_index'
+};
+
 const bucketFolders = {
   LandUse: {
     wc1: {
@@ -454,5 +466,64 @@ module.exports = {
       },
       Description: 'Soil Moisture Jan Maps'
     }
+  },
+  csvFileURLs: {
+    LandUse:
+      'https://storage.googleapis.com/' +
+      csvBucketName +
+      '/' +
+      csvBucketFolder +
+      '/' +
+      csvFiles.LandUse +
+      '.csv',
+
+    SownAreaKharif:
+      'https://storage.googleapis.com/' +
+      csvBucketName +
+      '/' +
+      csvBucketFolder +
+      '/' +
+      csvFiles.SownAreaKharif +
+      '.csv',
+    SownAreaRabi:
+      'https://storage.googleapis.com/' +
+      csvBucketName +
+      '/' +
+      csvBucketFolder +
+      '/' +
+      csvFiles.SownAreaRabi +
+      '.csv',
+    IrrigatedAreaRabi:
+      'https://storage.googleapis.com/' +
+      csvBucketName +
+      '/' +
+      csvBucketFolder +
+      '/' +
+      csvFiles.IrrigatedAreaRabi +
+      '.csv',
+    IrrigatedAreaRabi:
+      'https://storage.googleapis.com/' +
+      csvBucketName +
+      '/' +
+      csvBucketFolder +
+      '/' +
+      csvFiles.IrrigatedAreaKharif +
+      '.csv',
+    SoilMoistureIndexJan:
+      'https://storage.googleapis.com/' +
+      csvBucketName +
+      '/' +
+      csvBucketFolder +
+      '/' +
+      csvFiles.SoilMoistureIndexJan +
+      '.csv',
+    SoilMoistureIndexJune:
+      'https://storage.googleapis.com/' +
+      csvBucketName +
+      '/' +
+      csvBucketFolder +
+      '/' +
+      csvFiles.SoilMoistureIndexJune +
+      '.csv'
   }
 };

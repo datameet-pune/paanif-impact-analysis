@@ -1,4 +1,5 @@
 import _ from 'lodash';
+
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
@@ -423,6 +424,7 @@ class Table extends Component {
         </div>
         <div className=" offset-lg-2 col-lg-8 col-md-10 offset-md-1">
           <ReactTable
+            ref="reactTable"
             className="-striped"
             data={this.state.data}
             columns={columns}

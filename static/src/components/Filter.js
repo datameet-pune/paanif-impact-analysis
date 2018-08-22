@@ -310,7 +310,7 @@ class Filter extends Component {
     const { classes } = this.props;
     const { opacity } = this.state;
     return (
-      <div id="slideout">
+      <div id="slideout" data-html2canvas-ignore="true">
         <div className="filter">
           <img
             src="static/src/styles/images/filter.svg"
