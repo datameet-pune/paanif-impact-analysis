@@ -8,15 +8,21 @@ import Header from '../components/header';
 
 import Landing from '../components/Landing';
 import LoginPage from '../components/Login';
-
+import config from '../../../main_config';
 import * as actions from '../actions';
 
 // import Footer from '../components/footer';
 
 class App extends Component {
   loggedIn() {
-    const loggedIn = sessionStorage.getItem('paani-auth');
-    return loggedIn || this.props.auth;
+    let login = false;
+    if (config.hasLoginFeature) {
+      const loggedIn = sessionStorage.getItem('paani-auth');
+      login = loggedIn || this.props.auth;
+    } else {
+      login = true;
+    }
+    return login;
   }
 
   requireAuth(nextState, replace) {
