@@ -23,12 +23,20 @@ class Header extends Component {
     return (
       <div className="row app-header">
         <div className="col-sm-6 col-6 col-lg-2 text-center">
-          <a className="navbar-brand" href="#">
+          <a
+            className="navbar-brand"
+            href="https://www.paanifoundation.in/"
+            target="_blank"
+          >
             <div className="paani-logo logo" />
           </a>
         </div>
         <div className="col-sm-6 col-6 d-lg-none text-right">
-          <a className="navbar-brand" href="#">
+          <a
+            className="navbar-brand"
+            href="http://datameet.org/"
+            target="_blank"
+          >
             <div className="datameet-logo logo" />
           </a>
         </div>
@@ -40,7 +48,11 @@ class Header extends Component {
           </div>
         </div>
         <div className="col-sm-6 col-6 col-lg-2 text-center d-none d-lg-block">
-          <a className="navbar-brand" href="#">
+          <a
+            className="navbar-brand"
+            href="http://datameet.org/"
+            target="_blank"
+          >
             <div className="datameet-logo logo" />
           </a>
         </div>

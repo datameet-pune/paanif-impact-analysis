@@ -19,9 +19,9 @@ class ButtonPanel extends Component {
   }
 
   componentDidUpdate() {
-    // console.log('setting file path for ' + this.props.mapType.mapTypeVal);
-    // const filePath = config.csvFileURLs[this.props.mapType.mapTypeVal];
-    // this.state.downloadLink = filePath;
+    console.log('setting file path for ' + this.props.mapType.mapTypeVal);
+    const filePath = config.csvFileURLs[this.props.mapType.mapTypeVal];
+    this.state.downloadLink = filePath;
   }
 
   downloadCSV() {
@@ -29,14 +29,10 @@ class ButtonPanel extends Component {
   }
 
   saveImage() {
-    console.log('in save image');
-  }
-
-  saveImage_new() {
     console.log('in saveImage');
     $('.gmnoprint').attr('data-html2canvas-ignore', true);
     $('.gm-fullscreen-control')
-      .parent()
+      // .parent()
       .attr('data-html2canvas-ignore', true);
     const transformDiv = '.gm-style>div:first>div:first>div:last>div';
     // const transformDiv = '.gm-style>div:first>div';
@@ -53,7 +49,7 @@ class ButtonPanel extends Component {
         top: maptop
       });
     }
-    console.log('map-header');
+    // console.log('map-header');
 
     html2canvas($('.map-header')[0], {
       logging: false,
@@ -61,7 +57,7 @@ class ButtonPanel extends Component {
     }).then(canvas => {
       canvas.setAttribute('id', 'myCanvas5');
       $('#canvas_wrapper')[0].appendChild(canvas);
-      console.log('before');
+      // console.log('before');
 
       html2canvas($('#before')[0], {
         logging: false,
@@ -69,7 +65,7 @@ class ButtonPanel extends Component {
       }).then(canvas => {
         canvas.setAttribute('id', 'myCanvas3');
         $('#canvas_wrapper')[0].appendChild(canvas);
-        console.log('after');
+        // console.log('after');
 
         html2canvas($('#after')[0], {
           logging: false,
@@ -77,15 +73,15 @@ class ButtonPanel extends Component {
         }).then(canvas => {
           canvas.setAttribute('id', 'myCanvas4');
           $('#canvas_wrapper')[0].appendChild(canvas);
-          console.log('map1');
-
+          // console.log('map1');
           html2canvas($('div.map_before > div > div.gm-style')[0], {
             logging: false,
             useCORS: true
           }).then(canvas => {
+            // console.log('maadfsdfp2');
             canvas.setAttribute('id', 'myCanvas1');
             $('#canvas_wrapper')[0].appendChild(canvas);
-            console.log('map2');
+            // console.log('map2');
 
             if (window.chrome) {
               // Fix for Chrome
@@ -111,11 +107,11 @@ class ButtonPanel extends Component {
                 });
               }
               setTimeout(function() {
-                console.log('showing canvas');
+                // console.log('showing canvas');
 
                 $('#canvas_wrapper').show();
                 setTimeout(function() {
-                  console.log('merging canvas');
+                  // console.log('merging canvas');
 
                   html2canvas($('#canvas_wrapper')[0], {
                     logging: false,
@@ -125,7 +121,7 @@ class ButtonPanel extends Component {
                     canvas.setAttribute('id', 'myCanvas6');
                     $('#final_canvas_wrapper')[0].appendChild(canvas);
                     setTimeout(function() {
-                      console.log('Canvas2Image');
+                      // console.log('Canvas2Image');
                       Canvas2Image('myCanvas6', {
                         name: 'myImage',
                         type: 'jpg',
@@ -145,7 +141,7 @@ class ButtonPanel extends Component {
 
   saveImage1() {
     let self = this;
-    console.log('in saveImage');
+    // console.log('in saveImage');
     $('.gmnoprint').attr('data-html2canvas-ignore', true);
     $('.gm-fullscreen-control')
       .parent()
