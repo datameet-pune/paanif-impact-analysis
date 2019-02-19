@@ -44,7 +44,6 @@ class Header extends Component {
         <div className="col-12 col-sm-12 col-lg-8 text-center ">
           <div className="header-title">
             <span>Impact Analysis Water Cup </span>
-            {timePeriod}
           </div>
         </div>
         <div className="col-sm-6 col-6 col-lg-2 text-center d-none d-lg-block">
