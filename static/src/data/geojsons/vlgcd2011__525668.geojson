@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "wc3_TCsample140_simpDP_vlgcd2011_525668",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "gml_id": "Maharashtra_village.1594", "stname": "Maharashtra", "dtname": "Nandurbar", "gpname": "Dhomdai", "ipname": "Nandurbar", "stcensus": 27, "dtcensus": "497", "gpcode": "182196", "ipcode": "03954", "villname": "Dhamdai", "vlgcd2011": "525668", "vlgcd2001": "00066600", "wc1": null, "wc2": null, "wc3": "y", "control": null, "area": 4.58 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 74.213018610000063, 21.432957169000076 ], [ 74.214698318000046, 21.44167580800007 ], [ 74.214105302000064, 21.450985372000048 ], [ 74.232705813000052, 21.452129491000051 ], [ 74.235816254000042, 21.440195541000037 ], [ 74.23603593100006, 21.432159885000033 ], [ 74.213018610000063, 21.432957169000076 ] ] ] } }
+]
+}

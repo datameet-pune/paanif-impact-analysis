@@ -180,7 +180,7 @@ class Table extends Component {
           accessor: 'type'
         },
         headerKharif: {
-          name: 'Kharif',
+          name: 'October',
           columns: [
             {
               name: beforeYear,
@@ -195,7 +195,7 @@ class Table extends Component {
           ]
         },
         headerRabi: {
-          name: 'Rabi',
+          name: 'November',
           columns: [
             {
               name: beforeYear,

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "wc3_TCsample140_simpDP_vlgcd2011_561477",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "gml_id": "Maharashtra_village.40816", "stname": "Maharashtra", "dtname": "Osmanabad", "gpname": "Bavi (Kawl)", "ipname": "Osmanabad", "stcensus": 27, "dtcensus": "525", "gpcode": "236949", "ipcode": "04240", "villname": "Kawaldara Tanda", "vlgcd2011": "561477", "vlgcd2001": "03630200", "wc1": null, "wc2": null, "wc3": "y", "control": null, "area": 2.43 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 76.08202121000005, 18.077806948000045 ], [ 76.093646436000029, 18.079254700000035 ], [ 76.094059645000073, 18.077643229000046 ], [ 76.096897631000047, 18.077599404000068 ], [ 76.096085591000076, 18.067862347000073 ], [ 76.096370820000061, 18.066138128000034 ], [ 76.098424070000078, 18.065595238000071 ], [ 76.097842748000062, 18.060525706000078 ], [ 76.088852020000047, 18.060407652000038 ], [ 76.08202121000005, 18.077806948000045 ] ] ] } }
+]
+}

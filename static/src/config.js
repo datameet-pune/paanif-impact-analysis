@@ -8,23 +8,23 @@ const csvFiles = {
   SownAreaRabi: 'sown_area',
   IrrigatedAreaRabi: 'irrigated_area',
   IrrigatedAreaKharif: 'irrigated_area',
-  SoilMoistureIndexJan: 'soil_moisture_index',
-  SoilMoistureIndexJune: 'soil_moisture_index'
+  SoilMoistureIndexNov: 'soil_moisture_index',
+  SoilMoistureIndexOct: 'soil_moisture_index'
 };
 
 const bucketFolders = {
   LandUse: {
     wc1: {
-      2006: 'mapToCloudExample_fullvis',
-      2016: 'mapToCloudExample_fullvis_2017_18'
+      2015: 'LandUse_wc123_2015_z14',
+      2015: 'LandUse_wc123_2015_z14'
     },
     wc2: {
-      2007: 'mapToCloudExample_fullvis',
-      2017: 'mapToCloudExample_fullvis_2017_18'
+      2015: 'LandUse_wc123_2015_z14',
+      2015: 'LandUse_wc123_2015_z14'
     },
     wc3: {
-      2008: 'mapToCloudExample_fullvis',
-      2018: 'mapToCloudExample_fullvis_2017_18'
+      2015: 'LandUse_wc123_2015_z14',
+      2015: 'LandUse_wc123_2015_z14'
     }
   },
   SownAreaKharif: {
@@ -43,16 +43,16 @@ const bucketFolders = {
   },
   SownAreaRabi: {
     wc1: {
-      2016: 'mapToCloudExample_fullvis',
-      2017: 'mapToCloudExample_fullvis_2017_18'
+      2015: 'SownAreaRabi_wc123_2015_z14',
+      2016: 'SownAreaRabi_wc123_2016_z14'
     },
     wc2: {
-      2017: 'mapToCloudExample_fullvis',
-      2018: 'mapToCloudExample_fullvis_2017_18'
+      2016: 'SownAreaRabi_wc123_2016_z14',
+      2017: 'SownAreaRabi_wc123_2017_z14'
     },
     wc3: {
-      2018: 'mapToCloudExample_fullvis',
-      2019: 'mapToCloudExample_fullvis_2017_18'
+      2017: 'SownAreaRabi_wc123_2017_z14',
+      2018: 'SownAreaRabi_wc123_2018_z14'
     }
   },
   IrrigatedAreaKharif: {
@@ -71,44 +71,44 @@ const bucketFolders = {
   },
   IrrigatedAreaRabi: {
     wc1: {
-      2016: 'mapToCloudExample_fullvis',
-      2017: 'mapToCloudExample_fullvis_2017_18'
+      2015: 'IrrAreaRabi_wc123_2015_z14',
+      2016: 'IrrAreaRabi_wc123_2016_z14'
     },
     wc2: {
-      2017: 'mapToCloudExample_fullvis',
-      2018: 'mapToCloudExample_fullvis_2017_18'
+      2016: 'IrrAreaRabi_wc123_2016_z14',
+      2017: 'IrrAreaRabi_wc123_2017_z14'
     },
     wc3: {
-      2018: 'mapToCloudExample_fullvis',
-      2019: 'mapToCloudExample_fullvis_2017_18'
+      2017: 'IrrAreaRabi_wc123_2017_z14',
+      2018: 'IrrAreaRabi_wc123_2018_z14'
     }
   },
-  SoilMoistureIndexJune: {
+  SoilMoistureIndexOct: {
     wc1: {
-      2016: 'mapToCloudExample_fullvis',
-      2017: 'mapToCloudExample_fullvis_2017_18'
+      2015: '',
+      2016: 'smClasses_Oct2016_wc123_z14'
     },
     wc2: {
-      2017: 'mapToCloudExample_fullvis',
-      2018: 'mapToCloudExample_fullvis_2017_18'
+      2016: 'smClasses_Oct2016_wc123_z14',
+      2017: 'smClasses_Oct2017_wc123_z14'
     },
     wc3: {
-      2018: 'mapToCloudExample_fullvis',
-      2019: 'mapToCloudExample_fullvis_2017_18'
+      2017: 'smClasses_Oct2017_wc123_z14',
+      2018: 'smClasses_Oct2018_wc123_z14'
     }
   },
-  SoilMoistureIndexJan: {
+  SoilMoistureIndexNov: {
     wc1: {
-      2016: 'mapToCloudExample_fullvis',
-      2017: 'mapToCloudExample_fullvis_2017_18'
+      2015: '',
+      2016: 'smClasses_Nov2016_wc123_z14'
     },
     wc2: {
-      2017: 'mapToCloudExample_fullvis',
-      2018: 'mapToCloudExample_fullvis_2017_18'
+      2016: 'smClasses_Nov2016_wc123_z14',
+      2017: 'smClasses_Nov2017_wc123_z14'
     },
     wc3: {
-      2018: 'mapToCloudExample_fullvis',
-      2019: 'mapToCloudExample_fullvis_2017_18'
+      2017: 'smClasses_Nov2017_wc123_z14',
+      2018: 'smClasses_Nov2018_wc123_z14'
     }
   }
 };
@@ -117,45 +117,45 @@ module.exports = {
   MapTiles: {
     LandUse: {
       wc1: {
-        '2006':
+        '2015':
           'https://storage.googleapis.com/' +
           bucketName +
           '/' +
-          bucketFolders.LandUse.wc1['2006'] +
+          bucketFolders.LandUse.wc1['2015'] +
           '/{z}/{x}/{y}',
-        '2016':
+        '2015':
           'https://storage.googleapis.com/' +
           bucketName +
           '/' +
-          bucketFolders.LandUse.wc1['2016'] +
+          bucketFolders.LandUse.wc1['2015'] +
           '/{z}/{x}/{y}'
       },
       wc2: {
-        '2007':
+        '2015':
           'https://storage.googleapis.com/' +
           bucketName +
           '/' +
-          bucketFolders.LandUse.wc2['2007'] +
+          bucketFolders.LandUse.wc2['2015'] +
           '/{z}/{x}/{y}',
-        '2017':
+        '2015':
           'https://storage.googleapis.com/' +
           bucketName +
           '/' +
-          bucketFolders.LandUse.wc2['2017'] +
+          bucketFolders.LandUse.wc2['2015'] +
           '/{z}/{x}/{y}'
       },
       wc3: {
-        '2008':
+        '2015':
           'https://storage.googleapis.com/' +
           bucketName +
           '/' +
-          bucketFolders.LandUse.wc3['2008'] +
+          bucketFolders.LandUse.wc3['2015'] +
           '/{z}/{x}/{y}',
-        '2018':
+        '2015':
           'https://storage.googleapis.com/' +
           bucketName +
           '/' +
-          bucketFolders.LandUse.wc3['2018'] +
+          bucketFolders.LandUse.wc3['2015'] +
           '/{z}/{x}/{y}'
       }
     },
@@ -205,45 +205,45 @@ module.exports = {
     },
     SownAreaRabi: {
       wc1: {
+        '2015':
+          'https://storage.googleapis.com/' +
+          bucketName +
+          '/' +
+          bucketFolders.SownAreaRabi.wc1['2015'] +
+          '/{z}/{x}/{y}',
         '2016':
           'https://storage.googleapis.com/' +
           bucketName +
           '/' +
           bucketFolders.SownAreaRabi.wc1['2016'] +
-          '/{z}/{x}/{y}',
-        '2017':
-          'https://storage.googleapis.com/' +
-          bucketName +
-          '/' +
-          bucketFolders.SownAreaRabi.wc1['2017'] +
           '/{z}/{x}/{y}'
       },
       wc2: {
+        '2016':
+          'https://storage.googleapis.com/' +
+          bucketName +
+          '/' +
+          bucketFolders.SownAreaRabi.wc2['2016'] +
+          '/{z}/{x}/{y}',
         '2017':
           'https://storage.googleapis.com/' +
           bucketName +
           '/' +
           bucketFolders.SownAreaRabi.wc2['2017'] +
-          '/{z}/{x}/{y}',
-        '2018':
-          'https://storage.googleapis.com/' +
-          bucketName +
-          '/' +
-          bucketFolders.SownAreaRabi.wc2['2018'] +
           '/{z}/{x}/{y}'
       },
       wc3: {
+        '2017':
+          'https://storage.googleapis.com/' +
+          bucketName +
+          '/' +
+          bucketFolders.SownAreaRabi.wc3['2017'] +
+          '/{z}/{x}/{y}',
         '2018':
           'https://storage.googleapis.com/' +
           bucketName +
           '/' +
           bucketFolders.SownAreaRabi.wc3['2018'] +
-          '/{z}/{x}/{y}',
-        '2019':
-          'https://storage.googleapis.com/' +
-          bucketName +
-          '/' +
-          bucketFolders.SownAreaRabi.wc3['2019'] +
           '/{z}/{x}/{y}'
       }
     },
@@ -293,133 +293,133 @@ module.exports = {
     },
     IrrigatedAreaRabi: {
       wc1: {
+        '2015':
+          'https://storage.googleapis.com/' +
+          bucketName +
+          '/' +
+          bucketFolders.IrrigatedAreaRabi.wc1['2015'] +
+          '/{z}/{x}/{y}',
         '2016':
           'https://storage.googleapis.com/' +
           bucketName +
           '/' +
           bucketFolders.IrrigatedAreaRabi.wc1['2016'] +
-          '/{z}/{x}/{y}',
-        '2017':
-          'https://storage.googleapis.com/' +
-          bucketName +
-          '/' +
-          bucketFolders.IrrigatedAreaRabi.wc1['2017'] +
           '/{z}/{x}/{y}'
       },
       wc2: {
+        '2016':
+          'https://storage.googleapis.com/' +
+          bucketName +
+          '/' +
+          bucketFolders.IrrigatedAreaRabi.wc2['2016'] +
+          '/{z}/{x}/{y}',
         '2017':
           'https://storage.googleapis.com/' +
           bucketName +
           '/' +
           bucketFolders.IrrigatedAreaRabi.wc2['2017'] +
-          '/{z}/{x}/{y}',
-        '2018':
-          'https://storage.googleapis.com/' +
-          bucketName +
-          '/' +
-          bucketFolders.IrrigatedAreaRabi.wc2['2018'] +
           '/{z}/{x}/{y}'
       },
       wc3: {
+        '2017':
+          'https://storage.googleapis.com/' +
+          bucketName +
+          '/' +
+          bucketFolders.IrrigatedAreaRabi.wc3['2017'] +
+          '/{z}/{x}/{y}',
         '2018':
           'https://storage.googleapis.com/' +
           bucketName +
           '/' +
           bucketFolders.IrrigatedAreaRabi.wc3['2018'] +
-          '/{z}/{x}/{y}',
-        '2019':
-          'https://storage.googleapis.com/' +
-          bucketName +
-          '/' +
-          bucketFolders.IrrigatedAreaRabi.wc3['2019'] +
           '/{z}/{x}/{y}'
       }
     },
-    SoilMoistureIndexJune: {
+    SoilMoistureIndexOct: {
       wc1: {
+        '2015':
+          'https://storage.googleapis.com/' +
+          bucketName +
+          '/' +
+          bucketFolders.SoilMoistureIndexOct.wc1['2015'] +
+          '/{z}/{x}/{y}',
         '2016':
           'https://storage.googleapis.com/' +
           bucketName +
           '/' +
-          bucketFolders.SoilMoistureIndexJune.wc1['2016'] +
-          '/{z}/{x}/{y}',
-        '2017':
-          'https://storage.googleapis.com/' +
-          bucketName +
-          '/' +
-          bucketFolders.SoilMoistureIndexJune.wc1['2017'] +
+          bucketFolders.SoilMoistureIndexOct.wc1['2016'] +
           '/{z}/{x}/{y}'
       },
       wc2: {
-        '2017':
-          'https://storage.googleapis.com/' +
-          bucketName +
-          '/' +
-          bucketFolders.SoilMoistureIndexJune.wc2['2017'] +
-          '/{z}/{x}/{y}',
-        '2018':
-          'https://storage.googleapis.com/' +
-          bucketName +
-          '/' +
-          bucketFolders.SoilMoistureIndexJune.wc2['2018'] +
-          '/{z}/{x}/{y}'
-      },
-      wc3: {
-        '2018':
-          'https://storage.googleapis.com/' +
-          bucketName +
-          '/' +
-          bucketFolders.SoilMoistureIndexJune.wc3['2018'] +
-          '/{z}/{x}/{y}',
-        '2019':
-          'https://storage.googleapis.com/' +
-          bucketName +
-          '/' +
-          bucketFolders.SoilMoistureIndexJune.wc3['2019'] +
-          '/{z}/{x}/{y}'
-      }
-    },
-    SoilMoistureIndexJan: {
-      wc1: {
         '2016':
           'https://storage.googleapis.com/' +
           bucketName +
           '/' +
-          bucketFolders.SoilMoistureIndexJan.wc1['2016'] +
+          bucketFolders.SoilMoistureIndexOct.wc2['2016'] +
           '/{z}/{x}/{y}',
         '2017':
           'https://storage.googleapis.com/' +
           bucketName +
           '/' +
-          bucketFolders.SoilMoistureIndexJan.wc1['2017'] +
-          '/{z}/{x}/{y}'
-      },
-      wc2: {
-        '2017':
-          'https://storage.googleapis.com/' +
-          bucketName +
-          '/' +
-          bucketFolders.SoilMoistureIndexJan.wc2['2017'] +
-          '/{z}/{x}/{y}',
-        '2018':
-          'https://storage.googleapis.com/' +
-          bucketName +
-          '/' +
-          bucketFolders.SoilMoistureIndexJan.wc2['2018'] +
+          bucketFolders.SoilMoistureIndexOct.wc2['2017'] +
           '/{z}/{x}/{y}'
       },
       wc3: {
+        '2017':
+          'https://storage.googleapis.com/' +
+          bucketName +
+          '/' +
+          bucketFolders.SoilMoistureIndexOct.wc3['2017'] +
+          '/{z}/{x}/{y}',
         '2018':
           'https://storage.googleapis.com/' +
           bucketName +
           '/' +
-          bucketFolders.SoilMoistureIndexJan.wc3['2018'] +
-          '/{z}/{x}/{y}',
-        '2019':
+          bucketFolders.SoilMoistureIndexOct.wc3['2018'] +
+          '/{z}/{x}/{y}'
+      }
+    },
+    SoilMoistureIndexNov: {
+      wc1: {
+        '2015':
           'https://storage.googleapis.com/' +
           bucketName +
           '/' +
-          bucketFolders.SoilMoistureIndexJan.wc3['2019'] +
+          bucketFolders.SoilMoistureIndexNov.wc1['2015'] +
+          '/{z}/{x}/{y}',
+        '2016':
+          'https://storage.googleapis.com/' +
+          bucketName +
+          '/' +
+          bucketFolders.SoilMoistureIndexNov.wc1['2016'] +
+          '/{z}/{x}/{y}'
+      },
+      wc2: {
+        '2016':
+          'https://storage.googleapis.com/' +
+          bucketName +
+          '/' +
+          bucketFolders.SoilMoistureIndexNov.wc2['2016'] +
+          '/{z}/{x}/{y}',
+        '2017':
+          'https://storage.googleapis.com/' +
+          bucketName +
+          '/' +
+          bucketFolders.SoilMoistureIndexNov.wc2['2017'] +
+          '/{z}/{x}/{y}'
+      },
+      wc3: {
+        '2017':
+          'https://storage.googleapis.com/' +
+          bucketName +
+          '/' +
+          bucketFolders.SoilMoistureIndexNov.wc3['2017'] +
+          '/{z}/{x}/{y}',
+        '2018':
+          'https://storage.googleapis.com/' +
+          bucketName +
+          '/' +
+          bucketFolders.SoilMoistureIndexNov.wc3['2018'] +
           '/{z}/{x}/{y}'
       }
     }
@@ -427,44 +427,47 @@ module.exports = {
   MapInfo: {
     LandUse: {
       Legend: {
-        Water: '#5DADE2',
-        Grassland: '#BEE60B',
-        Builtup: '#000',
-        Agriculture: '#0DB11F',
-        Forest: '#225215'
+        Water: '#0000FF',
+        Grassland: '#87FF3D',
+		Shrubland: '#E3A534',
+        BuiltUp: '#FF0000',
+		Barren: "#F2C167",
+        Agriculture: '#F4F73B',
+		Forest: '#2C8720'
       },
       Description: 'Land Use Maps'
     },
     SownArea: {
       Legend: {
-        Fallow: '#DEC80D',
-        Sown: '#1BB30B'
+        Fallow: '#603B33',
+        Sown: '#39A115'
       },
       Description: 'Sown area Maps'
     },
     IrrigatedArea: {
       Legend: {
-        'Non-irrigated': '#676A6B',
-        Irrigated: '#30D4EE'
+        'Low': '#FE1C00',
+        'Medium': '#F2FF17',
+        'High': '#3449E7'
       },
       Description: 'IrrigatedArea Maps'
     },
 
-    SoilMoistureIndexJune: {
+    SoilMoistureIndexOct: {
       Legend: {
-        '0-10': '#676A6B',
-        '10-20': '#5DADE2',
-        '20-30': '#30D4EE'
+        '0-25': '#832803',
+        '25-75': '#E9EFD9',
+        '75-100': '#1B2773'
       },
-      Description: 'Soil Moisture June Maps'
+      Description: 'Soil Moisture Oct Maps'
     },
-    SoilMoistureIndexJan: {
+    SoilMoistureIndexNov: {
       Legend: {
-        '0-10': '#30D4EE',
-        '10-20': '#5DADE2',
-        '20-30': '#676A6B'
+        '0-25': '#832803',
+        '25-75': '#E9EFD9',
+        '75-100': '#1B2773'
       },
-      Description: 'Soil Moisture Jan Maps'
+      Description: 'Soil Moisture Nov Maps'
     }
   },
   csvFileURLs: {
@@ -509,21 +512,21 @@ module.exports = {
       '/' +
       csvFiles.IrrigatedAreaKharif +
       '.csv',
-    SoilMoistureIndexJan:
+    SoilMoistureIndexNov:
       'https://storage.googleapis.com/' +
       csvBucketName +
       '/' +
       csvBucketFolder +
       '/' +
-      csvFiles.SoilMoistureIndexJan +
+      csvFiles.SoilMoistureIndexNov +
       '.csv',
-    SoilMoistureIndexJune:
+    SoilMoistureIndexOct:
       'https://storage.googleapis.com/' +
       csvBucketName +
       '/' +
       csvBucketFolder +
       '/' +
-      csvFiles.SoilMoistureIndexJune +
+      csvFiles.SoilMoistureIndexOct +
       '.csv'
   }
 };

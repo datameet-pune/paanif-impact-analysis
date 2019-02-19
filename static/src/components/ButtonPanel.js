@@ -30,6 +30,7 @@ class ButtonPanel extends Component {
 
   saveImage() {
     console.log('in saveImage');
+	let self = this;
     $('.gmnoprint').attr('data-html2canvas-ignore', true);
     $('.gm-fullscreen-control')
       // .parent()
@@ -123,7 +124,7 @@ class ButtonPanel extends Component {
                     setTimeout(function() {
                       // console.log('Canvas2Image');
                       Canvas2Image('myCanvas6', {
-                        name: 'myImage',
+                        name: self.props.village.villageName,
                         type: 'jpg',
                         quality: 0.7
                       });

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "wc3_TCsample140_simpDP_vlgcd2011_543660",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "gml_id": "Maharashtra_village.20107", "stname": "Maharashtra", "dtname": "Yavatmal", "gpname": "Chondi", "ipname": "Ralegaon", "stcensus": 27, "dtcensus": "510", "gpcode": "194506", "ipcode": "04091", "villname": "Chondhi", "vlgcd2011": "543660", "vlgcd2001": "01858900", "wc1": null, "wc2": "y", "wc3": "y", "control": null, "area": 5.09 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 78.532556060000047, 20.198272245000055 ], [ 78.549278211000058, 20.199393531000055 ], [ 78.551311386000066, 20.198413162000065 ], [ 78.554133214000046, 20.196793739000043 ], [ 78.554818945000079, 20.185763867000048 ], [ 78.543488596000032, 20.181528517000061 ], [ 78.541818804000059, 20.176474003000067 ], [ 78.534539149000068, 20.178109299000027 ], [ 78.529513013000042, 20.177328007000028 ], [ 78.529488142000048, 20.18650185100006 ], [ 78.532556060000047, 20.198272245000055 ] ] ] } }
+]
+}

@@ -181,7 +181,11 @@ class Map extends Component {
     });
     this.map1.overlayMapTypes.removeAt(0);
     this.map1.overlayMapTypes.setAt(0, imageMapType);
-    this.map1.overlayMapTypes.getAt(0).setOpacity(this.props.opacity);
+    try {
+      this.map1.overlayMapTypes.getAt(0).setOpacity(this.props.opacity);
+    } catch (error) {
+      console.log('Unable to set opacity of missing layer');
+    }
     this.updateLegend();
     this.updateMapDesc();
   }
@@ -231,7 +235,11 @@ class Map extends Component {
       });
     }
     if (prevProps.opacity !== this.props.opacity) {
-      this.map1.overlayMapTypes.getAt(0).setOpacity(this.props.opacity);
+      try {
+        this.map1.overlayMapTypes.getAt(0).setOpacity(this.props.opacity);
+      } catch (error) {
+        console.log('Unable to change opacity of missing layer');
+      }
     }
     const self = this;
 

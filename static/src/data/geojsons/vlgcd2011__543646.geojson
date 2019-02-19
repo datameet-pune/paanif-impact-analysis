@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "wc3_TCsample140_simpDP_vlgcd2011_543646",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "gml_id": "Maharashtra_village.19562", "stname": "Maharashtra", "dtname": "Yavatmal", "gpname": "Sakhi Kd", "ipname": "Ralegaon", "stcensus": 27, "dtcensus": "510", "gpcode": "194540", "ipcode": "04091", "villname": "Sakhi-Kh", "vlgcd2011": "543646", "vlgcd2001": "01857500", "wc1": null, "wc2": null, "wc3": null, "control": "y", "area": 7.35 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 78.505705464000073, 20.24924595400006 ], [ 78.523158998000042, 20.246965855000042 ], [ 78.537456626000051, 20.239033538000058 ], [ 78.537158135000084, 20.23693399900003 ], [ 78.535025487000041, 20.233094110000025 ], [ 78.533714635000081, 20.225386989000071 ], [ 78.530927482000038, 20.222380731000044 ], [ 78.518276366000066, 20.225034271000027 ], [ 78.509542597000063, 20.225516018000064 ], [ 78.50576000500007, 20.234875596000052 ], [ 78.505705464000073, 20.24924595400006 ] ] ] } }
+]
+}

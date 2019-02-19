@@ -1,21 +1,1988 @@
-vlgcd2011,Villname,Year,Land Use Class,in Hectares,in percentage
-529781,MIRZAPUR,2007,Agriculture,672.56,54.9
-529781,MIRZAPUR,2007,Built-up,24.02,1.96
-529781,MIRZAPUR,2007,Water,24.02,1.96
-529781,MIRZAPUR,2007,Forest,84.07,6.86
-529781,MIRZAPUR,2007,Grassland,420.35,34.31
-529781,MIRZAPUR,2017,Agriculture,600.5,51.02
-529781,MIRZAPUR,2017,Built-up,24.02,2.04
-529781,MIRZAPUR,2017,Water,36.03,3.06
-529781,MIRZAPUR,2017,Forest,108.09,9.18
-529781,MIRZAPUR,2017,Grassland,408.34,34.69
-530573,KHERDA KH. ,2007,Agriculture,671.56,54.9
-530573,KHERDA KH. ,2007,Built-up,25.02,1.96
-530573,KHERDA KH. ,2007,Water,23.02,1.96
-530573,KHERDA KH. ,2007,Forest,85.07,6.86
-530573,KHERDA KH. ,2007,Grassland,420.35,34.31
-530573,KHERDA KH. ,2017,Agriculture,600.5,51.02
-530573,KHERDA KH. ,2017,Built-up,24.02,2.04
-530573,KHERDA KH. ,2017,Water,36.03,3.06
-530573,KHERDA KH. ,2017,Forest,108.09,9.18
-530573,KHERDA KH. ,2017,Grassland,408.34,34.69
+568509,Pare,2015,builtUp,18,1
+568618,Kamkatrewadi,2015,builtUp,22,4
+568575,Sherewadi,2015,builtUp,8,3
+568571,Palaskhel,2015,builtUp,58,11
+568541,Balvadi (Kha),2015,builtUp,30,1
+568524,Jondhalkhindi,2015,builtUp,3,0
+568519,Sangole,2015,builtUp,5,1
+563669,Rui,2015,builtUp,6,1
+563637,Bichukale,2015,builtUp,4,0
+563623,Anbatwadi,2015,builtUp,4,1
+556461,Waghapur,2015,builtUp,30,3
+556457,Pokhar,2015,builtUp,0,0
+556492,Sakurde,2015,builtUp,11,1
+556987,Takrarwadi,2015,builtUp,2,1
+556984,Shetphalgadhe,2015,builtUp,95,6
+556995,Nirgude,2015,builtUp,89,4
+557053,Ghorpadwadi,2015,builtUp,11,2
+563383,Anubhulewadi (N.V.),2015,builtUp,1,0
+563655,Bodhewadi (N.V.),2015,builtUp,1,0
+563370,Parkhandi,2015,builtUp,8,1
+563394,Bidal,2015,builtUp,51,2
+563429,Kiraksal,2015,builtUp,14,1
+563685,Bodhewadi (N.V.),2015,builtUp,2,0
+563687,Ramusmachi,2015,builtUp,1,1
+563504,Jakhangaon,2015,builtUp,9,1
+563719,Jaygaon,2015,builtUp,4,0
+563511,Bhosare,2015,builtUp,3,0
+563516,Jaygaon,2015,builtUp,3,0
+563722,Velu,2015,builtUp,7,1
+563726,Nhavi bk,2015,builtUp,6,0
+563727,Pawarwadi,2015,builtUp,4,1
+563743,Nagzari,2015,builtUp,5,0
+563551,Yelmarwadi,2015,builtUp,2,0
+568571,Palaskhel,2015,builtUp,100,7
+561191,Pathasangvi,2015,builtUp,4,0
+561192,Walha,2015,builtUp,5,0
+561109,Kumbhephal,2015,builtUp,2,0
+561083,Bodakha,2015,builtUp,2,1
+561221,Hiwara,2015,builtUp,3,0
+561315,Shelka Dhanora,2015,builtUp,2,0
+561316,Kherda,2015,builtUp,1,0
+559725,Kashidwadi,2015,builtUp,1,0
+559752,Chandansawargaon,2015,builtUp,2,0
+559773,Kalam Amba,2015,builtUp,1,0
+559780,Palaskheda,2015,builtUp,1,0
+559851,Jaybhaychi Wadi,2015,builtUp,0,0
+559834,Wharkarwadi,2015,builtUp,1,0
+559831,Amla,2015,builtUp,2,0
+560013,Yelda,2015,builtUp,4,0
+560019,Dongar Pimpla,2015,builtUp,2,0
+559995,Shripatrayachiwadi,2015,builtUp,1,0
+560027,Selu Amba,2015,builtUp,3,0
+560018,Shepwadi,2015,builtUp,28,3
+560036,Daithana Radi,2015,builtUp,2,0
+560008,Patoda,2015,builtUp,10,1
+560000,Kumbephal,2015,builtUp,5,0
+561343,Wathawada,2015,builtUp,4,0
+560694,Ashiv,2015,builtUp,13,1
+562150,Bhagaiwadi,2015,builtUp,1,0
+562165,Raleras,2015,builtUp,1,0
+562181,Hiraj,2015,builtUp,7,0
+562185,Belati,2015,builtUp,9,1
+568871,Maithal,2015,builtUp,12,2
+562602,Wani Chinchol,2015,builtUp,16,1
+562557,Yelmar Mangewadi,2015,builtUp,74,4
+568847,Bagalwadi,2015,builtUp,8,2
+568820,Navalwadi,2015,builtUp,13,2
+562615,Narale,2015,builtUp,11,1
+568832,Belunki,2015,builtUp,34,2
+560811,Tagarkheda,2015,builtUp,9,0
+560808,Halgara,2015,builtUp,11,1
+560808,Halgara,2015,builtUp,0,0
+560808,Halgara,2015,builtUp,0,0
+560826,Nadi Hattarga,2015,builtUp,6,1
+560663,Ramegaon,2015,builtUp,1,0
+560732,Anandwadi (gaur),2015,builtUp,1,15
+560732,Anandwadi (gaur),2015,builtUp,0,0
+560732,Anandwadi (gaur),2015,builtUp,0,0
+560671,Dautpur,2015,builtUp,3,0
+560075,Khapartong,2015,builtUp,2,0
+530354,Pangartati,2015,builtUp,3,0
+530386,Charmoli,2015,builtUp,1,0
+530396,Shirla,2015,builtUp,11,1
+530401,Jambharun,2015,builtUp,2,1
+530537,Hatola,2015,builtUp,5,1
+530573,Kherda Kh.,2015,builtUp,3,0
+530855,Janori,2015,builtUp,1,0
+530861,Kakadshivni,2015,builtUp,2,0
+530904,Jaipur,2015,builtUp,1,0
+543056,Yekamba,2015,builtUp,1,0
+543045,Morchandi,2015,builtUp,1,0
+543678,Kochi,2015,builtUp,6,2
+542300,Rajur,2015,builtUp,10,1
+542307,Khadki,2015,builtUp,1,0
+543594,Warna,2015,builtUp,17,2
+543650,Vedshi,2015,builtUp,16,1
+543659,Khairgaon (kasar),2015,builtUp,6,1
+532486,Sawanga,2015,builtUp,16,2
+532445,Amdapur,2015,builtUp,4,1
+532421,Wathoda,2015,builtUp,16,3
+532420,Musalkhed,2015,builtUp,24,5
+532426,Porgavhan,2015,builtUp,31,3
+533808,BOTHALI,2015,builtUp,2,0
+533818,KAKADDARA,2015,builtUp,0,0
+532367,Tembhurkheda,2015,builtUp,18,1
+532365,Gavhankund,2015,builtUp,5,1
+530919,Dhanj  Bk,2015,builtUp,10,1
+529705,Jitapur Pr. Rupagad,2015,builtUp,3,1
+529722,Umara,2015,builtUp,9,1
+529781,Mirzapur,2015,builtUp,1,0
+530464,Sarav,2015,builtUp,4,1
+530463,Kanheri,2015,builtUp,15,1
+531377,Sadrabardi,2015,builtUp,7,1
+531383,Laktu,2015,builtUp,2,0
+531402,Sawalikheda,2015,builtUp,13,2
+531455,Ghuti,2015,builtUp,6,1
+548964,Khirdi,2015,builtUp,27,3
+549006,Golegaon,2015,builtUp,34,3
+549001,Borwadi,2015,builtUp,5,3
+548725,Dongargaon Kawad,2015,builtUp,28,3
+548745,Waghola,2015,builtUp,10,1
+568779,Shelkewadi,2015,builtUp,9,1
+568528,Renavi,2015,builtUp,5,0
+568650,Biranwadi,2015,builtUp,9,1
+568775,Kerewadi,2015,builtUp,17,3
+568563,Tadachiwadi,2015,builtUp,1,0
+568620,Autewadi,2015,builtUp,18,3
+568620,Autewadi,2015,builtUp,2,2
+568645,Panmalewadi,2015,builtUp,3,1
+563669,Rui,2015,builtUp,6,1
+556457,Pokhar,2015,builtUp,0,0
+556507,Bhairavwadi,2015,builtUp,0,0
+556901,Sawantwadi,2015,builtUp,10,1
+556897,Undavadi Kade Pathar,2015,builtUp,46,3
+556994,Lamjewadi,2015,builtUp,12,2
+557060,Vyahali,2015,builtUp,166,13
+563655,Bodhewadi (N.V.),2015,builtUp,1,0
+563469,Kalewadi,2015,builtUp,1,0
+563416,Mahimangad,2015,builtUp,1,0
+563530,Gopuj,2015,builtUp,14,1
+563518,Nandoshi,2015,builtUp,1,0
+563432,Naravane,2015,builtUp,37,1
+563435,Dhamani,2015,builtUp,38,3
+568584,Ambewadi,2015,builtUp,29,3
+561973,Bhend,2015,builtUp,10,1
+561991,Anjangaon Kh.,2015,builtUp,18,1
+562002,Londhewadi,2015,builtUp,3,1
+561881,Malwadi,2015,builtUp,8,0
+561859,Sarapdoh,2015,builtUp,3,0
+561857,Shelgaon (K),2015,builtUp,3,0
+561062,Katewadi,2015,builtUp,2,0
+558583,Kumbhefal,2015,builtUp,4,1
+558541,Supe,2015,builtUp,7,1
+558534,Diksal,2015,builtUp,10,1
+558833,Anandwadi,2015,builtUp,2,0
+558821,Pimpalgaon Dani,2015,builtUp,3,0
+562011,Khadkoni,2015,builtUp,0,0
+562052,Dhotre,2015,builtUp,5,1
+561305,Bhatshirapura,2015,builtUp,4,1
+561306,Pimpalgaon Dola,2015,builtUp,1,0
+559784,Anandgaon,2015,builtUp,3,0
+559772,Kekat Sarni,2015,builtUp,2,0
+559779,Depewadgaon,2015,builtUp,1,0
+559868,Umbrayachiwadi,2015,builtUp,0,0
+559904,Kavalyachiwadi,2015,builtUp,2,0
+559917,Bhilegaon,2015,builtUp,1,0
+560012,Mandva (pathan),2015,builtUp,3,0
+559988,Chichkhandi,2015,builtUp,1,0
+560028,Pokhari,2015,builtUp,4,0
+560610,Yeloriwadi,2015,builtUp,2,1
+560677,Yekambiwadi,2015,builtUp,1,0
+561477,Kawaldara Tanda,2015,builtUp,1,0
+561458,Sakanewadi,2015,builtUp,3,0
+561446,Darphal,2015,builtUp,2,0
+562164,Honsal,2015,builtUp,2,0
+562158,Wadala,2015,builtUp,9,1
+562181,Hiraj,2015,builtUp,7,0
+562694,Asabewadi,2015,builtUp,1,1
+568864,Lakdewadi,2015,builtUp,17,2
+562653,Jitti,2015,builtUp,7,1
+568844,Avandhi,2015,builtUp,31,1
+568849,Mokashawadi,2015,builtUp,4,1
+544882,Nanda Bk.,2015,builtUp,0,0
+544888,Hadoli,2015,builtUp,2,0
+545238,Kalambar Kh.,2015,builtUp,1,0
+560888,Kamaroddinpur,2015,builtUp,2,0
+560890,Nagtirthawadi,2015,builtUp,1,0
+560805,Koyachiwadi,2015,builtUp,0,0
+560806,Rajewadi,2015,builtUp,0,0
+560804,Sangaraddiwadi,2015,builtUp,1,0
+560805,Koyachiwadi,2015,builtUp,0,0
+560805,Koyachiwadi,2015,builtUp,0,0
+560805,Koyachiwadi,2015,builtUp,0,0
+545303,Wagdarwadi,2015,builtUp,1,0
+546633,Jununwadi,2015,builtUp,0,0
+546579,Jamb kh,2015,builtUp,1,0
+546555,Sawargaon,2015,builtUp,3,0
+530353,Sawargaon,2015,builtUp,7,0
+530358,Malsoor,2015,builtUp,15,1
+530461,Chohagaon,2015,builtUp,2,1
+530452,Lohgadtanda (N.V.),2015,builtUp,3,1
+530743,Chakwa,2015,builtUp,1,0
+530573,Kherda Kh.,2015,builtUp,3,0
+530851,Bhadshivni,2015,builtUp,3,0
+530896,Vilegaon,2015,builtUp,3,0
+530753,Borwha bk.,2015,builtUp,0,0
+542574,Shelodi,2015,builtUp,4,1
+542636,Bothgavan,2015,builtUp,1,0
+542627,Tapona,2015,builtUp,1,0
+542933,Kalambula,2015,builtUp,2,0
+546127,Ramwadi,2015,builtUp,1,0
+546221,Kupti,2015,builtUp,0,0
+546194,Jaroda,2015,builtUp,2,0
+542983,Parjana,2015,builtUp,2,0
+534248,FATTEPUR,2015,builtUp,5,1
+534225,EKAMBA,2015,builtUp,15,4
+534240,TALNI(BHAGWAT),2015,builtUp,3,1
+542298,Tirzada,2015,builtUp,14,2
+542227,Narsapur,2015,builtUp,9,1
+543646,Sakhi-Kh,2015,builtUp,3,0
+543660,Chondhi,2015,builtUp,1,0
+542477,Dharamgaon,2015,builtUp,2,1
+543331,Pandhurna Bk,2015,builtUp,1,0
+543343,Kumbhari,2015,builtUp,3,0
+542433,Shiwani Bk.,2015,builtUp,5,1
+532376,Pimpalkhuta,2015,builtUp,0,0
+532425,Beskheda,2015,builtUp,4,1
+533621,Nandora,2015,builtUp,1,0
+533617,Kajali,2015,builtUp,4,1
+533813,AJANGAON,2015,builtUp,6,1
+533814,TEMBHARI,2015,builtUp,2,1
+534004,KHADKA,2015,builtUp,2,1
+533913,GAIMUKH,2015,builtUp,2,1
+533957,REHAKI(KALA),2015,builtUp,9,2
+534819,Gondegaon,2015,builtUp,1,0
+534815,Gaimukh,2015,builtUp,4,1
+531606,Hilda,2015,builtUp,1,1
+531539,Makhala,2015,builtUp,1,0
+532333,Katsur,2015,builtUp,6,1
+532342,Shirajgaon,2015,builtUp,5,1
+533063,Kanzara,2015,builtUp,3,0
+533065,Mokhad,2015,builtUp,5,1
+533105,Pimpalgaon (Bainai),2015,builtUp,3,1
+529748,Dangarkhed,2015,builtUp,1,1
+529702,Rahnapur,2015,builtUp,0,0
+529702,Rahnapur,2015,builtUp,2,1
+529621,Chipi,2015,builtUp,4,2
+529703,Shahapur Pr. Rupagad,2015,builtUp,5,1
+528242,Khandvi,2015,builtUp,2,0
+528208,Wadgaon,2015,builtUp,2,1
+528364,Manardi,2015,builtUp,1,0
+528362,Kakoda,2015,builtUp,0,0
+528294,Salwan,2015,builtUp,15,5
+531457,Mansubhawdi,2015,builtUp,57,15
+531449,Jutpani,2015,builtUp,5,1
+527450,Dahiwad Kh.,2015,builtUp,1,0
+527462,Nagaon Kh.,2015,builtUp,4,1
+528661,Ridhora Khandopant,2015,builtUp,2,0
+528658,Sindkhed,2015,builtUp,3,1
+528208,Wadgaon  Patan,2015,builtUp,1,0
+558036,Jambhali,2015,builtUp,5,0
+558056,Jogewadi,2015,builtUp,7,1
+558731,Bandkhel,2015,builtUp,4,1
+557949,Kaudgaon,2015,builtUp,13,2
+549002,Mamnapur,2015,builtUp,24,4
+549000,Gadana,2015,builtUp,19,3
+549002,Mamnapur,2015,builtUp,0,0
+548985,Mahamadpur,2015,builtUp,4,2
+548675,Nidhona,2015,builtUp,17,1
+548671,Wawana,2015,builtUp,8,1
+548662,Hiwara,2015,builtUp,5,0
+550460,Bopane,2015,builtUp,4,1
+549125,Palkhed,2015,builtUp,3,0
+549131,Ballali Sagaj,2015,builtUp,1,0
+558098,Mehekari,2015,builtUp,2,0
+558072,Manjar Sumbha,2015,builtUp,3,0
+558288,Nandur Pathar,2015,builtUp,12,1
+558268,Palaspur,2015,builtUp,26,1
+551152,Wadzire,2015,builtUp,13,1
+551195,Mohu,2015,builtUp,25,2
+550493,Urdhul,2015,builtUp,3,0
+527524,Javakhede,2015,builtUp,10,1
+525668,Dhamdai,2015,builtUp,4,1
+525665,Adachhi,2015,builtUp,5,1
+568509,Pare,2015,barren,271,16
+568618,Kamkatrewadi,2015,barren,308,58
+568575,Sherewadi,2015,barren,210,75
+568571,Palaskhel,2015,barren,194,35
+568541,Balvadi (Kha),2015,barren,986,38
+568524,Jondhalkhindi,2015,barren,345,44
+568519,Sangole,2015,barren,257,42
+563669,Rui,2015,barren,101,16
+563637,Bichukale,2015,barren,38,4
+563623,Anbatwadi,2015,barren,39,7
+556461,Waghapur,2015,barren,444,39
+556457,Pokhar,2015,barren,36,18
+556492,Sakurde,2015,barren,306,25
+556987,Takrarwadi,2015,barren,0,0
+556984,Shetphalgadhe,2015,barren,163,9
+556995,Nirgude,2015,barren,264,11
+557053,Ghorpadwadi,2015,barren,1,0
+563383,Anubhulewadi (N.V.),2015,barren,341,61
+563655,Bodhewadi (N.V.),2015,barren,22,13
+563370,Parkhandi,2015,barren,398,42
+563394,Bidal,2015,barren,929,38
+563429,Kiraksal,2015,barren,739,41
+563685,Bodhewadi (N.V.),2015,barren,172,30
+563687,Ramusmachi,2015,barren,62,30
+563504,Jakhangaon,2015,barren,121,13
+563719,Jaygaon,2015,barren,151,16
+563511,Bhosare,2015,barren,172,20
+563516,Jaygaon,2015,barren,454,38
+563722,Velu,2015,barren,285,24
+563726,Nhavi bk,2015,barren,362,24
+563727,Pawarwadi,2015,barren,148,36
+563743,Nagzari,2015,barren,380,19
+563551,Yelmarwadi,2015,barren,246,44
+568571,Palaskhel,2015,barren,1038,70
+561191,Pathasangvi,2015,barren,43,4
+561192,Walha,2015,barren,27,3
+561109,Kumbhephal,2015,barren,24,3
+561083,Bodakha,2015,barren,15,4
+561221,Hiwara,2015,barren,186,22
+561315,Shelka Dhanora,2015,barren,16,3
+561316,Kherda,2015,barren,2,1
+559725,Kashidwadi,2015,barren,5,2
+559752,Chandansawargaon,2015,barren,14,1
+559773,Kalam Amba,2015,barren,85,5
+559780,Palaskheda,2015,barren,0,0
+559851,Jaybhaychi Wadi,2015,barren,29,11
+559834,Wharkarwadi,2015,barren,58,10
+559831,Amla,2015,barren,23,2
+560013,Yelda,2015,barren,109,6
+560019,Dongar Pimpla,2015,barren,83,5
+559995,Shripatrayachiwadi,2015,barren,30,9
+560027,Selu Amba,2015,barren,34,5
+560018,Shepwadi,2015,barren,345,35
+560036,Daithana Radi,2015,barren,0,0
+560008,Patoda,2015,barren,39,2
+560000,Kumbephal,2015,barren,21,2
+561343,Wathawada,2015,barren,327,22
+560694,Ashiv,2015,barren,15,1
+562150,Bhagaiwadi,2015,barren,94,24
+562165,Raleras,2015,barren,11,2
+562181,Hiraj,2015,barren,908,39
+562185,Belati,2015,barren,153,15
+568871,Maithal,2015,barren,381,56
+562602,Wani Chinchol,2015,barren,873,50
+562557,Yelmar Mangewadi,2015,barren,638,31
+568847,Bagalwadi,2015,barren,84,23
+568820,Navalwadi,2015,barren,314,41
+562615,Narale,2015,barren,770,63
+568832,Belunki,2015,barren,723,41
+560811,Tagarkheda,2015,barren,21,1
+560808,Halgara,2015,barren,14,1
+560808,Halgara,2015,barren,0,0
+560808,Halgara,2015,barren,0,0
+560826,Nadi Hattarga,2015,barren,36,5
+560663,Ramegaon,2015,barren,57,5
+560732,Anandwadi (gaur),2015,barren,0,0
+560732,Anandwadi (gaur),2015,barren,0,0
+560732,Anandwadi (gaur),2015,barren,0,0
+560671,Dautpur,2015,barren,58,6
+560075,Khapartong,2015,barren,84,14
+530354,Pangartati,2015,barren,115,15
+530386,Charmoli,2015,barren,8,1
+530396,Shirla,2015,barren,331,28
+530401,Jambharun,2015,barren,53,12
+530537,Hatola,2015,barren,52,8
+530573,Kherda Kh.,2015,barren,60,8
+530855,Janori,2015,barren,18,3
+530861,Kakadshivni,2015,barren,67,9
+530904,Jaipur,2015,barren,8,2
+543056,Yekamba,2015,barren,14,1
+543045,Morchandi,2015,barren,4,1
+543678,Kochi,2015,barren,0,0
+542300,Rajur,2015,barren,0,0
+542307,Khadki,2015,barren,0,0
+543594,Warna,2015,barren,0,0
+543650,Vedshi,2015,barren,0,0
+543659,Khairgaon (kasar),2015,barren,0,0
+532486,Sawanga,2015,barren,0,0
+532445,Amdapur,2015,barren,0,0
+532421,Wathoda,2015,barren,0,0
+532420,Musalkhed,2015,barren,0,0
+532426,Porgavhan,2015,barren,0,0
+533808,BOTHALI,2015,barren,0,0
+533818,KAKADDARA,2015,barren,0,0
+532367,Tembhurkheda,2015,barren,0,0
+532365,Gavhankund,2015,barren,0,0
+530919,Dhanj  Bk,2015,barren,84,10
+529705,Jitapur Pr. Rupagad,2015,barren,0,0
+529722,Umara,2015,barren,0,0
+529781,Mirzapur,2015,barren,0,0
+530464,Sarav,2015,barren,284,46
+530463,Kanheri,2015,barren,219,14
+531377,Sadrabardi,2015,barren,0,0
+531383,Laktu,2015,barren,0,0
+531402,Sawalikheda,2015,barren,0,0
+531455,Ghuti,2015,barren,0,0
+548964,Khirdi,2015,barren,212,20
+549006,Golegaon,2015,barren,154,15
+549001,Borwadi,2015,barren,5,3
+548725,Dongargaon Kawad,2015,barren,184,19
+548745,Waghola,2015,barren,161,17
+568779,Shelkewadi,2015,barren,443,60
+568528,Renavi,2015,barren,652,39
+568650,Biranwadi,2015,barren,705,60
+568775,Kerewadi,2015,barren,260,42
+568563,Tadachiwadi,2015,barren,164,31
+568620,Autewadi,2015,barren,151,29
+568620,Autewadi,2015,barren,6,7
+568645,Panmalewadi,2015,barren,21,9
+563669,Rui,2015,barren,101,16
+556457,Pokhar,2015,barren,36,18
+556507,Bhairavwadi,2015,barren,89,30
+556901,Sawantwadi,2015,barren,314,42
+556897,Undavadi Kade Pathar,2015,barren,515,37
+556994,Lamjewadi,2015,barren,72,13
+557060,Vyahali,2015,barren,426,33
+563655,Bodhewadi (N.V.),2015,barren,22,13
+563469,Kalewadi,2015,barren,77,28
+563416,Mahimangad,2015,barren,367,46
+563530,Gopuj,2015,barren,460,44
+563518,Nandoshi,2015,barren,240,39
+563432,Naravane,2015,barren,1634,52
+563435,Dhamani,2015,barren,652,50
+568584,Ambewadi,2015,barren,587,55
+561973,Bhend,2015,barren,658,37
+561991,Anjangaon Kh.,2015,barren,703,31
+562002,Londhewadi,2015,barren,8,2
+561881,Malwadi,2015,barren,678,40
+561859,Sarapdoh,2015,barren,64,9
+561857,Shelgaon (K),2015,barren,245,30
+561062,Katewadi,2015,barren,26,7
+558583,Kumbhefal,2015,barren,233,53
+558541,Supe,2015,barren,357,34
+558534,Diksal,2015,barren,315,25
+558833,Anandwadi,2015,barren,56,13
+558821,Pimpalgaon Dani,2015,barren,55,8
+562011,Khadkoni,2015,barren,99,16
+562052,Dhotre,2015,barren,159,16
+561305,Bhatshirapura,2015,barren,8,1
+561306,Pimpalgaon Dola,2015,barren,19,3
+559784,Anandgaon,2015,barren,74,6
+559772,Kekat Sarni,2015,barren,0,0
+559779,Depewadgaon,2015,barren,14,2
+559868,Umbrayachiwadi,2015,barren,37,9
+559904,Kavalyachiwadi,2015,barren,17,3
+559917,Bhilegaon,2015,barren,42,9
+560012,Mandva (pathan),2015,barren,160,10
+559988,Chichkhandi,2015,barren,72,5
+560028,Pokhari,2015,barren,33,3
+560610,Yeloriwadi,2015,barren,120,33
+560677,Yekambiwadi,2015,barren,47,13
+561477,Kawaldara Tanda,2015,barren,64,27
+561458,Sakanewadi,2015,barren,36,6
+561446,Darphal,2015,barren,13,3
+562164,Honsal,2015,barren,113,10
+562158,Wadala,2015,barren,158,10
+562181,Hiraj,2015,barren,908,39
+562694,Asabewadi,2015,barren,64,30
+568864,Lakdewadi,2015,barren,615,57
+562653,Jitti,2015,barren,369,39
+568844,Avandhi,2015,barren,1161,51
+568849,Mokashawadi,2015,barren,205,40
+544882,Nanda Bk.,2015,barren,82,13
+544888,Hadoli,2015,barren,168,14
+545238,Kalambar Kh.,2015,barren,11,3
+560888,Kamaroddinpur,2015,barren,0,0
+560890,Nagtirthawadi,2015,barren,4,2
+560805,Koyachiwadi,2015,barren,0,0
+560806,Rajewadi,2015,barren,24,12
+560804,Sangaraddiwadi,2015,barren,3,1
+560805,Koyachiwadi,2015,barren,0,0
+560805,Koyachiwadi,2015,barren,0,0
+560805,Koyachiwadi,2015,barren,0,0
+545303,Wagdarwadi,2015,barren,318,39
+546633,Jununwadi,2015,barren,160,24
+546579,Jamb kh,2015,barren,200,42
+546555,Sawargaon,2015,barren,135,17
+530353,Sawargaon,2015,barren,397,15
+530358,Malsoor,2015,barren,180,16
+530461,Chohagaon,2015,barren,50,12
+530452,Lohgadtanda (N.V.),2015,barren,136,35
+530743,Chakwa,2015,barren,9,4
+530573,Kherda Kh.,2015,barren,60,8
+530851,Bhadshivni,2015,barren,4,1
+530896,Vilegaon,2015,barren,8,1
+530753,Borwha bk.,2015,barren,13,4
+542574,Shelodi,2015,barren,144,19
+542636,Bothgavan,2015,barren,24,7
+542627,Tapona,2015,barren,136,28
+542933,Kalambula,2015,barren,8,1
+546127,Ramwadi,2015,barren,114,30
+546221,Kupti,2015,barren,30,4
+546194,Jaroda,2015,barren,299,44
+542983,Parjana,2015,barren,43,12
+534248,FATTEPUR,2015,barren,0,0
+534225,EKAMBA,2015,barren,0,0
+534240,TALNI(BHAGWAT),2015,barren,0,0
+542298,Tirzada,2015,barren,0,0
+542227,Narsapur,2015,barren,0,0
+543646,Sakhi-Kh,2015,barren,0,0
+543660,Chondhi,2015,barren,0,0
+542477,Dharamgaon,2015,barren,0,0
+543331,Pandhurna Bk,2015,barren,37,6
+543343,Kumbhari,2015,barren,230,27
+542433,Shiwani Bk.,2015,barren,0,0
+532376,Pimpalkhuta,2015,barren,0,0
+532425,Beskheda,2015,barren,0,0
+533621,Nandora,2015,barren,0,0
+533617,Kajali,2015,barren,0,0
+533813,AJANGAON,2015,barren,0,0
+533814,TEMBHARI,2015,barren,0,0
+534004,KHADKA,2015,barren,0,0
+533913,GAIMUKH,2015,barren,0,0
+533957,REHAKI(KALA),2015,barren,0,0
+534819,Gondegaon,2015,barren,0,0
+534815,Gaimukh,2015,barren,0,0
+531606,Hilda,2015,barren,0,0
+531539,Makhala,2015,barren,0,0
+532333,Katsur,2015,barren,0,0
+532342,Shirajgaon,2015,barren,0,0
+533063,Kanzara,2015,barren,31,4
+533065,Mokhad,2015,barren,77,8
+533105,Pimpalgaon (Bainai),2015,barren,10,2
+529748,Dangarkhed,2015,barren,0,0
+529702,Rahnapur,2015,barren,0,0
+529702,Rahnapur,2015,barren,0,0
+529621,Chipi,2015,barren,0,0
+529703,Shahapur Pr. Rupagad,2015,barren,0,0
+528242,Khandvi,2015,barren,4,1
+528208,Wadgaon,2015,barren,0,0
+528364,Manardi,2015,barren,2,1
+528362,Kakoda,2015,barren,12,3
+528294,Salwan,2015,barren,0,0
+531457,Mansubhawdi,2015,barren,0,0
+531449,Jutpani,2015,barren,0,0
+527450,Dahiwad Kh.,2015,barren,0,0
+527462,Nagaon Kh.,2015,barren,33,6
+528661,Ridhora Khandopant,2015,barren,89,10
+528658,Sindkhed,2015,barren,27,7
+528208,Wadgaon  Patan,2015,barren,79,16
+558036,Jambhali,2015,barren,64,6
+558056,Jogewadi,2015,barren,69,12
+558731,Bandkhel,2015,barren,51,7
+557949,Kaudgaon,2015,barren,36,6
+549002,Mamnapur,2015,barren,84,15
+549000,Gadana,2015,barren,32,6
+549002,Mamnapur,2015,barren,0,0
+548985,Mahamadpur,2015,barren,47,20
+548675,Nidhona,2015,barren,173,13
+548671,Wawana,2015,barren,64,9
+548662,Hiwara,2015,barren,278,26
+550460,Bopane,2015,barren,9,3
+549125,Palkhed,2015,barren,54,3
+549131,Ballali Sagaj,2015,barren,35,4
+558098,Mehekari,2015,barren,284,25
+558072,Manjar Sumbha,2015,barren,186,18
+558288,Nandur Pathar,2015,barren,331,25
+558268,Palaspur,2015,barren,934,48
+551152,Wadzire,2015,barren,370,29
+551195,Mohu,2015,barren,261,26
+550493,Urdhul,2015,barren,97,11
+527524,Javakhede,2015,barren,91,5
+525668,Dhamdai,2015,barren,7,2
+525665,Adachhi,2015,barren,10,2
+568509,Pare,2015,cropland,567,34
+568618,Kamkatrewadi,2015,cropland,165,31
+568575,Sherewadi,2015,cropland,48,17
+568571,Palaskhel,2015,cropland,245,45
+568541,Balvadi (Kha),2015,cropland,1153,45
+568524,Jondhalkhindi,2015,cropland,216,28
+568519,Sangole,2015,cropland,227,37
+563669,Rui,2015,cropland,400,63
+563637,Bichukale,2015,cropland,511,49
+563623,Anbatwadi,2015,cropland,365,70
+556461,Waghapur,2015,cropland,453,40
+556457,Pokhar,2015,cropland,47,23
+556492,Sakurde,2015,cropland,615,50
+556987,Takrarwadi,2015,cropland,79,28
+556984,Shetphalgadhe,2015,cropland,1218,71
+556995,Nirgude,2015,cropland,1701,68
+557053,Ghorpadwadi,2015,cropland,400,76
+563383,Anubhulewadi (N.V.),2015,cropland,218,39
+563655,Bodhewadi (N.V.),2015,cropland,107,64
+563370,Parkhandi,2015,cropland,422,45
+563394,Bidal,2015,cropland,1250,51
+563429,Kiraksal,2015,cropland,947,53
+563685,Bodhewadi (N.V.),2015,cropland,247,43
+563687,Ramusmachi,2015,cropland,113,54
+563504,Jakhangaon,2015,cropland,646,71
+563719,Jaygaon,2015,cropland,321,34
+563511,Bhosare,2015,cropland,543,63
+563516,Jaygaon,2015,cropland,487,41
+563722,Velu,2015,cropland,379,32
+563726,Nhavi bk,2015,cropland,547,36
+563727,Pawarwadi,2015,cropland,164,40
+563743,Nagzari,2015,cropland,785,40
+563551,Yelmarwadi,2015,cropland,265,48
+568571,Palaskhel,2015,cropland,283,19
+561191,Pathasangvi,2015,cropland,961,88
+561192,Walha,2015,cropland,905,88
+561109,Kumbhephal,2015,cropland,733,83
+561083,Bodakha,2015,cropland,356,91
+561221,Hiwara,2015,cropland,371,43
+561315,Shelka Dhanora,2015,cropland,522,91
+561316,Kherda,2015,cropland,313,91
+559725,Kashidwadi,2015,cropland,242,84
+559752,Chandansawargaon,2015,cropland,986,90
+559773,Kalam Amba,2015,cropland,1423,91
+559780,Palaskheda,2015,cropland,467,90
+559851,Jaybhaychi Wadi,2015,cropland,154,58
+559834,Wharkarwadi,2015,cropland,248,44
+559831,Amla,2015,cropland,466,49
+560013,Yelda,2015,cropland,1343,69
+560019,Dongar Pimpla,2015,cropland,1165,71
+559995,Shripatrayachiwadi,2015,cropland,297,85
+560027,Selu Amba,2015,cropland,610,85
+560018,Shepwadi,2015,cropland,487,50
+560036,Daithana Radi,2015,cropland,342,87
+560008,Patoda,2015,cropland,1422,90
+560000,Kumbephal,2015,cropland,889,91
+561343,Wathawada,2015,cropland,1056,71
+560694,Ashiv,2015,cropland,2107,87
+562150,Bhagaiwadi,2015,cropland,256,65
+562165,Raleras,2015,cropland,521,91
+562181,Hiraj,2015,cropland,1138,49
+562185,Belati,2015,cropland,664,64
+568871,Maithal,2015,cropland,256,38
+562602,Wani Chinchol,2015,cropland,802,46
+562557,Yelmar Mangewadi,2015,cropland,1158,56
+568847,Bagalwadi,2015,cropland,239,64
+568820,Navalwadi,2015,cropland,413,54
+562615,Narale,2015,cropland,400,33
+568832,Belunki,2015,cropland,881,50
+560811,Tagarkheda,2015,cropland,1590,91
+560808,Halgara,2015,cropland,1466,92
+560808,Halgara,2015,cropland,44,91
+560808,Halgara,2015,cropland,3,94
+560826,Nadi Hattarga,2015,cropland,573,83
+560663,Ramegaon,2015,cropland,1080,89
+560732,Anandwadi (gaur),2015,cropland,4,50
+560732,Anandwadi (gaur),2015,cropland,96,91
+560732,Anandwadi (gaur),2015,cropland,37,88
+560671,Dautpur,2015,cropland,914,87
+560075,Khapartong,2015,cropland,472,78
+530354,Pangartati,2015,cropland,334,45
+530386,Charmoli,2015,cropland,169,15
+530396,Shirla,2015,cropland,529,45
+530401,Jambharun,2015,cropland,312,72
+530537,Hatola,2015,cropland,475,73
+530573,Kherda Kh.,2015,cropland,528,70
+530855,Janori,2015,cropland,582,90
+530861,Kakadshivni,2015,cropland,616,79
+530904,Jaipur,2015,cropland,285,81
+543056,Yekamba,2015,cropland,109,10
+543045,Morchandi,2015,cropland,349,70
+543678,Kochi,2015,cropland,297,81
+542300,Rajur,2015,cropland,182,13
+542307,Khadki,2015,cropland,84,16
+543594,Warna,2015,cropland,286,25
+543650,Vedshi,2015,cropland,769,40
+543659,Khairgaon (kasar),2015,cropland,384,39
+532486,Sawanga,2015,cropland,320,43
+532445,Amdapur,2015,cropland,225,62
+532421,Wathoda,2015,cropland,450,77
+532420,Musalkhed,2015,cropland,261,53
+532426,Porgavhan,2015,cropland,598,58
+533808,BOTHALI,2015,cropland,134,24
+533818,KAKADDARA,2015,cropland,183,54
+532367,Tembhurkheda,2015,cropland,983,69
+532365,Gavhankund,2015,cropland,335,62
+530919,Dhanj  Bk,2015,cropland,644,79
+529705,Jitapur Pr. Rupagad,2015,cropland,421,82
+529722,Umara,2015,cropland,511,71
+529781,Mirzapur,2015,cropland,161,91
+530464,Sarav,2015,cropland,244,40
+530463,Kanheri,2015,cropland,1040,65
+531377,Sadrabardi,2015,cropland,509,67
+531383,Laktu,2015,cropland,380,47
+531402,Sawalikheda,2015,cropland,657,80
+531455,Ghuti,2015,cropland,431,84
+548964,Khirdi,2015,cropland,544,51
+549006,Golegaon,2015,cropland,537,52
+549001,Borwadi,2015,cropland,120,70
+548725,Dongargaon Kawad,2015,cropland,507,51
+548745,Waghola,2015,cropland,307,33
+568779,Shelkewadi,2015,cropland,225,31
+568528,Renavi,2015,cropland,479,29
+568650,Biranwadi,2015,cropland,232,20
+568775,Kerewadi,2015,cropland,235,38
+568563,Tadachiwadi,2015,cropland,146,27
+568620,Autewadi,2015,cropland,208,39
+568620,Autewadi,2015,cropland,32,35
+568645,Panmalewadi,2015,cropland,120,50
+563669,Rui,2015,cropland,400,63
+556457,Pokhar,2015,cropland,47,23
+556507,Bhairavwadi,2015,cropland,27,9
+556901,Sawantwadi,2015,cropland,392,52
+556897,Undavadi Kade Pathar,2015,cropland,744,54
+556994,Lamjewadi,2015,cropland,409,76
+557060,Vyahali,2015,cropland,607,47
+563655,Bodhewadi (N.V.),2015,cropland,107,64
+563469,Kalewadi,2015,cropland,146,53
+563416,Mahimangad,2015,cropland,357,45
+563530,Gopuj,2015,cropland,412,39
+563518,Nandoshi,2015,cropland,142,23
+563432,Naravane,2015,cropland,1176,37
+563435,Dhamani,2015,cropland,566,44
+568584,Ambewadi,2015,cropland,382,36
+561973,Bhend,2015,cropland,921,52
+561991,Anjangaon Kh.,2015,cropland,1318,59
+562002,Londhewadi,2015,cropland,283,85
+561881,Malwadi,2015,cropland,979,57
+561859,Sarapdoh,2015,cropland,654,87
+561857,Shelgaon (K),2015,cropland,528,65
+561062,Katewadi,2015,cropland,318,87
+558583,Kumbhefal,2015,cropland,187,42
+558541,Supe,2015,cropland,648,62
+558534,Diksal,2015,cropland,893,71
+558833,Anandwadi,2015,cropland,348,80
+558821,Pimpalgaon Dani,2015,cropland,599,83
+562011,Khadkoni,2015,cropland,411,65
+562052,Dhotre,2015,cropland,803,78
+561305,Bhatshirapura,2015,cropland,466,88
+561306,Pimpalgaon Dola,2015,cropland,640,90
+559784,Anandgaon,2015,cropland,964,79
+559772,Kekat Sarni,2015,cropland,697,97
+559779,Depewadgaon,2015,cropland,536,90
+559868,Umbrayachiwadi,2015,cropland,337,78
+559904,Kavalyachiwadi,2015,cropland,441,68
+559917,Bhilegaon,2015,cropland,355,79
+560012,Mandva (pathan),2015,cropland,743,48
+559988,Chichkhandi,2015,cropland,975,67
+560028,Pokhari,2015,cropland,883,90
+560610,Yeloriwadi,2015,cropland,216,60
+560677,Yekambiwadi,2015,cropland,263,75
+561477,Kawaldara Tanda,2015,cropland,165,69
+561458,Sakanewadi,2015,cropland,578,90
+561446,Darphal,2015,cropland,495,93
+562164,Honsal,2015,cropland,867,80
+562158,Wadala,2015,cropland,1300,79
+562181,Hiraj,2015,cropland,1138,49
+562694,Asabewadi,2015,cropland,144,67
+568864,Lakdewadi,2015,cropland,423,39
+562653,Jitti,2015,cropland,541,57
+568844,Avandhi,2015,cropland,954,42
+568849,Mokashawadi,2015,cropland,267,52
+544882,Nanda Bk.,2015,cropland,448,70
+544888,Hadoli,2015,cropland,470,40
+545238,Kalambar Kh.,2015,cropland,220,60
+560888,Kamaroddinpur,2015,cropland,637,96
+560890,Nagtirthawadi,2015,cropland,245,94
+560805,Koyachiwadi,2015,cropland,5,99
+560806,Rajewadi,2015,cropland,155,76
+560804,Sangaraddiwadi,2015,cropland,331,91
+560805,Koyachiwadi,2015,cropland,18,98
+560805,Koyachiwadi,2015,cropland,41,98
+560805,Koyachiwadi,2015,cropland,21,98
+545303,Wagdarwadi,2015,cropland,252,30
+546633,Jununwadi,2015,cropland,180,27
+546579,Jamb kh,2015,cropland,258,54
+546555,Sawargaon,2015,cropland,544,70
+530353,Sawargaon,2015,cropland,847,32
+530358,Malsoor,2015,cropland,715,62
+530461,Chohagaon,2015,cropland,258,64
+530452,Lohgadtanda (N.V.),2015,cropland,137,35
+530743,Chakwa,2015,cropland,181,70
+530573,Kherda Kh.,2015,cropland,528,70
+530851,Bhadshivni,2015,cropland,672,88
+530896,Vilegaon,2015,cropland,991,87
+530753,Borwha bk.,2015,cropland,216,68
+542574,Shelodi,2015,cropland,400,54
+542636,Bothgavan,2015,cropland,164,49
+542627,Tapona,2015,cropland,232,48
+542933,Kalambula,2015,cropland,262,51
+546127,Ramwadi,2015,cropland,195,51
+546221,Kupti,2015,cropland,567,83
+546194,Jaroda,2015,cropland,283,41
+542983,Parjana,2015,cropland,215,59
+534248,FATTEPUR,2015,cropland,359,60
+534225,EKAMBA,2015,cropland,291,77
+534240,TALNI(BHAGWAT),2015,cropland,328,71
+542298,Tirzada,2015,cropland,220,35
+542227,Narsapur,2015,cropland,383,46
+543646,Sakhi-Kh,2015,cropland,230,32
+543660,Chondhi,2015,cropland,141,28
+542477,Dharamgaon,2015,cropland,46,22
+543331,Pandhurna Bk,2015,cropland,394,67
+543343,Kumbhari,2015,cropland,348,40
+542433,Shiwani Bk.,2015,cropland,264,28
+532376,Pimpalkhuta,2015,cropland,205,71
+532425,Beskheda,2015,cropland,358,79
+533621,Nandora,2015,cropland,70,20
+533617,Kajali,2015,cropland,206,56
+533813,AJANGAON,2015,cropland,493,44
+533814,TEMBHARI,2015,cropland,143,35
+534004,KHADKA,2015,cropland,215,64
+533913,GAIMUKH,2015,cropland,224,77
+533957,REHAKI(KALA),2015,cropland,332,78
+534819,Gondegaon,2015,cropland,187,37
+534815,Gaimukh,2015,cropland,155,58
+531606,Hilda,2015,cropland,58,40
+531539,Makhala,2015,cropland,191,26
+532333,Katsur,2015,cropland,726,88
+532342,Shirajgaon,2015,cropland,609,88
+533063,Kanzara,2015,cropland,679,82
+533065,Mokhad,2015,cropland,734,78
+533105,Pimpalgaon (Bainai),2015,cropland,364,78
+529748,Dangarkhed,2015,cropland,43,36
+529702,Rahnapur,2015,cropland,12,46
+529702,Rahnapur,2015,cropland,181,68
+529621,Chipi,2015,cropland,60,32
+529703,Shahapur Pr. Rupagad,2015,cropland,170,48
+528242,Khandvi,2015,cropland,426,74
+528208,Wadgaon,2015,cropland,206,84
+528364,Manardi,2015,cropland,327,90
+528362,Kakoda,2015,cropland,310,79
+528294,Salwan,2015,cropland,79,24
+531457,Mansubhawdi,2015,cropland,289,75
+531449,Jutpani,2015,cropland,594,71
+527450,Dahiwad Kh.,2015,cropland,579,94
+527462,Nagaon Kh.,2015,cropland,459,81
+528661,Ridhora Khandopant,2015,cropland,570,67
+528658,Sindkhed,2015,cropland,291,72
+528208,Wadgaon  Patan,2015,cropland,330,68
+558036,Jambhali,2015,cropland,754,71
+558056,Jogewadi,2015,cropland,370,65
+558731,Bandkhel,2015,cropland,518,74
+557949,Kaudgaon,2015,cropland,494,79
+549002,Mamnapur,2015,cropland,294,52
+549000,Gadana,2015,cropland,414,77
+549002,Mamnapur,2015,cropland,25,90
+548985,Mahamadpur,2015,cropland,127,53
+548675,Nidhona,2015,cropland,606,46
+548671,Wawana,2015,cropland,346,51
+548662,Hiwara,2015,cropland,459,43
+550460,Bopane,2015,cropland,301,87
+549125,Palkhed,2015,cropland,1431,86
+549131,Ballali Sagaj,2015,cropland,725,90
+558098,Mehekari,2015,cropland,583,51
+558072,Manjar Sumbha,2015,cropland,574,56
+558288,Nandur Pathar,2015,cropland,589,44
+558268,Palaspur,2015,cropland,692,36
+551152,Wadzire,2015,cropland,678,53
+551195,Mohu,2015,cropland,582,57
+550493,Urdhul,2015,cropland,769,83
+527524,Javakhede,2015,cropland,1244,74
+525668,Dhamdai,2015,cropland,424,93
+525665,Adachhi,2015,cropland,488,92
+568509,Pare,2015,grassland,0,0
+568618,Kamkatrewadi,2015,grassland,0,0
+568575,Sherewadi,2015,grassland,0,0
+568571,Palaskhel,2015,grassland,0,0
+568541,Balvadi (Kha),2015,grassland,0,0
+568524,Jondhalkhindi,2015,grassland,0,0
+568519,Sangole,2015,grassland,0,0
+563669,Rui,2015,grassland,0,0
+563637,Bichukale,2015,grassland,0,0
+563623,Anbatwadi,2015,grassland,0,0
+556461,Waghapur,2015,grassland,0,0
+556457,Pokhar,2015,grassland,0,0
+556492,Sakurde,2015,grassland,0,0
+556987,Takrarwadi,2015,grassland,0,0
+556984,Shetphalgadhe,2015,grassland,0,0
+556995,Nirgude,2015,grassland,0,0
+557053,Ghorpadwadi,2015,grassland,0,0
+563383,Anubhulewadi (N.V.),2015,grassland,0,0
+563655,Bodhewadi (N.V.),2015,grassland,0,0
+563370,Parkhandi,2015,grassland,0,0
+563394,Bidal,2015,grassland,0,0
+563429,Kiraksal,2015,grassland,0,0
+563685,Bodhewadi (N.V.),2015,grassland,0,0
+563687,Ramusmachi,2015,grassland,0,0
+563504,Jakhangaon,2015,grassland,0,0
+563719,Jaygaon,2015,grassland,0,0
+563511,Bhosare,2015,grassland,0,0
+563516,Jaygaon,2015,grassland,0,0
+563722,Velu,2015,grassland,0,0
+563726,Nhavi bk,2015,grassland,0,0
+563727,Pawarwadi,2015,grassland,0,0
+563743,Nagzari,2015,grassland,0,0
+563551,Yelmarwadi,2015,grassland,0,0
+568571,Palaskhel,2015,grassland,0,0
+561191,Pathasangvi,2015,grassland,0,0
+561192,Walha,2015,grassland,0,0
+561109,Kumbhephal,2015,grassland,0,0
+561083,Bodakha,2015,grassland,0,0
+561221,Hiwara,2015,grassland,0,0
+561315,Shelka Dhanora,2015,grassland,0,0
+561316,Kherda,2015,grassland,0,0
+559725,Kashidwadi,2015,grassland,0,0
+559752,Chandansawargaon,2015,grassland,0,0
+559773,Kalam Amba,2015,grassland,0,0
+559780,Palaskheda,2015,grassland,0,0
+559851,Jaybhaychi Wadi,2015,grassland,0,0
+559834,Wharkarwadi,2015,grassland,5,1
+559831,Amla,2015,grassland,1,0
+560013,Yelda,2015,grassland,1,0
+560019,Dongar Pimpla,2015,grassland,0,0
+559995,Shripatrayachiwadi,2015,grassland,0,0
+560027,Selu Amba,2015,grassland,0,0
+560018,Shepwadi,2015,grassland,0,0
+560036,Daithana Radi,2015,grassland,0,0
+560008,Patoda,2015,grassland,0,0
+560000,Kumbephal,2015,grassland,0,0
+561343,Wathawada,2015,grassland,0,0
+560694,Ashiv,2015,grassland,0,0
+562150,Bhagaiwadi,2015,grassland,0,0
+562165,Raleras,2015,grassland,0,0
+562181,Hiraj,2015,grassland,0,0
+562185,Belati,2015,grassland,0,0
+568871,Maithal,2015,grassland,0,0
+562602,Wani Chinchol,2015,grassland,0,0
+562557,Yelmar Mangewadi,2015,grassland,0,0
+568847,Bagalwadi,2015,grassland,0,0
+568820,Navalwadi,2015,grassland,0,0
+562615,Narale,2015,grassland,0,0
+568832,Belunki,2015,grassland,0,0
+560811,Tagarkheda,2015,grassland,1,0
+560808,Halgara,2015,grassland,0,0
+560808,Halgara,2015,grassland,0,0
+560808,Halgara,2015,grassland,0,0
+560826,Nadi Hattarga,2015,grassland,0,0
+560663,Ramegaon,2015,grassland,0,0
+560732,Anandwadi (gaur),2015,grassland,0,0
+560732,Anandwadi (gaur),2015,grassland,0,0
+560732,Anandwadi (gaur),2015,grassland,0,0
+560671,Dautpur,2015,grassland,0,0
+560075,Khapartong,2015,grassland,0,0
+530354,Pangartati,2015,grassland,0,0
+530386,Charmoli,2015,grassland,12,1
+530396,Shirla,2015,grassland,0,0
+530401,Jambharun,2015,grassland,0,0
+530537,Hatola,2015,grassland,2,0
+530573,Kherda Kh.,2015,grassland,19,2
+530855,Janori,2015,grassland,4,1
+530861,Kakadshivni,2015,grassland,7,1
+530904,Jaipur,2015,grassland,1,0
+543056,Yekamba,2015,grassland,2,0
+543045,Morchandi,2015,grassland,1,0
+543678,Kochi,2015,grassland,1,0
+542300,Rajur,2015,grassland,46,3
+542307,Khadki,2015,grassland,39,8
+543594,Warna,2015,grassland,174,15
+543650,Vedshi,2015,grassland,91,5
+543659,Khairgaon (kasar),2015,grassland,35,4
+532486,Sawanga,2015,grassland,7,1
+532445,Amdapur,2015,grassland,0,0
+532421,Wathoda,2015,grassland,0,0
+532420,Musalkhed,2015,grassland,11,2
+532426,Porgavhan,2015,grassland,4,0
+533808,BOTHALI,2015,grassland,24,4
+533818,KAKADDARA,2015,grassland,43,13
+532367,Tembhurkheda,2015,grassland,2,0
+532365,Gavhankund,2015,grassland,3,1
+530919,Dhanj  Bk,2015,grassland,2,0
+529705,Jitapur Pr. Rupagad,2015,grassland,0,0
+529722,Umara,2015,grassland,0,0
+529781,Mirzapur,2015,grassland,1,0
+530464,Sarav,2015,grassland,1,0
+530463,Kanheri,2015,grassland,1,0
+531377,Sadrabardi,2015,grassland,16,2
+531383,Laktu,2015,grassland,18,2
+531402,Sawalikheda,2015,grassland,52,6
+531455,Ghuti,2015,grassland,29,6
+548964,Khirdi,2015,grassland,0,0
+549006,Golegaon,2015,grassland,1,0
+549001,Borwadi,2015,grassland,0,0
+548725,Dongargaon Kawad,2015,grassland,1,0
+548745,Waghola,2015,grassland,11,1
+568779,Shelkewadi,2015,grassland,0,0
+568528,Renavi,2015,grassland,0,0
+568650,Biranwadi,2015,grassland,0,0
+568775,Kerewadi,2015,grassland,0,0
+568563,Tadachiwadi,2015,grassland,0,0
+568620,Autewadi,2015,grassland,0,0
+568620,Autewadi,2015,grassland,0,0
+568645,Panmalewadi,2015,grassland,0,0
+563669,Rui,2015,grassland,0,0
+556457,Pokhar,2015,grassland,0,0
+556507,Bhairavwadi,2015,grassland,0,0
+556901,Sawantwadi,2015,grassland,0,0
+556897,Undavadi Kade Pathar,2015,grassland,0,0
+556994,Lamjewadi,2015,grassland,0,0
+557060,Vyahali,2015,grassland,0,0
+563655,Bodhewadi (N.V.),2015,grassland,0,0
+563469,Kalewadi,2015,grassland,0,0
+563416,Mahimangad,2015,grassland,0,0
+563530,Gopuj,2015,grassland,1,0
+563518,Nandoshi,2015,grassland,0,0
+563432,Naravane,2015,grassland,0,0
+563435,Dhamani,2015,grassland,0,0
+568584,Ambewadi,2015,grassland,0,0
+561973,Bhend,2015,grassland,0,0
+561991,Anjangaon Kh.,2015,grassland,0,0
+562002,Londhewadi,2015,grassland,0,0
+561881,Malwadi,2015,grassland,0,0
+561859,Sarapdoh,2015,grassland,0,0
+561857,Shelgaon (K),2015,grassland,0,0
+561062,Katewadi,2015,grassland,0,0
+558583,Kumbhefal,2015,grassland,0,0
+558541,Supe,2015,grassland,0,0
+558534,Diksal,2015,grassland,0,0
+558833,Anandwadi,2015,grassland,0,0
+558821,Pimpalgaon Dani,2015,grassland,0,0
+562011,Khadkoni,2015,grassland,0,0
+562052,Dhotre,2015,grassland,0,0
+561305,Bhatshirapura,2015,grassland,0,0
+561306,Pimpalgaon Dola,2015,grassland,0,0
+559784,Anandgaon,2015,grassland,0,0
+559772,Kekat Sarni,2015,grassland,0,0
+559779,Depewadgaon,2015,grassland,0,0
+559868,Umbrayachiwadi,2015,grassland,1,0
+559904,Kavalyachiwadi,2015,grassland,2,0
+559917,Bhilegaon,2015,grassland,0,0
+560012,Mandva (pathan),2015,grassland,0,0
+559988,Chichkhandi,2015,grassland,2,0
+560028,Pokhari,2015,grassland,1,0
+560610,Yeloriwadi,2015,grassland,0,0
+560677,Yekambiwadi,2015,grassland,0,0
+561477,Kawaldara Tanda,2015,grassland,0,0
+561458,Sakanewadi,2015,grassland,0,0
+561446,Darphal,2015,grassland,0,0
+562164,Honsal,2015,grassland,0,0
+562158,Wadala,2015,grassland,0,0
+562181,Hiraj,2015,grassland,0,0
+562694,Asabewadi,2015,grassland,0,0
+568864,Lakdewadi,2015,grassland,0,0
+562653,Jitti,2015,grassland,0,0
+568844,Avandhi,2015,grassland,0,0
+568849,Mokashawadi,2015,grassland,0,0
+544882,Nanda Bk.,2015,grassland,16,3
+544888,Hadoli,2015,grassland,10,1
+545238,Kalambar Kh.,2015,grassland,0,0
+560888,Kamaroddinpur,2015,grassland,0,0
+560890,Nagtirthawadi,2015,grassland,0,0
+560805,Koyachiwadi,2015,grassland,0,0
+560806,Rajewadi,2015,grassland,0,0
+560804,Sangaraddiwadi,2015,grassland,0,0
+560805,Koyachiwadi,2015,grassland,0,0
+560805,Koyachiwadi,2015,grassland,0,0
+560805,Koyachiwadi,2015,grassland,0,0
+545303,Wagdarwadi,2015,grassland,33,4
+546633,Jununwadi,2015,grassland,0,0
+546579,Jamb kh,2015,grassland,0,0
+546555,Sawargaon,2015,grassland,2,0
+530353,Sawargaon,2015,grassland,2,0
+530358,Malsoor,2015,grassland,1,0
+530461,Chohagaon,2015,grassland,0,0
+530452,Lohgadtanda (N.V.),2015,grassland,1,0
+530743,Chakwa,2015,grassland,5,2
+530573,Kherda Kh.,2015,grassland,19,2
+530851,Bhadshivni,2015,grassland,10,1
+530896,Vilegaon,2015,grassland,6,1
+530753,Borwha bk.,2015,grassland,3,1
+542574,Shelodi,2015,grassland,23,3
+542636,Bothgavan,2015,grassland,8,2
+542627,Tapona,2015,grassland,11,2
+542933,Kalambula,2015,grassland,0,0
+546127,Ramwadi,2015,grassland,5,1
+546221,Kupti,2015,grassland,0,0
+546194,Jaroda,2015,grassland,1,0
+542983,Parjana,2015,grassland,2,0
+534248,FATTEPUR,2015,grassland,41,7
+534225,EKAMBA,2015,grassland,26,7
+534240,TALNI(BHAGWAT),2015,grassland,73,16
+542298,Tirzada,2015,grassland,62,10
+542227,Narsapur,2015,grassland,77,9
+543646,Sakhi-Kh,2015,grassland,19,3
+543660,Chondhi,2015,grassland,35,7
+542477,Dharamgaon,2015,grassland,6,3
+543331,Pandhurna Bk,2015,grassland,2,0
+543343,Kumbhari,2015,grassland,9,1
+542433,Shiwani Bk.,2015,grassland,86,9
+532376,Pimpalkhuta,2015,grassland,0,0
+532425,Beskheda,2015,grassland,2,0
+533621,Nandora,2015,grassland,46,13
+533617,Kajali,2015,grassland,23,6
+533813,AJANGAON,2015,grassland,77,7
+533814,TEMBHARI,2015,grassland,48,12
+534004,KHADKA,2015,grassland,0,0
+533913,GAIMUKH,2015,grassland,0,0
+533957,REHAKI(KALA),2015,grassland,0,0
+534819,Gondegaon,2015,grassland,45,9
+534815,Gaimukh,2015,grassland,9,3
+531606,Hilda,2015,grassland,7,5
+531539,Makhala,2015,grassland,10,1
+532333,Katsur,2015,grassland,12,1
+532342,Shirajgaon,2015,grassland,11,2
+533063,Kanzara,2015,grassland,4,1
+533065,Mokhad,2015,grassland,12,1
+533105,Pimpalgaon (Bainai),2015,grassland,0,0
+529748,Dangarkhed,2015,grassland,5,4
+529702,Rahnapur,2015,grassland,1,4
+529702,Rahnapur,2015,grassland,1,0
+529621,Chipi,2015,grassland,7,3
+529703,Shahapur Pr. Rupagad,2015,grassland,10,3
+528242,Khandvi,2015,grassland,0,0
+528208,Wadgaon,2015,grassland,0,0
+528364,Manardi,2015,grassland,0,0
+528362,Kakoda,2015,grassland,0,0
+528294,Salwan,2015,grassland,15,5
+531457,Mansubhawdi,2015,grassland,17,4
+531449,Jutpani,2015,grassland,35,4
+527450,Dahiwad Kh.,2015,grassland,0,0
+527462,Nagaon Kh.,2015,grassland,0,0
+528661,Ridhora Khandopant,2015,grassland,1,0
+528658,Sindkhed,2015,grassland,0,0
+528208,Wadgaon  Patan,2015,grassland,1,0
+558036,Jambhali,2015,grassland,0,0
+558056,Jogewadi,2015,grassland,0,0
+558731,Bandkhel,2015,grassland,0,0
+557949,Kaudgaon,2015,grassland,0,0
+549002,Mamnapur,2015,grassland,1,0
+549000,Gadana,2015,grassland,0,0
+549002,Mamnapur,2015,grassland,0,0
+548985,Mahamadpur,2015,grassland,0,0
+548675,Nidhona,2015,grassland,1,0
+548671,Wawana,2015,grassland,1,0
+548662,Hiwara,2015,grassland,1,0
+550460,Bopane,2015,grassland,0,0
+549125,Palkhed,2015,grassland,0,0
+549131,Ballali Sagaj,2015,grassland,0,0
+558098,Mehekari,2015,grassland,0,0
+558072,Manjar Sumbha,2015,grassland,0,0
+558288,Nandur Pathar,2015,grassland,0,0
+558268,Palaspur,2015,grassland,0,0
+551152,Wadzire,2015,grassland,0,0
+551195,Mohu,2015,grassland,0,0
+550493,Urdhul,2015,grassland,0,0
+527524,Javakhede,2015,grassland,0,0
+525668,Dhamdai,2015,grassland,0,0
+525665,Adachhi,2015,grassland,0,0
+568509,Pare,2015,shrubland,593,36
+568618,Kamkatrewadi,2015,shrubland,31,6
+568575,Sherewadi,2015,shrubland,12,4
+568571,Palaskhel,2015,shrubland,44,8
+568541,Balvadi (Kha),2015,shrubland,340,13
+568524,Jondhalkhindi,2015,shrubland,187,24
+568519,Sangole,2015,shrubland,108,18
+563669,Rui,2015,shrubland,52,8
+563637,Bichukale,2015,shrubland,321,31
+563623,Anbatwadi,2015,shrubland,62,12
+556461,Waghapur,2015,shrubland,115,10
+556457,Pokhar,2015,shrubland,97,47
+556492,Sakurde,2015,shrubland,282,23
+556987,Takrarwadi,2015,shrubland,6,2
+556984,Shetphalgadhe,2015,shrubland,176,10
+556995,Nirgude,2015,shrubland,335,13
+557053,Ghorpadwadi,2015,shrubland,53,10
+563383,Anubhulewadi (N.V.),2015,shrubland,3,1
+563655,Bodhewadi (N.V.),2015,shrubland,33,20
+563370,Parkhandi,2015,shrubland,95,10
+563394,Bidal,2015,shrubland,185,8
+563429,Kiraksal,2015,shrubland,85,5
+563685,Bodhewadi (N.V.),2015,shrubland,117,21
+563687,Ramusmachi,2015,shrubland,28,13
+563504,Jakhangaon,2015,shrubland,96,10
+563719,Jaygaon,2015,shrubland,380,40
+563511,Bhosare,2015,shrubland,106,12
+563516,Jaygaon,2015,shrubland,227,19
+563722,Velu,2015,shrubland,411,35
+563726,Nhavi bk,2015,shrubland,485,32
+563727,Pawarwadi,2015,shrubland,61,15
+563743,Nagzari,2015,shrubland,677,34
+563551,Yelmarwadi,2015,shrubland,37,7
+568571,Palaskhel,2015,shrubland,43,3
+561191,Pathasangvi,2015,shrubland,70,6
+561192,Walha,2015,shrubland,78,8
+561109,Kumbhephal,2015,shrubland,102,12
+561083,Bodakha,2015,shrubland,17,4
+561221,Hiwara,2015,shrubland,257,30
+561315,Shelka Dhanora,2015,shrubland,22,4
+561316,Kherda,2015,shrubland,13,4
+559725,Kashidwadi,2015,shrubland,30,10
+559752,Chandansawargaon,2015,shrubland,51,5
+559773,Kalam Amba,2015,shrubland,27,2
+559780,Palaskheda,2015,shrubland,31,6
+559851,Jaybhaychi Wadi,2015,shrubland,77,29
+559834,Wharkarwadi,2015,shrubland,211,38
+559831,Amla,2015,shrubland,370,39
+560013,Yelda,2015,shrubland,432,22
+560019,Dongar Pimpla,2015,shrubland,326,20
+559995,Shripatrayachiwadi,2015,shrubland,13,4
+560027,Selu Amba,2015,shrubland,50,7
+560018,Shepwadi,2015,shrubland,97,10
+560036,Daithana Radi,2015,shrubland,32,8
+560008,Patoda,2015,shrubland,72,5
+560000,Kumbephal,2015,shrubland,27,3
+561343,Wathawada,2015,shrubland,71,5
+560694,Ashiv,2015,shrubland,236,10
+562150,Bhagaiwadi,2015,shrubland,40,10
+562165,Raleras,2015,shrubland,28,5
+562181,Hiraj,2015,shrubland,238,10
+562185,Belati,2015,shrubland,177,17
+568871,Maithal,2015,shrubland,18,3
+562602,Wani Chinchol,2015,shrubland,22,1
+562557,Yelmar Mangewadi,2015,shrubland,144,7
+568847,Bagalwadi,2015,shrubland,30,8
+568820,Navalwadi,2015,shrubland,16,2
+562615,Narale,2015,shrubland,28,2
+568832,Belunki,2015,shrubland,77,4
+560811,Tagarkheda,2015,shrubland,84,5
+560808,Halgara,2015,shrubland,83,5
+560808,Halgara,2015,shrubland,4,8
+560808,Halgara,2015,shrubland,0,6
+560826,Nadi Hattarga,2015,shrubland,49,7
+560663,Ramegaon,2015,shrubland,50,4
+560732,Anandwadi (gaur),2015,shrubland,2,28
+560732,Anandwadi (gaur),2015,shrubland,5,5
+560732,Anandwadi (gaur),2015,shrubland,0,1
+560671,Dautpur,2015,shrubland,52,5
+560075,Khapartong,2015,shrubland,34,6
+530354,Pangartati,2015,shrubland,129,17
+530386,Charmoli,2015,shrubland,302,26
+530396,Shirla,2015,shrubland,230,19
+530401,Jambharun,2015,shrubland,53,12
+530537,Hatola,2015,shrubland,50,8
+530573,Kherda Kh.,2015,shrubland,100,13
+530855,Janori,2015,shrubland,35,5
+530861,Kakadshivni,2015,shrubland,43,6
+530904,Jaipur,2015,shrubland,37,11
+543056,Yekamba,2015,shrubland,84,7
+543045,Morchandi,2015,shrubland,14,3
+543678,Kochi,2015,shrubland,11,3
+542300,Rajur,2015,shrubland,619,43
+542307,Khadki,2015,shrubland,220,42
+543594,Warna,2015,shrubland,476,41
+543650,Vedshi,2015,shrubland,609,32
+543659,Khairgaon (kasar),2015,shrubland,238,24
+532486,Sawanga,2015,shrubland,101,13
+532445,Amdapur,2015,shrubland,14,4
+532421,Wathoda,2015,shrubland,30,5
+532420,Musalkhed,2015,shrubland,45,9
+532426,Porgavhan,2015,shrubland,314,30
+533808,BOTHALI,2015,shrubland,295,53
+533818,KAKADDARA,2015,shrubland,47,14
+532367,Tembhurkheda,2015,shrubland,66,5
+532365,Gavhankund,2015,shrubland,54,10
+530919,Dhanj  Bk,2015,shrubland,52,6
+529705,Jitapur Pr. Rupagad,2015,shrubland,26,5
+529722,Umara,2015,shrubland,48,7
+529781,Mirzapur,2015,shrubland,12,7
+530464,Sarav,2015,shrubland,74,12
+530463,Kanheri,2015,shrubland,252,16
+531377,Sadrabardi,2015,shrubland,42,5
+531383,Laktu,2015,shrubland,184,23
+531402,Sawalikheda,2015,shrubland,67,8
+531455,Ghuti,2015,shrubland,29,6
+548964,Khirdi,2015,shrubland,222,21
+549006,Golegaon,2015,shrubland,196,19
+549001,Borwadi,2015,shrubland,26,15
+548725,Dongargaon Kawad,2015,shrubland,212,21
+548745,Waghola,2015,shrubland,330,36
+568779,Shelkewadi,2015,shrubland,44,6
+568528,Renavi,2015,shrubland,452,27
+568650,Biranwadi,2015,shrubland,205,18
+568775,Kerewadi,2015,shrubland,80,13
+568563,Tadachiwadi,2015,shrubland,198,37
+568620,Autewadi,2015,shrubland,121,23
+568620,Autewadi,2015,shrubland,45,48
+568645,Panmalewadi,2015,shrubland,64,27
+563669,Rui,2015,shrubland,52,8
+556457,Pokhar,2015,shrubland,97,47
+556507,Bhairavwadi,2015,shrubland,156,53
+556901,Sawantwadi,2015,shrubland,36,5
+556897,Undavadi Kade Pathar,2015,shrubland,78,6
+556994,Lamjewadi,2015,shrubland,37,7
+557060,Vyahali,2015,shrubland,63,5
+563655,Bodhewadi (N.V.),2015,shrubland,33,20
+563469,Kalewadi,2015,shrubland,40,15
+563416,Mahimangad,2015,shrubland,65,8
+563530,Gopuj,2015,shrubland,150,14
+563518,Nandoshi,2015,shrubland,219,36
+563432,Naravane,2015,shrubland,218,7
+563435,Dhamani,2015,shrubland,17,1
+568584,Ambewadi,2015,shrubland,42,4
+561973,Bhend,2015,shrubland,158,9
+561991,Anjangaon Kh.,2015,shrubland,176,8
+562002,Londhewadi,2015,shrubland,34,10
+561881,Malwadi,2015,shrubland,46,3
+561859,Sarapdoh,2015,shrubland,25,3
+561857,Shelgaon (K),2015,shrubland,30,4
+561062,Katewadi,2015,shrubland,16,5
+558583,Kumbhefal,2015,shrubland,14,3
+558541,Supe,2015,shrubland,28,3
+558534,Diksal,2015,shrubland,35,3
+558833,Anandwadi,2015,shrubland,25,6
+558821,Pimpalgaon Dani,2015,shrubland,58,8
+562011,Khadkoni,2015,shrubland,99,16
+562052,Dhotre,2015,shrubland,45,4
+561305,Bhatshirapura,2015,shrubland,29,6
+561306,Pimpalgaon Dola,2015,shrubland,38,5
+559784,Anandgaon,2015,shrubland,108,9
+559772,Kekat Sarni,2015,shrubland,5,1
+559779,Depewadgaon,2015,shrubland,31,5
+559868,Umbrayachiwadi,2015,shrubland,49,11
+559904,Kavalyachiwadi,2015,shrubland,119,18
+559917,Bhilegaon,2015,shrubland,31,7
+560012,Mandva (pathan),2015,shrubland,576,37
+559988,Chichkhandi,2015,shrubland,365,25
+560028,Pokhari,2015,shrubland,40,4
+560610,Yeloriwadi,2015,shrubland,15,4
+560677,Yekambiwadi,2015,shrubland,37,11
+561477,Kawaldara Tanda,2015,shrubland,9,4
+561458,Sakanewadi,2015,shrubland,13,2
+561446,Darphal,2015,shrubland,14,3
+562164,Honsal,2015,shrubland,87,8
+562158,Wadala,2015,shrubland,167,10
+562181,Hiraj,2015,shrubland,238,10
+562694,Asabewadi,2015,shrubland,5,2
+568864,Lakdewadi,2015,shrubland,14,1
+562653,Jitti,2015,shrubland,26,3
+568844,Avandhi,2015,shrubland,92,4
+568849,Mokashawadi,2015,shrubland,31,6
+544882,Nanda Bk.,2015,shrubland,16,2
+544888,Hadoli,2015,shrubland,197,17
+545238,Kalambar Kh.,2015,shrubland,57,16
+560888,Kamaroddinpur,2015,shrubland,13,2
+560890,Nagtirthawadi,2015,shrubland,9,3
+560805,Koyachiwadi,2015,shrubland,0,1
+560806,Rajewadi,2015,shrubland,23,11
+560804,Sangaraddiwadi,2015,shrubland,17,5
+560805,Koyachiwadi,2015,shrubland,0,0
+560805,Koyachiwadi,2015,shrubland,0,0
+560805,Koyachiwadi,2015,shrubland,0,0
+545303,Wagdarwadi,2015,shrubland,104,13
+546633,Jununwadi,2015,shrubland,222,34
+546579,Jamb kh,2015,shrubland,11,2
+546555,Sawargaon,2015,shrubland,78,10
+530353,Sawargaon,2015,shrubland,827,31
+530358,Malsoor,2015,shrubland,190,16
+530461,Chohagaon,2015,shrubland,73,18
+530452,Lohgadtanda (N.V.),2015,shrubland,95,25
+530743,Chakwa,2015,shrubland,57,22
+530573,Kherda Kh.,2015,shrubland,100,13
+530851,Bhadshivni,2015,shrubland,58,8
+530896,Vilegaon,2015,shrubland,32,3
+530753,Borwha bk.,2015,shrubland,56,18
+542574,Shelodi,2015,shrubland,86,12
+542636,Bothgavan,2015,shrubland,58,17
+542627,Tapona,2015,shrubland,77,16
+542933,Kalambula,2015,shrubland,52,10
+546127,Ramwadi,2015,shrubland,58,15
+546221,Kupti,2015,shrubland,20,3
+546194,Jaroda,2015,shrubland,51,7
+542983,Parjana,2015,shrubland,22,6
+534248,FATTEPUR,2015,shrubland,152,26
+534225,EKAMBA,2015,shrubland,43,11
+534240,TALNI(BHAGWAT),2015,shrubland,55,12
+542298,Tirzada,2015,shrubland,220,35
+542227,Narsapur,2015,shrubland,252,31
+543646,Sakhi-Kh,2015,shrubland,267,37
+543660,Chondhi,2015,shrubland,162,32
+542477,Dharamgaon,2015,shrubland,68,33
+543331,Pandhurna Bk,2015,shrubland,80,14
+543343,Kumbhari,2015,shrubland,233,27
+542433,Shiwani Bk.,2015,shrubland,363,39
+532376,Pimpalkhuta,2015,shrubland,2,1
+532425,Beskheda,2015,shrubland,43,10
+533621,Nandora,2015,shrubland,108,30
+533617,Kajali,2015,shrubland,83,23
+533813,AJANGAON,2015,shrubland,321,29
+533814,TEMBHARI,2015,shrubland,131,32
+534004,KHADKA,2015,shrubland,29,9
+533913,GAIMUKH,2015,shrubland,23,8
+533957,REHAKI(KALA),2015,shrubland,8,2
+534819,Gondegaon,2015,shrubland,142,28
+534815,Gaimukh,2015,shrubland,75,28
+531606,Hilda,2015,shrubland,23,16
+531539,Makhala,2015,shrubland,192,26
+532333,Katsur,2015,shrubland,73,9
+532342,Shirajgaon,2015,shrubland,50,7
+533063,Kanzara,2015,shrubland,76,9
+533065,Mokhad,2015,shrubland,77,8
+533105,Pimpalgaon (Bainai),2015,shrubland,28,6
+529748,Dangarkhed,2015,shrubland,61,51
+529702,Rahnapur,2015,shrubland,10,40
+529702,Rahnapur,2015,shrubland,47,17
+529621,Chipi,2015,shrubland,107,57
+529703,Shahapur Pr. Rupagad,2015,shrubland,138,39
+528242,Khandvi,2015,shrubland,33,6
+528208,Wadgaon,2015,shrubland,15,6
+528364,Manardi,2015,shrubland,20,5
+528362,Kakoda,2015,shrubland,48,12
+528294,Salwan,2015,shrubland,155,47
+531457,Mansubhawdi,2015,shrubland,10,3
+531449,Jutpani,2015,shrubland,50,6
+527450,Dahiwad Kh.,2015,shrubland,6,1
+527462,Nagaon Kh.,2015,shrubland,37,7
+528661,Ridhora Khandopant,2015,shrubland,154,18
+528658,Sindkhed,2015,shrubland,62,15
+528208,Wadgaon  Patan,2015,shrubland,43,9
+558036,Jambhali,2015,shrubland,171,16
+558056,Jogewadi,2015,shrubland,114,20
+558731,Bandkhel,2015,shrubland,116,16
+557949,Kaudgaon,2015,shrubland,74,12
+549002,Mamnapur,2015,shrubland,125,22
+549000,Gadana,2015,shrubland,53,10
+549002,Mamnapur,2015,shrubland,1,4
+548985,Mahamadpur,2015,shrubland,45,19
+548675,Nidhona,2015,shrubland,330,25
+548671,Wawana,2015,shrubland,171,25
+548662,Hiwara,2015,shrubland,280,26
+550460,Bopane,2015,shrubland,27,8
+549125,Palkhed,2015,shrubland,125,8
+549131,Ballali Sagaj,2015,shrubland,39,5
+558098,Mehekari,2015,shrubland,229,20
+558072,Manjar Sumbha,2015,shrubland,221,22
+558288,Nandur Pathar,2015,shrubland,360,27
+558268,Palaspur,2015,shrubland,253,13
+551152,Wadzire,2015,shrubland,169,13
+551195,Mohu,2015,shrubland,119,12
+550493,Urdhul,2015,shrubland,38,4
+527524,Javakhede,2015,shrubland,153,9
+525668,Dhamdai,2015,shrubland,15,3
+525665,Adachhi,2015,shrubland,21,4
+568509,Pare,2015,forest,174,11
+568618,Kamkatrewadi,2015,forest,6,1
+568575,Sherewadi,2015,forest,0,0
+568571,Palaskhel,2015,forest,5,1
+568541,Balvadi (Kha),2015,forest,54,2
+568524,Jondhalkhindi,2015,forest,30,4
+568519,Sangole,2015,forest,18,3
+563669,Rui,2015,forest,80,13
+563637,Bichukale,2015,forest,158,15
+563623,Anbatwadi,2015,forest,50,10
+556461,Waghapur,2015,forest,82,7
+556457,Pokhar,2015,forest,25,12
+556492,Sakurde,2015,forest,26,2
+556987,Takrarwadi,2015,forest,10,4
+556984,Shetphalgadhe,2015,forest,64,4
+556995,Nirgude,2015,forest,101,4
+557053,Ghorpadwadi,2015,forest,56,11
+563383,Anubhulewadi (N.V.),2015,forest,0,0
+563655,Bodhewadi (N.V.),2015,forest,4,3
+563370,Parkhandi,2015,forest,14,2
+563394,Bidal,2015,forest,23,1
+563429,Kiraksal,2015,forest,9,1
+563685,Bodhewadi (N.V.),2015,forest,32,6
+563687,Ramusmachi,2015,forest,4,2
+563504,Jakhangaon,2015,forest,43,5
+563719,Jaygaon,2015,forest,82,9
+563511,Bhosare,2015,forest,33,4
+563516,Jaygaon,2015,forest,31,3
+563722,Velu,2015,forest,98,8
+563726,Nhavi bk,2015,forest,110,7
+563727,Pawarwadi,2015,forest,21,5
+563743,Nagzari,2015,forest,113,6
+563551,Yelmarwadi,2015,forest,8,1
+568571,Palaskhel,2015,forest,6,0
+561191,Pathasangvi,2015,forest,16,2
+561192,Walha,2015,forest,9,1
+561109,Kumbhephal,2015,forest,24,3
+561083,Bodakha,2015,forest,3,1
+561221,Hiwara,2015,forest,24,3
+561315,Shelka Dhanora,2015,forest,12,2
+561316,Kherda,2015,forest,15,4
+559725,Kashidwadi,2015,forest,12,4
+559752,Chandansawargaon,2015,forest,42,4
+559773,Kalam Amba,2015,forest,20,1
+559780,Palaskheda,2015,forest,18,3
+559851,Jaybhaychi Wadi,2015,forest,2,1
+559834,Wharkarwadi,2015,forest,39,7
+559831,Amla,2015,forest,68,7
+560013,Yelda,2015,forest,44,2
+560019,Dongar Pimpla,2015,forest,28,2
+559995,Shripatrayachiwadi,2015,forest,6,2
+560027,Selu Amba,2015,forest,18,2
+560018,Shepwadi,2015,forest,13,1
+560036,Daithana Radi,2015,forest,17,4
+560008,Patoda,2015,forest,30,2
+560000,Kumbephal,2015,forest,31,3
+561343,Wathawada,2015,forest,10,1
+560694,Ashiv,2015,forest,60,2
+562150,Bhagaiwadi,2015,forest,2,1
+562165,Raleras,2015,forest,12,2
+562181,Hiraj,2015,forest,42,2
+562185,Belati,2015,forest,37,4
+568871,Maithal,2015,forest,9,1
+562602,Wani Chinchol,2015,forest,7,0
+562557,Yelmar Mangewadi,2015,forest,33,2
+568847,Bagalwadi,2015,forest,12,3
+568820,Navalwadi,2015,forest,5,1
+562615,Narale,2015,forest,10,1
+568832,Belunki,2015,forest,43,2
+560811,Tagarkheda,2015,forest,29,2
+560808,Halgara,2015,forest,22,1
+560808,Halgara,2015,forest,1,1
+560808,Halgara,2015,forest,0,0
+560826,Nadi Hattarga,2015,forest,18,3
+560663,Ramegaon,2015,forest,28,2
+560732,Anandwadi (gaur),2015,forest,0,7
+560732,Anandwadi (gaur),2015,forest,4,4
+560732,Anandwadi (gaur),2015,forest,5,11
+560671,Dautpur,2015,forest,14,1
+560075,Khapartong,2015,forest,12,2
+530354,Pangartati,2015,forest,43,6
+530386,Charmoli,2015,forest,669,58
+530396,Shirla,2015,forest,85,7
+530401,Jambharun,2015,forest,15,3
+530537,Hatola,2015,forest,33,5
+530573,Kherda Kh.,2015,forest,43,6
+530855,Janori,2015,forest,6,1
+530861,Kakadshivni,2015,forest,15,2
+530904,Jaipur,2015,forest,12,3
+543056,Yekamba,2015,forest,914,81
+543045,Morchandi,2015,forest,129,26
+543678,Kochi,2015,forest,41,11
+542300,Rajur,2015,forest,548,38
+542307,Khadki,2015,forest,176,34
+543594,Warna,2015,forest,182,16
+543650,Vedshi,2015,forest,426,22
+543659,Khairgaon (kasar),2015,forest,319,33
+532486,Sawanga,2015,forest,195,26
+532445,Amdapur,2015,forest,117,33
+532421,Wathoda,2015,forest,91,16
+532420,Musalkhed,2015,forest,122,25
+532426,Porgavhan,2015,forest,80,8
+533808,BOTHALI,2015,forest,100,18
+533818,KAKADDARA,2015,forest,62,19
+532367,Tembhurkheda,2015,forest,357,25
+532365,Gavhankund,2015,forest,142,26
+530919,Dhanj  Bk,2015,forest,21,3
+529705,Jitapur Pr. Rupagad,2015,forest,66,13
+529722,Umara,2015,forest,153,21
+529781,Mirzapur,2015,forest,2,1
+530464,Sarav,2015,forest,3,0
+530463,Kanheri,2015,forest,68,4
+531377,Sadrabardi,2015,forest,154,20
+531383,Laktu,2015,forest,231,28
+531402,Sawalikheda,2015,forest,28,3
+531455,Ghuti,2015,forest,11,2
+548964,Khirdi,2015,forest,60,6
+549006,Golegaon,2015,forest,108,11
+549001,Borwadi,2015,forest,15,9
+548725,Dongargaon Kawad,2015,forest,56,6
+548745,Waghola,2015,forest,104,11
+568779,Shelkewadi,2015,forest,10,1
+568528,Renavi,2015,forest,84,5
+568650,Biranwadi,2015,forest,19,2
+568775,Kerewadi,2015,forest,19,3
+568563,Tadachiwadi,2015,forest,25,5
+568620,Autewadi,2015,forest,25,5
+568620,Autewadi,2015,forest,7,8
+568645,Panmalewadi,2015,forest,30,13
+563669,Rui,2015,forest,80,13
+556457,Pokhar,2015,forest,25,12
+556507,Bhairavwadi,2015,forest,24,8
+556901,Sawantwadi,2015,forest,2,0
+556897,Undavadi Kade Pathar,2015,forest,6,0
+556994,Lamjewadi,2015,forest,10,2
+557060,Vyahali,2015,forest,16,1
+563655,Bodhewadi (N.V.),2015,forest,4,3
+563469,Kalewadi,2015,forest,10,4
+563416,Mahimangad,2015,forest,6,1
+563530,Gopuj,2015,forest,16,2
+563518,Nandoshi,2015,forest,12,2
+563432,Naravane,2015,forest,49,2
+563435,Dhamani,2015,forest,14,1
+568584,Ambewadi,2015,forest,8,1
+561973,Bhend,2015,forest,5,0
+561991,Anjangaon Kh.,2015,forest,27,1
+562002,Londhewadi,2015,forest,4,1
+561881,Malwadi,2015,forest,4,0
+561859,Sarapdoh,2015,forest,6,1
+561857,Shelgaon (K),2015,forest,8,1
+561062,Katewadi,2015,forest,3,1
+558583,Kumbhefal,2015,forest,1,0
+558541,Supe,2015,forest,2,0
+558534,Diksal,2015,forest,4,0
+558833,Anandwadi,2015,forest,5,1
+558821,Pimpalgaon Dani,2015,forest,11,1
+562011,Khadkoni,2015,forest,20,3
+562052,Dhotre,2015,forest,14,1
+561305,Bhatshirapura,2015,forest,21,4
+561306,Pimpalgaon Dola,2015,forest,17,2
+559784,Anandgaon,2015,forest,77,6
+559772,Kekat Sarni,2015,forest,16,2
+559779,Depewadgaon,2015,forest,16,3
+559868,Umbrayachiwadi,2015,forest,7,2
+559904,Kavalyachiwadi,2015,forest,70,11
+559917,Bhilegaon,2015,forest,23,5
+560012,Mandva (pathan),2015,forest,82,5
+559988,Chichkhandi,2015,forest,40,3
+560028,Pokhari,2015,forest,19,2
+560610,Yeloriwadi,2015,forest,2,1
+560677,Yekambiwadi,2015,forest,1,0
+561477,Kawaldara Tanda,2015,forest,0,0
+561458,Sakanewadi,2015,forest,7,1
+561446,Darphal,2015,forest,9,2
+562164,Honsal,2015,forest,20,2
+562158,Wadala,2015,forest,10,1
+562181,Hiraj,2015,forest,42,2
+562694,Asabewadi,2015,forest,1,1
+568864,Lakdewadi,2015,forest,5,0
+562653,Jitti,2015,forest,6,1
+568844,Avandhi,2015,forest,24,1
+568849,Mokashawadi,2015,forest,6,1
+544882,Nanda Bk.,2015,forest,68,11
+544888,Hadoli,2015,forest,326,28
+545238,Kalambar Kh.,2015,forest,75,21
+560888,Kamaroddinpur,2015,forest,14,2
+560890,Nagtirthawadi,2015,forest,1,0
+560805,Koyachiwadi,2015,forest,0,0
+560806,Rajewadi,2015,forest,1,1
+560804,Sangaraddiwadi,2015,forest,6,2
+560805,Koyachiwadi,2015,forest,0,2
+560805,Koyachiwadi,2015,forest,1,2
+560805,Koyachiwadi,2015,forest,0,1
+545303,Wagdarwadi,2015,forest,110,13
+546633,Jununwadi,2015,forest,90,14
+546579,Jamb kh,2015,forest,0,0
+546555,Sawargaon,2015,forest,14,2
+530353,Sawargaon,2015,forest,542,20
+530358,Malsoor,2015,forest,48,4
+530461,Chohagaon,2015,forest,18,4
+530452,Lohgadtanda (N.V.),2015,forest,14,4
+530743,Chakwa,2015,forest,6,2
+530573,Kherda Kh.,2015,forest,43,6
+530851,Bhadshivni,2015,forest,12,2
+530896,Vilegaon,2015,forest,33,3
+530753,Borwha bk.,2015,forest,28,9
+542574,Shelodi,2015,forest,82,11
+542636,Bothgavan,2015,forest,65,19
+542627,Tapona,2015,forest,24,5
+542933,Kalambula,2015,forest,189,37
+546127,Ramwadi,2015,forest,7,2
+546221,Kupti,2015,forest,64,9
+546194,Jaroda,2015,forest,47,7
+542983,Parjana,2015,forest,78,22
+534248,FATTEPUR,2015,forest,38,6
+534225,EKAMBA,2015,forest,1,0
+534240,TALNI(BHAGWAT),2015,forest,3,1
+542298,Tirzada,2015,forest,116,18
+542227,Narsapur,2015,forest,105,13
+543646,Sakhi-Kh,2015,forest,209,29
+543660,Chondhi,2015,forest,165,33
+542477,Dharamgaon,2015,forest,83,40
+543331,Pandhurna Bk,2015,forest,75,13
+543343,Kumbhari,2015,forest,43,5
+542433,Shiwani Bk.,2015,forest,200,22
+532376,Pimpalkhuta,2015,forest,83,29
+532425,Beskheda,2015,forest,47,10
+533621,Nandora,2015,forest,133,37
+533617,Kajali,2015,forest,50,14
+533813,AJANGAON,2015,forest,207,19
+533814,TEMBHARI,2015,forest,46,11
+534004,KHADKA,2015,forest,85,26
+533913,GAIMUKH,2015,forest,43,15
+533957,REHAKI(KALA),2015,forest,78,18
+534819,Gondegaon,2015,forest,127,25
+534815,Gaimukh,2015,forest,26,10
+531606,Hilda,2015,forest,55,38
+531539,Makhala,2015,forest,345,47
+532333,Katsur,2015,forest,11,1
+532342,Shirajgaon,2015,forest,20,3
+533063,Kanzara,2015,forest,32,4
+533065,Mokhad,2015,forest,34,4
+533105,Pimpalgaon (Bainai),2015,forest,61,13
+529748,Dangarkhed,2015,forest,7,6
+529702,Rahnapur,2015,forest,3,11
+529702,Rahnapur,2015,forest,37,14
+529621,Chipi,2015,forest,11,6
+529703,Shahapur Pr. Rupagad,2015,forest,29,8
+528242,Khandvi,2015,forest,113,20
+528208,Wadgaon,2015,forest,24,10
+528364,Manardi,2015,forest,15,4
+528362,Kakoda,2015,forest,21,5
+528294,Salwan,2015,forest,66,20
+531457,Mansubhawdi,2015,forest,4,1
+531449,Jutpani,2015,forest,79,9
+527450,Dahiwad Kh.,2015,forest,31,5
+527462,Nagaon Kh.,2015,forest,35,6
+528661,Ridhora Khandopant,2015,forest,36,4
+528658,Sindkhed,2015,forest,23,6
+528208,Wadgaon  Patan,2015,forest,32,7
+558036,Jambhali,2015,forest,68,6
+558056,Jogewadi,2015,forest,12,2
+558731,Bandkhel,2015,forest,13,2
+557949,Kaudgaon,2015,forest,12,2
+549002,Mamnapur,2015,forest,31,6
+549000,Gadana,2015,forest,18,3
+549002,Mamnapur,2015,forest,2,6
+548985,Mahamadpur,2015,forest,14,6
+548675,Nidhona,2015,forest,179,14
+548671,Wawana,2015,forest,90,13
+548662,Hiwara,2015,forest,41,4
+550460,Bopane,2015,forest,5,1
+549125,Palkhed,2015,forest,52,3
+549131,Ballali Sagaj,2015,forest,7,1
+558098,Mehekari,2015,forest,40,4
+558072,Manjar Sumbha,2015,forest,37,4
+558288,Nandur Pathar,2015,forest,29,2
+558268,Palaspur,2015,forest,14,1
+551152,Wadzire,2015,forest,37,3
+551195,Mohu,2015,forest,21,2
+550493,Urdhul,2015,forest,16,2
+527524,Javakhede,2015,forest,175,10
+525668,Dhamdai,2015,forest,4,1
+525665,Adachhi,2015,forest,4,1
+568509,Pare,2015,water,23,1
+568618,Kamkatrewadi,2015,water,0,0
+568575,Sherewadi,2015,water,1,0
+568571,Palaskhel,2015,water,0,0
+568541,Balvadi (Kha),2015,water,2,0
+568524,Jondhalkhindi,2015,water,1,0
+568519,Sangole,2015,water,1,0
+563669,Rui,2015,water,0,0
+563637,Bichukale,2015,water,11,1
+563623,Anbatwadi,2015,water,3,1
+556461,Waghapur,2015,water,3,0
+556457,Pokhar,2015,water,0,0
+556492,Sakurde,2015,water,0,0
+556987,Takrarwadi,2015,water,187,66
+556984,Shetphalgadhe,2015,water,2,0
+556995,Nirgude,2015,water,15,1
+557053,Ghorpadwadi,2015,water,2,0
+563383,Anubhulewadi (N.V.),2015,water,0,0
+563655,Bodhewadi (N.V.),2015,water,0,0
+563370,Parkhandi,2015,water,0,0
+563394,Bidal,2015,water,0,0
+563429,Kiraksal,2015,water,0,0
+563685,Bodhewadi (N.V.),2015,water,0,0
+563687,Ramusmachi,2015,water,0,0
+563504,Jakhangaon,2015,water,0,0
+563719,Jaygaon,2015,water,0,0
+563511,Bhosare,2015,water,0,0
+563516,Jaygaon,2015,water,1,0
+563722,Velu,2015,water,7,1
+563726,Nhavi bk,2015,water,1,0
+563727,Pawarwadi,2015,water,8,2
+563743,Nagzari,2015,water,9,0
+563551,Yelmarwadi,2015,water,0,0
+568571,Palaskhel,2015,water,21,1
+561191,Pathasangvi,2015,water,0,0
+561192,Walha,2015,water,1,0
+561109,Kumbhephal,2015,water,1,0
+561083,Bodakha,2015,water,0,0
+561221,Hiwara,2015,water,19,2
+561315,Shelka Dhanora,2015,water,0,0
+561316,Kherda,2015,water,0,0
+559725,Kashidwadi,2015,water,0,0
+559752,Chandansawargaon,2015,water,0,0
+559773,Kalam Amba,2015,water,3,0
+559780,Palaskheda,2015,water,0,0
+559851,Jaybhaychi Wadi,2015,water,0,0
+559834,Wharkarwadi,2015,water,0,0
+559831,Amla,2015,water,27,3
+560013,Yelda,2015,water,9,0
+560019,Dongar Pimpla,2015,water,29,2
+559995,Shripatrayachiwadi,2015,water,1,0
+560027,Selu Amba,2015,water,0,0
+560018,Shepwadi,2015,water,4,0
+560036,Daithana Radi,2015,water,0,0
+560008,Patoda,2015,water,0,0
+560000,Kumbephal,2015,water,0,0
+561343,Wathawada,2015,water,10,1
+560694,Ashiv,2015,water,4,0
+562150,Bhagaiwadi,2015,water,0,0
+562165,Raleras,2015,water,0,0
+562181,Hiraj,2015,water,3,0
+562185,Belati,2015,water,0,0
+568871,Maithal,2015,water,0,0
+562602,Wani Chinchol,2015,water,28,2
+562557,Yelmar Mangewadi,2015,water,10,0
+568847,Bagalwadi,2015,water,0,0
+568820,Navalwadi,2015,water,0,0
+562615,Narale,2015,water,1,0
+568832,Belunki,2015,water,7,0
+560811,Tagarkheda,2015,water,14,1
+560808,Halgara,2015,water,0,0
+560808,Halgara,2015,water,0,0
+560808,Halgara,2015,water,0,0
+560826,Nadi Hattarga,2015,water,8,1
+560663,Ramegaon,2015,water,0,0
+560732,Anandwadi (gaur),2015,water,0,0
+560732,Anandwadi (gaur),2015,water,0,0
+560732,Anandwadi (gaur),2015,water,0,0
+560671,Dautpur,2015,water,4,0
+560075,Khapartong,2015,water,4,1
+530354,Pangartati,2015,water,127,17
+530386,Charmoli,2015,water,0,0
+530396,Shirla,2015,water,0,0
+530401,Jambharun,2015,water,0,0
+530537,Hatola,2015,water,31,5
+530573,Kherda Kh.,2015,water,0,0
+530855,Janori,2015,water,0,0
+530861,Kakadshivni,2015,water,28,4
+530904,Jaipur,2015,water,8,2
+543056,Yekamba,2015,water,0,0
+543045,Morchandi,2015,water,0,0
+543678,Kochi,2015,water,11,3
+542300,Rajur,2015,water,32,2
+542307,Khadki,2015,water,0,0
+543594,Warna,2015,water,26,2
+543650,Vedshi,2015,water,22,1
+543659,Khairgaon (kasar),2015,water,0,0
+532486,Sawanga,2015,water,114,15
+532445,Amdapur,2015,water,0,0
+532421,Wathoda,2015,water,0,0
+532420,Musalkhed,2015,water,33,7
+532426,Porgavhan,2015,water,7,1
+533808,BOTHALI,2015,water,0,0
+533818,KAKADDARA,2015,water,0,0
+532367,Tembhurkheda,2015,water,0,0
+532365,Gavhankund,2015,water,1,0
+530919,Dhanj  Bk,2015,water,0,0
+529705,Jitapur Pr. Rupagad,2015,water,0,0
+529722,Umara,2015,water,0,0
+529781,Mirzapur,2015,water,0,0
+530464,Sarav,2015,water,3,1
+530463,Kanheri,2015,water,1,0
+531377,Sadrabardi,2015,water,37,5
+531383,Laktu,2015,water,0,0
+531402,Sawalikheda,2015,water,0,0
+531455,Ghuti,2015,water,4,1
+548964,Khirdi,2015,water,1,0
+549006,Golegaon,2015,water,1,0
+549001,Borwadi,2015,water,0,0
+548725,Dongargaon Kawad,2015,water,3,0
+548745,Waghola,2015,water,3,0
+568779,Shelkewadi,2015,water,3,0
+568528,Renavi,2015,water,5,0
+568650,Biranwadi,2015,water,0,0
+568775,Kerewadi,2015,water,1,0
+568563,Tadachiwadi,2015,water,0,0
+568620,Autewadi,2015,water,6,1
+568620,Autewadi,2015,water,0,0
+568645,Panmalewadi,2015,water,0,0
+563669,Rui,2015,water,0,0
+556457,Pokhar,2015,water,0,0
+556507,Bhairavwadi,2015,water,0,0
+556901,Sawantwadi,2015,water,1,0
+556897,Undavadi Kade Pathar,2015,water,2,0
+556994,Lamjewadi,2015,water,0,0
+557060,Vyahali,2015,water,1,0
+563655,Bodhewadi (N.V.),2015,water,0,0
+563469,Kalewadi,2015,water,0,0
+563416,Mahimangad,2015,water,0,0
+563530,Gopuj,2015,water,0,0
+563518,Nandoshi,2015,water,2,0
+563432,Naravane,2015,water,22,1
+563435,Dhamani,2015,water,5,0
+568584,Ambewadi,2015,water,11,1
+561973,Bhend,2015,water,3,0
+561991,Anjangaon Kh.,2015,water,0,0
+562002,Londhewadi,2015,water,0,0
+561881,Malwadi,2015,water,0,0
+561859,Sarapdoh,2015,water,0,0
+561857,Shelgaon (K),2015,water,0,0
+561062,Katewadi,2015,water,0,0
+558583,Kumbhefal,2015,water,0,0
+558541,Supe,2015,water,4,0
+558534,Diksal,2015,water,2,0
+558833,Anandwadi,2015,water,0,0
+558821,Pimpalgaon Dani,2015,water,0,0
+562011,Khadkoni,2015,water,1,0
+562052,Dhotre,2015,water,0,0
+561305,Bhatshirapura,2015,water,0,0
+561306,Pimpalgaon Dola,2015,water,0,0
+559784,Anandgaon,2015,water,0,0
+559772,Kekat Sarni,2015,water,0,0
+559779,Depewadgaon,2015,water,0,0
+559868,Umbrayachiwadi,2015,water,0,0
+559904,Kavalyachiwadi,2015,water,0,0
+559917,Bhilegaon,2015,water,0,0
+560012,Mandva (pathan),2015,water,0,0
+559988,Chichkhandi,2015,water,6,0
+560028,Pokhari,2015,water,3,0
+560610,Yeloriwadi,2015,water,3,1
+560677,Yekambiwadi,2015,water,0,0
+561477,Kawaldara Tanda,2015,water,1,0
+561458,Sakanewadi,2015,water,4,1
+561446,Darphal,2015,water,1,0
+562164,Honsal,2015,water,0,0
+562158,Wadala,2015,water,3,0
+562181,Hiraj,2015,water,3,0
+562694,Asabewadi,2015,water,0,0
+568864,Lakdewadi,2015,water,1,0
+562653,Jitti,2015,water,1,0
+568844,Avandhi,2015,water,3,0
+568849,Mokashawadi,2015,water,0,0
+544882,Nanda Bk.,2015,water,7,1
+544888,Hadoli,2015,water,0,0
+545238,Kalambar Kh.,2015,water,0,0
+560888,Kamaroddinpur,2015,water,0,0
+560890,Nagtirthawadi,2015,water,0,0
+560805,Koyachiwadi,2015,water,0,0
+560806,Rajewadi,2015,water,0,0
+560804,Sangaraddiwadi,2015,water,6,2
+560805,Koyachiwadi,2015,water,0,0
+560805,Koyachiwadi,2015,water,0,0
+560805,Koyachiwadi,2015,water,0,0
+545303,Wagdarwadi,2015,water,9,1
+546633,Jununwadi,2015,water,3,0
+546579,Jamb kh,2015,water,7,1
+546555,Sawargaon,2015,water,3,0
+530353,Sawargaon,2015,water,49,2
+530358,Malsoor,2015,water,4,0
+530461,Chohagaon,2015,water,1,0
+530452,Lohgadtanda (N.V.),2015,water,0,0
+530743,Chakwa,2015,water,0,0
+530573,Kherda Kh.,2015,water,0,0
+530851,Bhadshivni,2015,water,0,0
+530896,Vilegaon,2015,water,73,6
+530753,Borwha bk.,2015,water,0,0
+542574,Shelodi,2015,water,0,0
+542636,Bothgavan,2015,water,17,5
+542627,Tapona,2015,water,0,0
+542933,Kalambula,2015,water,2,0
+546127,Ramwadi,2015,water,0,0
+546221,Kupti,2015,water,0,0
+546194,Jaroda,2015,water,5,1
+542983,Parjana,2015,water,0,0
+534248,FATTEPUR,2015,water,0,0
+534225,EKAMBA,2015,water,0,0
+534240,TALNI(BHAGWAT),2015,water,0,0
+542298,Tirzada,2015,water,0,0
+542227,Narsapur,2015,water,0,0
+543646,Sakhi-Kh,2015,water,0,0
+543660,Chondhi,2015,water,0,0
+542477,Dharamgaon,2015,water,2,1
+543331,Pandhurna Bk,2015,water,0,0
+543343,Kumbhari,2015,water,0,0
+542433,Shiwani Bk.,2015,water,9,1
+532376,Pimpalkhuta,2015,water,0,0
+532425,Beskheda,2015,water,0,0
+533621,Nandora,2015,water,1,0
+533617,Kajali,2015,water,0,0
+533813,AJANGAON,2015,water,15,1
+533814,TEMBHARI,2015,water,35,9
+534004,KHADKA,2015,water,2,1
+533913,GAIMUKH,2015,water,0,0
+533957,REHAKI(KALA),2015,water,0,0
+534819,Gondegaon,2015,water,2,0
+534815,Gaimukh,2015,water,0,0
+531606,Hilda,2015,water,0,0
+531539,Makhala,2015,water,1,0
+532333,Katsur,2015,water,0,0
+532342,Shirajgaon,2015,water,0,0
+533063,Kanzara,2015,water,0,0
+533065,Mokhad,2015,water,0,0
+533105,Pimpalgaon (Bainai),2015,water,0,0
+529748,Dangarkhed,2015,water,3,2
+529702,Rahnapur,2015,water,0,0
+529702,Rahnapur,2015,water,0,0
+529621,Chipi,2015,water,0,0
+529703,Shahapur Pr. Rupagad,2015,water,0,0
+528242,Khandvi,2015,water,0,0
+528208,Wadgaon,2015,water,0,0
+528364,Manardi,2015,water,0,0
+528362,Kakoda,2015,water,0,0
+528294,Salwan,2015,water,0,0
+531457,Mansubhawdi,2015,water,7,2
+531449,Jutpani,2015,water,76,9
+527450,Dahiwad Kh.,2015,water,0,0
+527462,Nagaon Kh.,2015,water,0,0
+528661,Ridhora Khandopant,2015,water,0,0
+528658,Sindkhed,2015,water,0,0
+528208,Wadgaon  Patan,2015,water,2,0
+558036,Jambhali,2015,water,7,1
+558056,Jogewadi,2015,water,0,0
+558731,Bandkhel,2015,water,0,0
+557949,Kaudgaon,2015,water,0,0
+549002,Mamnapur,2015,water,3,0
+549000,Gadana,2015,water,0,0
+549002,Mamnapur,2015,water,0,0
+548985,Mahamadpur,2015,water,0,0
+548675,Nidhona,2015,water,9,1
+548671,Wawana,2015,water,0,0
+548662,Hiwara,2015,water,3,0
+550460,Bopane,2015,water,0,0
+549125,Palkhed,2015,water,0,0
+549131,Ballali Sagaj,2015,water,0,0
+558098,Mehekari,2015,water,0,0
+558072,Manjar Sumbha,2015,water,0,0
+558288,Nandur Pathar,2015,water,4,0
+558268,Palaspur,2015,water,13,1
+551152,Wadzire,2015,water,3,0
+551195,Mohu,2015,water,12,1
+550493,Urdhul,2015,water,0,0
+527524,Javakhede,2015,water,1,0
+525668,Dhamdai,2015,water,0,0
+525665,Adachhi,2015,water,0,0

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "wc3_TCsample140_simpDP_vlgcd2011_529748",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "gml_id": "Maharashtra_village.4623", "stname": "Maharashtra", "dtname": "Akola", "gpname": "Khirkhund Bk.", "ipname": "Akot", "stcensus": 27, "dtcensus": "501", "gpcode": "169000", "ipcode": "03989", "villname": "Dangarkhed", "vlgcd2011": "529748", "vlgcd2001": "00473400", "wc1": null, "wc2": null, "wc3": "y", "control": null, "area": 1.2 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 77.15744735800007, 21.235116831000028 ], [ 77.156952077000085, 21.23186458400005 ], [ 77.158055531000059, 21.220484146000047 ], [ 77.150406579000048, 21.218310401000053 ], [ 77.149466587000063, 21.217574565000064 ], [ 77.15082521800008, 21.225908048000065 ], [ 77.150951143000043, 21.232300619000057 ], [ 77.151453920000051, 21.232295022000073 ], [ 77.151560298000049, 21.23335221800005 ], [ 77.153475619000062, 21.234543303000066 ], [ 77.15744735800007, 21.235116831000028 ] ] ] } }
+]
+}

@@ -35,13 +35,14 @@ class Filter extends Component {
   constructor(props) {
     super(props);
     this.state = {
+      isOpen: true,
       selectedWCEdition: null,
       selectedDistrict: '',
       selectedTehsil: '',
       selectedVillage: '',
       selectedMapType: { value: 'LandUse', label: 'Land Use' },
-      startYear: 2016,
-      endYear: 2017,
+      startYear: 2015,
+      endYear: 2016,
       wcEditionList: [],
       districtList: [],
       tehsilList: [],
@@ -50,9 +51,9 @@ class Filter extends Component {
     };
 
     this.waterCupEditionYears = {
-      1: 2016,
-      2: 2017,
-      3: 2018
+      1: 2015,
+      2: 2016,
+      3: 2017
     };
 
     this.props.updateMapType({
@@ -76,6 +77,7 @@ class Filter extends Component {
     this.getDistrictList = this.getDistrictList.bind(this);
     this.getTehsilList = this.getTehsilList.bind(this);
     this.handleChange = this.handleChange.bind(this);
+    this.handleClick = this.handleClick.bind(this);
   }
 
   // componentDidMount() {
@@ -124,11 +126,18 @@ class Filter extends Component {
   }
 
   onWCEditionChange(selectedWCEdition) {
+    let startYear = this.waterCupEditionYears[selectedWCEdition.value],
+      endYear = this.waterCupEditionYears[selectedWCEdition.value] + 1;
+    if (this.state.selectedMapType.value === 'LandUse') {
+      startYear = 2015; //this.waterCupEditionYears[selectedWCEdition.value] - 1;
+      endYear = 2015; //this.waterCupEditionYears[selectedWCEdition.value];
+    }
+
     this.setState(
       {
         selectedWCEdition: selectedWCEdition.value,
-        startYear: this.waterCupEditionYears[selectedWCEdition.value],
-        endYear: this.waterCupEditionYears[selectedWCEdition.value] + 1
+        startYear: startYear,
+        endYear: endYear
       },
       () => {
         this.props.updatePeriod({
@@ -181,6 +190,34 @@ class Filter extends Component {
       mapTypeSeason: selectedMapType.season,
       mapTypeLabel: selectedMapType.label
     });
+    if (selectedMapType.value === 'LandUse') {
+      this.setState(
+        {
+          startYear: 2015,
+            //this.waterCupEditionYears[this.state.selectedWCEdition] - 1,
+          endYear: 2015 //this.waterCupEditionYears[this.state.selectedWCEdition]
+        },
+        () => {
+          this.props.updatePeriod({
+            startYear: this.state.startYear,
+            endYear: this.state.endYear
+          });
+        }
+      );
+    }  else {
+      this.setState(
+        {
+          startYear: this.waterCupEditionYears[this.state.selectedWCEdition],
+          endYear: this.waterCupEditionYears[this.state.selectedWCEdition] + 1
+        },
+        () => {
+          this.props.updatePeriod({
+            startYear: this.state.startYear,
+            endYear: this.state.endYear
+          });
+        }
+      );
+    }
   }
 
   getVillageList() {
@@ -295,6 +332,13 @@ class Filter extends Component {
     this.props.updateOpacity(value);
   }
 
+  getInitialState() {
+    return { isOpen: true };
+  }
+  handleClick() {
+    this.setState({ isOpen: !this.state.isOpen });
+  }
+
   render() {
     const { selectedWCEdition } = this.state;
     const { selectedDistrict } = this.state;
@@ -309,6 +353,13 @@ class Filter extends Component {
 
     const { classes } = this.props;
     const { opacity } = this.state;
+    var filterCloseClass = this.state.isOpen
+      ? 'text-right'
+      : 'text-right filter-hide';
+    var hamburgerClass = this.state.isOpen
+      ? 'text-right filter-hide'
+      : 'text-right';
+    var slideOutInnerClass = this.state.isOpen ? '' : 'clicked';
     return (
       <div id="slideout" data-html2canvas-ignore="true">
         <div className="filter">
@@ -319,13 +370,18 @@ class Filter extends Component {
           />
           <span className="filter-title">Filter</span>
         </div>
-        <div id="slideout_inner">
+        <div id="slideout_inner" className={slideOutInnerClass}>
           <div
             id="module-legend"
             className="module scroll-thin-dark module-legend module-toggle"
           >
             <div className="toggle-icons-wrapper">
-              <div id="filter-close" href="#" className=" text-right">
+              <div
+                id="filter-close"
+                href="#"
+                className={filterCloseClass}
+                onClick={this.handleClick}
+              >
                 <img
                   src="static/src/styles/images/baseline_arrow_left_black_24dp.png"
                   className="arrow "
@@ -333,7 +389,12 @@ class Filter extends Component {
                 />
               </div>
 
-              <div id="hamburger" href="#" className="filter-hide text-right">
+              <div
+                id="hamburger"
+                href="#"
+                className={hamburgerClass}
+                onClick={this.handleClick}
+              >
                 <img
                   src="static/src/styles/images/baseline_arrow_right_black_24dp.png"
                   className="arrow "
@@ -410,12 +471,12 @@ class Filter extends Component {
                     type: 'LandUse',
                     label: 'Land Use'
                   },
-                  {
+                  /* {
                     value: 'SownAreaKharif',
                     type: 'SownArea',
                     season: 'kharif',
                     label: 'Sown Area - Kharif'
-                  },
+                  }, */
                   {
                     value: 'SownAreaRabi',
                     type: 'SownArea',
@@ -423,12 +484,12 @@ class Filter extends Component {
                     label: 'Sown Area - Rabi'
                   },
 
-                  {
+                  /* {
                     value: 'IrrigatedAreaKharif',
                     type: 'IrrigatedArea',
                     season: 'kharif',
                     label: 'Irrigated Area - Kharif'
-                  },
+                  }, */
                   {
                     value: 'IrrigatedAreaRabi',
                     type: 'IrrigatedArea',
@@ -436,16 +497,16 @@ class Filter extends Component {
                     label: 'Irrigated Area - Rabi'
                   },
                   {
-                    value: 'SoilMoistureIndexJune',
+                    value: 'SoilMoistureIndexOct',
                     type: 'SoilMoistureIndex',
-                    season: 'june',
-                    label: 'Soil Moisture - June'
+                    season: 'October',
+                    label: 'Soil Moisture - Oct'
                   },
                   {
-                    value: 'SoilMoistureIndexJan',
+                    value: 'SoilMoistureIndexNov',
                     type: 'SoilMoistureIndex',
-                    season: 'jan',
-                    label: 'Soil Moisture - Jan'
+                    season: 'November',
+                    label: 'Soil Moisture - Nov'
                   }
                 ]}
               />

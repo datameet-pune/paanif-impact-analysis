@@ -1,17 +1,1704 @@
-vlgcd2011,Villname,Year,Season,Agricultural Land Use Class,in Hectares,in percentage
-529781,MIRZAPUR,2016,Kharif,Fallow,100,50
-529781,MIRZAPUR,2016,Kharif,Sown,101,51
-529781,MIRZAPUR,2016,Rabi,Fallow,102,52
-529781,MIRZAPUR,2016,Rabi,Sown,103,53
-529781,MIRZAPUR,2017,Kharif,Fallow,104,54
-529781,MIRZAPUR,2017,Kharif,Sown,105,55
-529781,MIRZAPUR,2017,Rabi,Fallow,106,56
-529781,MIRZAPUR,2017,Rabi,Sown,107,57
-530573,KHERDA KH. ,2016,Kharif,Fallow,200,40
-530573,KHERDA KH. ,2016,Kharif,Sown,201,41
-530573,KHERDA KH. ,2016,Rabi,Fallow,202,42
-530573,KHERDA KH. ,2016,Rabi,Sown,203,43
-530573,KHERDA KH. ,2017,Kharif,Fallow,204,44
-530573,KHERDA KH. ,2017,Kharif,Sown,205,45
-530573,KHERDA KH. ,2017,Rabi,Fallow,206,46
-530573,KHERDA KH. ,2017,Rabi,Sown,207,47
+568509,Pare,2015,Rabi,Fallow,301,53
+568618,Kamkatrewadi,2015,Rabi,Fallow,122,74
+568575,Sherewadi,2015,Rabi,Fallow,31,65
+568571,Palaskhel,2015,Rabi,Fallow,73,30
+568541,Balvadi (Kha),2015,Rabi,Fallow,716,62
+568524,Jondhalkhindi,2015,Rabi,Fallow,95,44
+568519,Sangole,2015,Rabi,Fallow,69,31
+563669,Rui,2015,Rabi,Fallow,105,26
+563637,Bichukale,2015,Rabi,Fallow,82,16
+563623,Anbatwadi,2015,Rabi,Fallow,31,8
+556461,Waghapur,2015,Rabi,Fallow,103,23
+556457,Pokhar,2015,Rabi,Fallow,14,29
+556492,Sakurde,2015,Rabi,Fallow,221,36
+556987,Takrarwadi,2015,Rabi,Fallow,11,13
+556984,Shetphalgadhe,2015,Rabi,Fallow,342,28
+556995,Nirgude,2015,Rabi,Fallow,852,50
+557053,Ghorpadwadi,2015,Rabi,Fallow,232,58
+563383,Anubhulewadi (N.V.),2015,Rabi,Fallow,160,73
+563655,Bodhewadi (N.V.),2015,Rabi,Fallow,17,16
+563370,Parkhandi,2015,Rabi,Fallow,287,68
+563394,Bidal,2015,Rabi,Fallow,919,73
+563429,Kiraksal,2015,Rabi,Fallow,678,72
+563685,Bodhewadi (N.V.),2015,Rabi,Fallow,133,54
+563687,Ramusmachi,2015,Rabi,Fallow,47,42
+563504,Jakhangaon,2015,Rabi,Fallow,234,36
+563719,Jaygaon,2015,Rabi,Fallow,102,32
+563511,Bhosare,2015,Rabi,Fallow,202,37
+563516,Jaygaon,2015,Rabi,Fallow,184,38
+563722,Velu,2015,Rabi,Fallow,176,46
+563726,Nhavi bk,2015,Rabi,Fallow,192,35
+563727,Pawarwadi,2015,Rabi,Fallow,45,28
+563743,Nagzari,2015,Rabi,Fallow,483,61
+563551,Yelmarwadi,2015,Rabi,Fallow,188,71
+568571,Palaskhel,2015,Rabi,Fallow,128,45
+561191,Pathasangvi,2015,Rabi,Fallow,605,63
+561192,Walha,2015,Rabi,Fallow,588,65
+561109,Kumbhephal,2015,Rabi,Fallow,567,77
+561083,Bodakha,2015,Rabi,Fallow,323,91
+561221,Hiwara,2015,Rabi,Fallow,182,49
+561315,Shelka Dhanora,2015,Rabi,Fallow,387,74
+561316,Kherda,2015,Rabi,Fallow,204,65
+559725,Kashidwadi,2015,Rabi,Fallow,235,97
+559752,Chandansawargaon,2015,Rabi,Fallow,588,60
+559773,Kalam Amba,2015,Rabi,Fallow,924,65
+559780,Palaskheda,2015,Rabi,Fallow,349,75
+559851,Jaybhaychi Wadi,2015,Rabi,Fallow,143,93
+559834,Wharkarwadi,2015,Rabi,Fallow,144,58
+559831,Amla,2015,Rabi,Fallow,244,52
+560013,Yelda,2015,Rabi,Fallow,1145,85
+560019,Dongar Pimpla,2015,Rabi,Fallow,911,78
+559995,Shripatrayachiwadi,2015,Rabi,Fallow,128,43
+560027,Selu Amba,2015,Rabi,Fallow,432,71
+560018,Shepwadi,2015,Rabi,Fallow,344,71
+560036,Daithana Radi,2015,Rabi,Fallow,233,68
+560008,Patoda,2015,Rabi,Fallow,775,54
+560000,Kumbephal,2015,Rabi,Fallow,566,64
+561343,Wathawada,2015,Rabi,Fallow,671,64
+560694,Ashiv,2015,Rabi,Fallow,305,14
+562150,Bhagaiwadi,2015,Rabi,Fallow,163,64
+562165,Raleras,2015,Rabi,Fallow,263,51
+562181,Hiraj,2015,Rabi,Fallow,539,47
+562185,Belati,2015,Rabi,Fallow,264,40
+568871,Maithal,2015,Rabi,Fallow,220,86
+562602,Wani Chinchol,2015,Rabi,Fallow,696,87
+562557,Yelmar Mangewadi,2015,Rabi,Fallow,491,42
+568847,Bagalwadi,2015,Rabi,Fallow,122,51
+568820,Navalwadi,2015,Rabi,Fallow,298,72
+562615,Narale,2015,Rabi,Fallow,210,52
+568832,Belunki,2015,Rabi,Fallow,228,26
+560811,Tagarkheda,2015,Rabi,Fallow,513,32
+560808,Halgara,2015,Rabi,Fallow,515,35
+560808,Halgara,2015,Rabi,Fallow,15,35
+560808,Halgara,2015,Rabi,Fallow,1,39
+560826,Nadi Hattarga,2015,Rabi,Fallow,319,56
+560663,Ramegaon,2015,Rabi,Fallow,529,49
+560732,Anandwadi (gaur),2015,Rabi,Fallow,2,43
+560732,Anandwadi (gaur),2015,Rabi,Fallow,18,19
+560732,Anandwadi (gaur),2015,Rabi,Fallow,5,13
+560671,Dautpur,2015,Rabi,Fallow,444,49
+560075,Khapartong,2015,Rabi,Fallow,433,92
+530354,Pangartati,2015,Rabi,Fallow,229,69
+530386,Charmoli,2015,Rabi,Fallow,34,20
+530396,Shirla,2015,Rabi,Fallow,127,24
+530401,Jambharun,2015,Rabi,Fallow,200,64
+530537,Hatola,2015,Rabi,Fallow,121,25
+530573,Kherda Kh.,2015,Rabi,Fallow,250,47
+530855,Janori,2015,Rabi,Fallow,355,61
+530861,Kakadshivni,2015,Rabi,Fallow,240,39
+530904,Jaipur,2015,Rabi,Fallow,53,19
+543056,Yekamba,2015,Rabi,Fallow,25,23
+543045,Morchandi,2015,Rabi,Fallow,24,7
+543678,Kochi,2015,Rabi,Fallow,6,2
+542300,Rajur,2015,Rabi,Fallow,32,17
+542307,Khadki,2015,Rabi,Fallow,51,61
+543594,Warna,2015,Rabi,Fallow,112,39
+543650,Vedshi,2015,Rabi,Fallow,152,20
+543659,Khairgaon (kasar),2015,Rabi,Fallow,108,28
+532486,Sawanga,2015,Rabi,Fallow,30,9
+532445,Amdapur,2015,Rabi,Fallow,9,4
+532421,Wathoda,2015,Rabi,Fallow,13,3
+532420,Musalkhed,2015,Rabi,Fallow,22,8
+532426,Porgavhan,2015,Rabi,Fallow,48,8
+533808,BOTHALI,2015,Rabi,Fallow,42,31
+533818,KAKADDARA,2015,Rabi,Fallow,117,64
+532367,Tembhurkheda,2015,Rabi,Fallow,36,4
+532365,Gavhankund,2015,Rabi,Fallow,23,7
+530919,Dhanj  Bk,2015,Rabi,Fallow,269,42
+529705,Jitapur Pr. Rupagad,2015,Rabi,Fallow,24,6
+529722,Umara,2015,Rabi,Fallow,89,17
+529781,Mirzapur,2015,Rabi,Fallow,57,36
+530464,Sarav,2015,Rabi,Fallow,176,72
+530463,Kanheri,2015,Rabi,Fallow,362,35
+531377,Sadrabardi,2015,Rabi,Fallow,279,55
+531383,Laktu,2015,Rabi,Fallow,293,77
+531402,Sawalikheda,2015,Rabi,Fallow,536,82
+531455,Ghuti,2015,Rabi,Fallow,316,73
+548964,Khirdi,2015,Rabi,Fallow,180,33
+549006,Golegaon,2015,Rabi,Fallow,103,19
+549001,Borwadi,2015,Rabi,Fallow,46,38
+548725,Dongargaon Kawad,2015,Rabi,Fallow,81,16
+548745,Waghola,2015,Rabi,Fallow,77,25
+568779,Shelkewadi,2015,Rabi,Fallow,130,58
+568528,Renavi,2015,Rabi,Fallow,341,71
+568650,Biranwadi,2015,Rabi,Fallow,117,51
+568775,Kerewadi,2015,Rabi,Fallow,81,35
+568563,Tadachiwadi,2015,Rabi,Fallow,112,77
+568620,Autewadi,2015,Rabi,Fallow,144,69
+568620,Autewadi,2015,Rabi,Fallow,23,70
+568645,Panmalewadi,2015,Rabi,Fallow,36,30
+563669,Rui,2015,Rabi,Fallow,105,26
+556457,Pokhar,2015,Rabi,Fallow,14,29
+556507,Bhairavwadi,2015,Rabi,Fallow,6,21
+556901,Sawantwadi,2015,Rabi,Fallow,250,64
+556897,Undavadi Kade Pathar,2015,Rabi,Fallow,549,74
+556994,Lamjewadi,2015,Rabi,Fallow,122,30
+557060,Vyahali,2015,Rabi,Fallow,454,75
+563655,Bodhewadi (N.V.),2015,Rabi,Fallow,17,16
+563469,Kalewadi,2015,Rabi,Fallow,84,57
+563416,Mahimangad,2015,Rabi,Fallow,274,77
+563530,Gopuj,2015,Rabi,Fallow,149,36
+563518,Nandoshi,2015,Rabi,Fallow,83,58
+563432,Naravane,2015,Rabi,Fallow,747,64
+563435,Dhamani,2015,Rabi,Fallow,229,40
+568584,Ambewadi,2015,Rabi,Fallow,192,50
+561973,Bhend,2015,Rabi,Fallow,809,88
+561991,Anjangaon Kh.,2015,Rabi,Fallow,999,76
+562002,Londhewadi,2015,Rabi,Fallow,198,70
+561881,Malwadi,2015,Rabi,Fallow,624,64
+561859,Sarapdoh,2015,Rabi,Fallow,400,61
+561857,Shelgaon (K),2015,Rabi,Fallow,349,66
+561062,Katewadi,2015,Rabi,Fallow,261,82
+558583,Kumbhefal,2015,Rabi,Fallow,116,62
+558541,Supe,2015,Rabi,Fallow,529,82
+558534,Diksal,2015,Rabi,Fallow,714,80
+558833,Anandwadi,2015,Rabi,Fallow,155,45
+558821,Pimpalgaon Dani,2015,Rabi,Fallow,314,52
+562011,Khadkoni,2015,Rabi,Fallow,253,62
+562052,Dhotre,2015,Rabi,Fallow,634,79
+561305,Bhatshirapura,2015,Rabi,Fallow,416,89
+561306,Pimpalgaon Dola,2015,Rabi,Fallow,576,90
+559784,Anandgaon,2015,Rabi,Fallow,418,43
+559772,Kekat Sarni,2015,Rabi,Fallow,442,63
+559779,Depewadgaon,2015,Rabi,Fallow,446,83
+559868,Umbrayachiwadi,2015,Rabi,Fallow,212,63
+559904,Kavalyachiwadi,2015,Rabi,Fallow,244,55
+559917,Bhilegaon,2015,Rabi,Fallow,197,55
+560012,Mandva (pathan),2015,Rabi,Fallow,500,67
+559988,Chichkhandi,2015,Rabi,Fallow,809,83
+560028,Pokhari,2015,Rabi,Fallow,638,72
+560610,Yeloriwadi,2015,Rabi,Fallow,200,93
+560677,Yekambiwadi,2015,Rabi,Fallow,147,56
+561477,Kawaldara Tanda,2015,Rabi,Fallow,125,76
+561458,Sakanewadi,2015,Rabi,Fallow,420,73
+561446,Darphal,2015,Rabi,Fallow,182,37
+562164,Honsal,2015,Rabi,Fallow,495,57
+562158,Wadala,2015,Rabi,Fallow,798,61
+562181,Hiraj,2015,Rabi,Fallow,539,47
+562694,Asabewadi,2015,Rabi,Fallow,120,83
+568864,Lakdewadi,2015,Rabi,Fallow,354,84
+562653,Jitti,2015,Rabi,Fallow,440,81
+568844,Avandhi,2015,Rabi,Fallow,506,53
+568849,Mokashawadi,2015,Rabi,Fallow,129,48
+544882,Nanda Bk.,2015,Rabi,Fallow,402,90
+544888,Hadoli,2015,Rabi,Fallow,395,84
+545238,Kalambar Kh.,2015,Rabi,Fallow,108,49
+560888,Kamaroddinpur,2015,Rabi,Fallow,289,45
+560890,Nagtirthawadi,2015,Rabi,Fallow,155,63
+560805,Koyachiwadi,2015,Rabi,Fallow,4,90
+560806,Rajewadi,2015,Rabi,Fallow,101,65
+560804,Sangaraddiwadi,2015,Rabi,Fallow,167,50
+560805,Koyachiwadi,2015,Rabi,Fallow,9,50
+560805,Koyachiwadi,2015,Rabi,Fallow,20,48
+560805,Koyachiwadi,2015,Rabi,Fallow,11,51
+545303,Wagdarwadi,2015,Rabi,Fallow,250,99
+546633,Jununwadi,2015,Rabi,Fallow,124,69
+546579,Jamb kh,2015,Rabi,Fallow,90,35
+546555,Sawargaon,2015,Rabi,Fallow,428,79
+530353,Sawargaon,2015,Rabi,Fallow,611,72
+530358,Malsoor,2015,Rabi,Fallow,431,60
+530461,Chohagaon,2015,Rabi,Fallow,65,25
+530452,Lohgadtanda (N.V.),2015,Rabi,Fallow,73,54
+530743,Chakwa,2015,Rabi,Fallow,36,20
+530573,Kherda Kh.,2015,Rabi,Fallow,250,47
+530851,Bhadshivni,2015,Rabi,Fallow,182,27
+530896,Vilegaon,2015,Rabi,Fallow,101,10
+530753,Borwha bk.,2015,Rabi,Fallow,76,35
+542574,Shelodi,2015,Rabi,Fallow,51,13
+542636,Bothgavan,2015,Rabi,Fallow,17,10
+542627,Tapona,2015,Rabi,Fallow,30,13
+542933,Kalambula,2015,Rabi,Fallow,33,13
+546127,Ramwadi,2015,Rabi,Fallow,61,31
+546221,Kupti,2015,Rabi,Fallow,101,18
+546194,Jaroda,2015,Rabi,Fallow,92,33
+542983,Parjana,2015,Rabi,Fallow,35,16
+534248,FATTEPUR,2015,Rabi,Fallow,118,33
+534225,EKAMBA,2015,Rabi,Fallow,59,20
+534240,TALNI(BHAGWAT),2015,Rabi,Fallow,129,39
+542298,Tirzada,2015,Rabi,Fallow,48,22
+542227,Narsapur,2015,Rabi,Fallow,101,26
+543646,Sakhi-Kh,2015,Rabi,Fallow,78,34
+543660,Chondhi,2015,Rabi,Fallow,74,52
+542477,Dharamgaon,2015,Rabi,Fallow,7,14
+543331,Pandhurna Bk,2015,Rabi,Fallow,57,14
+543343,Kumbhari,2015,Rabi,Fallow,156,45
+542433,Shiwani Bk.,2015,Rabi,Fallow,81,31
+532376,Pimpalkhuta,2015,Rabi,Fallow,1,0
+532425,Beskheda,2015,Rabi,Fallow,23,6
+533621,Nandora,2015,Rabi,Fallow,53,76
+533617,Kajali,2015,Rabi,Fallow,66,32
+533813,AJANGAON,2015,Rabi,Fallow,240,49
+533814,TEMBHARI,2015,Rabi,Fallow,72,51
+534004,KHADKA,2015,Rabi,Fallow,12,6
+533913,GAIMUKH,2015,Rabi,Fallow,16,7
+533957,REHAKI(KALA),2015,Rabi,Fallow,11,3
+534819,Gondegaon,2015,Rabi,Fallow,60,32
+534815,Gaimukh,2015,Rabi,Fallow,19,12
+531606,Hilda,2015,Rabi,Fallow,40,70
+531539,Makhala,2015,Rabi,Fallow,86,45
+532333,Katsur,2015,Rabi,Fallow,145,20
+532342,Shirajgaon,2015,Rabi,Fallow,95,16
+533063,Kanzara,2015,Rabi,Fallow,216,32
+533065,Mokhad,2015,Rabi,Fallow,185,25
+533105,Pimpalgaon (Bainai),2015,Rabi,Fallow,88,24
+529748,Dangarkhed,2015,Rabi,Fallow,31,74
+529702,Rahnapur,2015,Rabi,Fallow,2,20
+529702,Rahnapur,2015,Rabi,Fallow,19,11
+529621,Chipi,2015,Rabi,Fallow,41,69
+529703,Shahapur Pr. Rupagad,2015,Rabi,Fallow,42,25
+528242,Khandvi,2015,Rabi,Fallow,105,25
+528208,Wadgaon,2015,Rabi,Fallow,49,24
+528364,Manardi,2015,Rabi,Fallow,11,3
+528362,Kakoda,2015,Rabi,Fallow,72,23
+528294,Salwan,2015,Rabi,Fallow,62,79
+531457,Mansubhawdi,2015,Rabi,Fallow,203,70
+531449,Jutpani,2015,Rabi,Fallow,486,82
+527450,Dahiwad Kh.,2015,Rabi,Fallow,313,54
+527462,Nagaon Kh.,2015,Rabi,Fallow,300,65
+528661,Ridhora Khandopant,2015,Rabi,Fallow,283,50
+528658,Sindkhed,2015,Rabi,Fallow,113,39
+528208,Wadgaon  Patan,2015,Rabi,Fallow,90,27
+558036,Jambhali,2015,Rabi,Fallow,286,38
+558056,Jogewadi,2015,Rabi,Fallow,250,68
+558731,Bandkhel,2015,Rabi,Fallow,255,49
+557949,Kaudgaon,2015,Rabi,Fallow,211,43
+549002,Mamnapur,2015,Rabi,Fallow,108,37
+549000,Gadana,2015,Rabi,Fallow,48,12
+549002,Mamnapur,2015,Rabi,Fallow,8,33
+548985,Mahamadpur,2015,Rabi,Fallow,45,36
+548675,Nidhona,2015,Rabi,Fallow,244,40
+548671,Wawana,2015,Rabi,Fallow,114,33
+548662,Hiwara,2015,Rabi,Fallow,201,44
+550460,Bopane,2015,Rabi,Fallow,177,59
+549125,Palkhed,2015,Rabi,Fallow,405,28
+549131,Ballali Sagaj,2015,Rabi,Fallow,276,38
+558098,Mehekari,2015,Rabi,Fallow,177,30
+558072,Manjar Sumbha,2015,Rabi,Fallow,344,60
+558288,Nandur Pathar,2015,Rabi,Fallow,219,37
+558268,Palaspur,2015,Rabi,Fallow,224,32
+551152,Wadzire,2015,Rabi,Fallow,175,26
+551195,Mohu,2015,Rabi,Fallow,204,35
+550493,Urdhul,2015,Rabi,Fallow,293,38
+527524,Javakhede,2015,Rabi,Fallow,566,46
+525668,Dhamdai,2015,Rabi,Fallow,80,19
+525665,Adachhi,2015,Rabi,Fallow,87,18
+568509,Pare,2016,Rabi,Fallow,307,54
+568618,Kamkatrewadi,2016,Rabi,Fallow,108,65
+568575,Sherewadi,2016,Rabi,Fallow,40,83
+568571,Palaskhel,2016,Rabi,Fallow,129,53
+568541,Balvadi (Kha),2016,Rabi,Fallow,920,80
+568524,Jondhalkhindi,2016,Rabi,Fallow,141,65
+568519,Sangole,2016,Rabi,Fallow,132,58
+563669,Rui,2016,Rabi,Fallow,152,38
+563637,Bichukale,2016,Rabi,Fallow,207,40
+563623,Anbatwadi,2016,Rabi,Fallow,92,25
+556461,Waghapur,2016,Rabi,Fallow,278,61
+556457,Pokhar,2016,Rabi,Fallow,21,44
+556492,Sakurde,2016,Rabi,Fallow,510,83
+556987,Takrarwadi,2016,Rabi,Fallow,24,30
+556984,Shetphalgadhe,2016,Rabi,Fallow,497,41
+556995,Nirgude,2016,Rabi,Fallow,756,44
+557053,Ghorpadwadi,2016,Rabi,Fallow,154,39
+563383,Anubhulewadi (N.V.),2016,Rabi,Fallow,156,72
+563655,Bodhewadi (N.V.),2016,Rabi,Fallow,43,40
+563370,Parkhandi,2016,Rabi,Fallow,211,50
+563394,Bidal,2016,Rabi,Fallow,903,72
+563429,Kiraksal,2016,Rabi,Fallow,695,73
+563685,Bodhewadi (N.V.),2016,Rabi,Fallow,136,55
+563687,Ramusmachi,2016,Rabi,Fallow,49,44
+563504,Jakhangaon,2016,Rabi,Fallow,208,32
+563719,Jaygaon,2016,Rabi,Fallow,186,58
+563511,Bhosare,2016,Rabi,Fallow,253,47
+563516,Jaygaon,2016,Rabi,Fallow,209,43
+563722,Velu,2016,Rabi,Fallow,201,53
+563726,Nhavi bk,2016,Rabi,Fallow,265,48
+563727,Pawarwadi,2016,Rabi,Fallow,61,37
+563743,Nagzari,2016,Rabi,Fallow,518,66
+563551,Yelmarwadi,2016,Rabi,Fallow,196,74
+568571,Palaskhel,2016,Rabi,Fallow,172,61
+561191,Pathasangvi,2016,Rabi,Fallow,304,32
+561192,Walha,2016,Rabi,Fallow,234,26
+561109,Kumbhephal,2016,Rabi,Fallow,269,37
+561083,Bodakha,2016,Rabi,Fallow,135,38
+561221,Hiwara,2016,Rabi,Fallow,208,56
+561315,Shelka Dhanora,2016,Rabi,Fallow,255,49
+561316,Kherda,2016,Rabi,Fallow,62,20
+559725,Kashidwadi,2016,Rabi,Fallow,131,54
+559752,Chandansawargaon,2016,Rabi,Fallow,271,28
+559773,Kalam Amba,2016,Rabi,Fallow,379,27
+559780,Palaskheda,2016,Rabi,Fallow,37,8
+559851,Jaybhaychi Wadi,2016,Rabi,Fallow,120,78
+559834,Wharkarwadi,2016,Rabi,Fallow,131,53
+559831,Amla,2016,Rabi,Fallow,158,34
+560013,Yelda,2016,Rabi,Fallow,955,71
+560019,Dongar Pimpla,2016,Rabi,Fallow,609,52
+559995,Shripatrayachiwadi,2016,Rabi,Fallow,61,21
+560027,Selu Amba,2016,Rabi,Fallow,180,30
+560018,Shepwadi,2016,Rabi,Fallow,234,48
+560036,Daithana Radi,2016,Rabi,Fallow,17,5
+560008,Patoda,2016,Rabi,Fallow,306,22
+560000,Kumbephal,2016,Rabi,Fallow,229,26
+561343,Wathawada,2016,Rabi,Fallow,690,65
+560694,Ashiv,2016,Rabi,Fallow,528,25
+562150,Bhagaiwadi,2016,Rabi,Fallow,96,38
+562165,Raleras,2016,Rabi,Fallow,161,31
+562181,Hiraj,2016,Rabi,Fallow,513,45
+562185,Belati,2016,Rabi,Fallow,217,33
+568871,Maithal,2016,Rabi,Fallow,175,68
+562602,Wani Chinchol,2016,Rabi,Fallow,470,59
+562557,Yelmar Mangewadi,2016,Rabi,Fallow,661,57
+568847,Bagalwadi,2016,Rabi,Fallow,103,43
+568820,Navalwadi,2016,Rabi,Fallow,269,65
+562615,Narale,2016,Rabi,Fallow,248,62
+568832,Belunki,2016,Rabi,Fallow,454,52
+560811,Tagarkheda,2016,Rabi,Fallow,232,15
+560808,Halgara,2016,Rabi,Fallow,220,15
+560808,Halgara,2016,Rabi,Fallow,9,20
+560808,Halgara,2016,Rabi,Fallow,2,58
+560826,Nadi Hattarga,2016,Rabi,Fallow,204,36
+560663,Ramegaon,2016,Rabi,Fallow,179,17
+560732,Anandwadi (gaur),2016,Rabi,Fallow,1,17
+560732,Anandwadi (gaur),2016,Rabi,Fallow,12,12
+560732,Anandwadi (gaur),2016,Rabi,Fallow,0,1
+560671,Dautpur,2016,Rabi,Fallow,244,27
+560075,Khapartong,2016,Rabi,Fallow,128,27
+530354,Pangartati,2016,Rabi,Fallow,198,59
+530386,Charmoli,2016,Rabi,Fallow,42,25
+530396,Shirla,2016,Rabi,Fallow,92,17
+530401,Jambharun,2016,Rabi,Fallow,135,43
+530537,Hatola,2016,Rabi,Fallow,135,29
+530573,Kherda Kh.,2016,Rabi,Fallow,226,43
+530855,Janori,2016,Rabi,Fallow,259,45
+530861,Kakadshivni,2016,Rabi,Fallow,203,33
+530904,Jaipur,2016,Rabi,Fallow,110,38
+543056,Yekamba,2016,Rabi,Fallow,30,27
+543045,Morchandi,2016,Rabi,Fallow,30,9
+543678,Kochi,2016,Rabi,Fallow,27,9
+542300,Rajur,2016,Rabi,Fallow,40,22
+542307,Khadki,2016,Rabi,Fallow,47,56
+543594,Warna,2016,Rabi,Fallow,132,46
+543650,Vedshi,2016,Rabi,Fallow,89,12
+543659,Khairgaon (kasar),2016,Rabi,Fallow,90,23
+532486,Sawanga,2016,Rabi,Fallow,31,10
+532445,Amdapur,2016,Rabi,Fallow,11,5
+532421,Wathoda,2016,Rabi,Fallow,24,5
+532420,Musalkhed,2016,Rabi,Fallow,20,8
+532426,Porgavhan,2016,Rabi,Fallow,93,16
+533808,BOTHALI,2016,Rabi,Fallow,45,34
+533818,KAKADDARA,2016,Rabi,Fallow,125,68
+532367,Tembhurkheda,2016,Rabi,Fallow,68,7
+532365,Gavhankund,2016,Rabi,Fallow,32,10
+530919,Dhanj  Bk,2016,Rabi,Fallow,200,31
+529705,Jitapur Pr. Rupagad,2016,Rabi,Fallow,27,6
+529722,Umara,2016,Rabi,Fallow,57,11
+529781,Mirzapur,2016,Rabi,Fallow,47,29
+530464,Sarav,2016,Rabi,Fallow,174,72
+530463,Kanheri,2016,Rabi,Fallow,395,38
+531377,Sadrabardi,2016,Rabi,Fallow,242,47
+531383,Laktu,2016,Rabi,Fallow,181,48
+531402,Sawalikheda,2016,Rabi,Fallow,515,78
+531455,Ghuti,2016,Rabi,Fallow,274,63
+548964,Khirdi,2016,Rabi,Fallow,150,28
+549006,Golegaon,2016,Rabi,Fallow,80,15
+549001,Borwadi,2016,Rabi,Fallow,21,18
+548725,Dongargaon Kawad,2016,Rabi,Fallow,87,17
+548745,Waghola,2016,Rabi,Fallow,105,34
+568779,Shelkewadi,2016,Rabi,Fallow,171,76
+568528,Renavi,2016,Rabi,Fallow,354,74
+568650,Biranwadi,2016,Rabi,Fallow,117,50
+568775,Kerewadi,2016,Rabi,Fallow,185,78
+568563,Tadachiwadi,2016,Rabi,Fallow,130,89
+568620,Autewadi,2016,Rabi,Fallow,155,74
+568620,Autewadi,2016,Rabi,Fallow,30,91
+568645,Panmalewadi,2016,Rabi,Fallow,48,40
+563669,Rui,2016,Rabi,Fallow,152,38
+556457,Pokhar,2016,Rabi,Fallow,21,44
+556507,Bhairavwadi,2016,Rabi,Fallow,19,69
+556901,Sawantwadi,2016,Rabi,Fallow,145,37
+556897,Undavadi Kade Pathar,2016,Rabi,Fallow,288,39
+556994,Lamjewadi,2016,Rabi,Fallow,213,52
+557060,Vyahali,2016,Rabi,Fallow,277,46
+563655,Bodhewadi (N.V.),2016,Rabi,Fallow,43,40
+563469,Kalewadi,2016,Rabi,Fallow,85,58
+563416,Mahimangad,2016,Rabi,Fallow,259,72
+563530,Gopuj,2016,Rabi,Fallow,189,46
+563518,Nandoshi,2016,Rabi,Fallow,89,62
+563432,Naravane,2016,Rabi,Fallow,834,71
+563435,Dhamani,2016,Rabi,Fallow,255,45
+568584,Ambewadi,2016,Rabi,Fallow,259,68
+561973,Bhend,2016,Rabi,Fallow,401,43
+561991,Anjangaon Kh.,2016,Rabi,Fallow,508,39
+562002,Londhewadi,2016,Rabi,Fallow,67,24
+561881,Malwadi,2016,Rabi,Fallow,436,45
+561859,Sarapdoh,2016,Rabi,Fallow,246,38
+561857,Shelgaon (K),2016,Rabi,Fallow,171,32
+561062,Katewadi,2016,Rabi,Fallow,157,49
+558583,Kumbhefal,2016,Rabi,Fallow,65,35
+558541,Supe,2016,Rabi,Fallow,374,58
+558534,Diksal,2016,Rabi,Fallow,494,55
+558833,Anandwadi,2016,Rabi,Fallow,96,28
+558821,Pimpalgaon Dani,2016,Rabi,Fallow,295,49
+562011,Khadkoni,2016,Rabi,Fallow,245,60
+562052,Dhotre,2016,Rabi,Fallow,518,65
+561305,Bhatshirapura,2016,Rabi,Fallow,167,36
+561306,Pimpalgaon Dola,2016,Rabi,Fallow,205,32
+559784,Anandgaon,2016,Rabi,Fallow,222,23
+559772,Kekat Sarni,2016,Rabi,Fallow,134,19
+559779,Depewadgaon,2016,Rabi,Fallow,100,19
+559868,Umbrayachiwadi,2016,Rabi,Fallow,164,49
+559904,Kavalyachiwadi,2016,Rabi,Fallow,60,14
+559917,Bhilegaon,2016,Rabi,Fallow,96,27
+560012,Mandva (pathan),2016,Rabi,Fallow,429,58
+559988,Chichkhandi,2016,Rabi,Fallow,716,74
+560028,Pokhari,2016,Rabi,Fallow,215,24
+560610,Yeloriwadi,2016,Rabi,Fallow,110,51
+560677,Yekambiwadi,2016,Rabi,Fallow,111,42
+561477,Kawaldara Tanda,2016,Rabi,Fallow,121,73
+561458,Sakanewadi,2016,Rabi,Fallow,259,45
+561446,Darphal,2016,Rabi,Fallow,129,26
+562164,Honsal,2016,Rabi,Fallow,349,40
+562158,Wadala,2016,Rabi,Fallow,444,34
+562181,Hiraj,2016,Rabi,Fallow,513,45
+562694,Asabewadi,2016,Rabi,Fallow,96,67
+568864,Lakdewadi,2016,Rabi,Fallow,371,88
+562653,Jitti,2016,Rabi,Fallow,424,78
+568844,Avandhi,2016,Rabi,Fallow,568,60
+568849,Mokashawadi,2016,Rabi,Fallow,136,51
+544882,Nanda Bk.,2016,Rabi,Fallow,344,77
+544888,Hadoli,2016,Rabi,Fallow,202,43
+545238,Kalambar Kh.,2016,Rabi,Fallow,24,11
+560888,Kamaroddinpur,2016,Rabi,Fallow,45,7
+560890,Nagtirthawadi,2016,Rabi,Fallow,38,15
+560805,Koyachiwadi,2016,Rabi,Fallow,1,25
+560806,Rajewadi,2016,Rabi,Fallow,51,33
+560804,Sangaraddiwadi,2016,Rabi,Fallow,42,13
+560805,Koyachiwadi,2016,Rabi,Fallow,1,7
+560805,Koyachiwadi,2016,Rabi,Fallow,1,3
+560805,Koyachiwadi,2016,Rabi,Fallow,1,3
+545303,Wagdarwadi,2016,Rabi,Fallow,202,80
+546633,Jununwadi,2016,Rabi,Fallow,154,86
+546579,Jamb kh,2016,Rabi,Fallow,79,31
+546555,Sawargaon,2016,Rabi,Fallow,421,77
+530353,Sawargaon,2016,Rabi,Fallow,508,60
+530358,Malsoor,2016,Rabi,Fallow,398,56
+530461,Chohagaon,2016,Rabi,Fallow,18,7
+530452,Lohgadtanda (N.V.),2016,Rabi,Fallow,48,35
+530743,Chakwa,2016,Rabi,Fallow,43,24
+530573,Kherda Kh.,2016,Rabi,Fallow,226,43
+530851,Bhadshivni,2016,Rabi,Fallow,219,33
+530896,Vilegaon,2016,Rabi,Fallow,198,20
+530753,Borwha bk.,2016,Rabi,Fallow,72,33
+542574,Shelodi,2016,Rabi,Fallow,69,17
+542636,Bothgavan,2016,Rabi,Fallow,19,11
+542627,Tapona,2016,Rabi,Fallow,59,26
+542933,Kalambula,2016,Rabi,Fallow,45,17
+546127,Ramwadi,2016,Rabi,Fallow,83,43
+546221,Kupti,2016,Rabi,Fallow,149,26
+546194,Jaroda,2016,Rabi,Fallow,85,30
+542983,Parjana,2016,Rabi,Fallow,11,5
+534248,FATTEPUR,2016,Rabi,Fallow,159,44
+534225,EKAMBA,2016,Rabi,Fallow,99,34
+534240,TALNI(BHAGWAT),2016,Rabi,Fallow,137,42
+542298,Tirzada,2016,Rabi,Fallow,57,26
+542227,Narsapur,2016,Rabi,Fallow,97,25
+543646,Sakhi-Kh,2016,Rabi,Fallow,44,19
+543660,Chondhi,2016,Rabi,Fallow,31,22
+542477,Dharamgaon,2016,Rabi,Fallow,11,25
+543331,Pandhurna Bk,2016,Rabi,Fallow,127,32
+543343,Kumbhari,2016,Rabi,Fallow,177,51
+542433,Shiwani Bk.,2016,Rabi,Fallow,80,30
+532376,Pimpalkhuta,2016,Rabi,Fallow,4,2
+532425,Beskheda,2016,Rabi,Fallow,50,14
+533621,Nandora,2016,Rabi,Fallow,49,70
+533617,Kajali,2016,Rabi,Fallow,107,52
+533813,AJANGAON,2016,Rabi,Fallow,281,57
+533814,TEMBHARI,2016,Rabi,Fallow,84,59
+534004,KHADKA,2016,Rabi,Fallow,26,12
+533913,GAIMUKH,2016,Rabi,Fallow,30,13
+533957,REHAKI(KALA),2016,Rabi,Fallow,18,5
+534819,Gondegaon,2016,Rabi,Fallow,64,34
+534815,Gaimukh,2016,Rabi,Fallow,25,16
+531606,Hilda,2016,Rabi,Fallow,23,40
+531539,Makhala,2016,Rabi,Fallow,87,46
+532333,Katsur,2016,Rabi,Fallow,180,25
+532342,Shirajgaon,2016,Rabi,Fallow,115,19
+533063,Kanzara,2016,Rabi,Fallow,230,34
+533065,Mokhad,2016,Rabi,Fallow,165,23
+533105,Pimpalgaon (Bainai),2016,Rabi,Fallow,91,25
+529748,Dangarkhed,2016,Rabi,Fallow,24,57
+529702,Rahnapur,2016,Rabi,Fallow,3,29
+529702,Rahnapur,2016,Rabi,Fallow,27,15
+529621,Chipi,2016,Rabi,Fallow,28,47
+529703,Shahapur Pr. Rupagad,2016,Rabi,Fallow,35,20
+528242,Khandvi,2016,Rabi,Fallow,58,14
+528208,Wadgaon,2016,Rabi,Fallow,48,23
+528364,Manardi,2016,Rabi,Fallow,16,5
+528362,Kakoda,2016,Rabi,Fallow,142,46
+528294,Salwan,2016,Rabi,Fallow,56,71
+531457,Mansubhawdi,2016,Rabi,Fallow,167,58
+531449,Jutpani,2016,Rabi,Fallow,289,49
+527450,Dahiwad Kh.,2016,Rabi,Fallow,110,19
+527462,Nagaon Kh.,2016,Rabi,Fallow,187,41
+528661,Ridhora Khandopant,2016,Rabi,Fallow,198,35
+528658,Sindkhed,2016,Rabi,Fallow,48,17
+528208,Wadgaon  Patan,2016,Rabi,Fallow,107,32
+558036,Jambhali,2016,Rabi,Fallow,303,40
+558056,Jogewadi,2016,Rabi,Fallow,281,76
+558731,Bandkhel,2016,Rabi,Fallow,249,48
+557949,Kaudgaon,2016,Rabi,Fallow,198,40
+549002,Mamnapur,2016,Rabi,Fallow,58,20
+549000,Gadana,2016,Rabi,Fallow,34,8
+549002,Mamnapur,2016,Rabi,Fallow,4,14
+548985,Mahamadpur,2016,Rabi,Fallow,28,22
+548675,Nidhona,2016,Rabi,Fallow,164,27
+548671,Wawana,2016,Rabi,Fallow,52,15
+548662,Hiwara,2016,Rabi,Fallow,186,41
+550460,Bopane,2016,Rabi,Fallow,100,33
+549125,Palkhed,2016,Rabi,Fallow,317,22
+549131,Ballali Sagaj,2016,Rabi,Fallow,348,48
+558098,Mehekari,2016,Rabi,Fallow,110,19
+558072,Manjar Sumbha,2016,Rabi,Fallow,145,25
+558288,Nandur Pathar,2016,Rabi,Fallow,427,73
+558268,Palaspur,2016,Rabi,Fallow,321,46
+551152,Wadzire,2016,Rabi,Fallow,199,29
+551195,Mohu,2016,Rabi,Fallow,220,38
+550493,Urdhul,2016,Rabi,Fallow,284,37
+527524,Javakhede,2016,Rabi,Fallow,830,67
+525668,Dhamdai,2016,Rabi,Fallow,53,12
+525665,Adachhi,2016,Rabi,Fallow,44,9
+568509,Pare,2017,Rabi,Fallow,225,40
+568618,Kamkatrewadi,2017,Rabi,Fallow,104,63
+568575,Sherewadi,2017,Rabi,Fallow,36,76
+568571,Palaskhel,2017,Rabi,Fallow,107,44
+568541,Balvadi (Kha),2017,Rabi,Fallow,631,55
+568524,Jondhalkhindi,2017,Rabi,Fallow,128,59
+568519,Sangole,2017,Rabi,Fallow,97,43
+563669,Rui,2017,Rabi,Fallow,111,28
+563637,Bichukale,2017,Rabi,Fallow,140,27
+563623,Anbatwadi,2017,Rabi,Fallow,68,19
+556461,Waghapur,2017,Rabi,Fallow,186,41
+556457,Pokhar,2017,Rabi,Fallow,19,41
+556492,Sakurde,2017,Rabi,Fallow,309,50
+556987,Takrarwadi,2017,Rabi,Fallow,22,28
+556984,Shetphalgadhe,2017,Rabi,Fallow,493,40
+556995,Nirgude,2017,Rabi,Fallow,845,50
+557053,Ghorpadwadi,2017,Rabi,Fallow,165,41
+563383,Anubhulewadi (N.V.),2017,Rabi,Fallow,143,66
+563655,Bodhewadi (N.V.),2017,Rabi,Fallow,49,46
+563370,Parkhandi,2017,Rabi,Fallow,192,45
+563394,Bidal,2017,Rabi,Fallow,575,46
+563429,Kiraksal,2017,Rabi,Fallow,682,72
+563685,Bodhewadi (N.V.),2017,Rabi,Fallow,107,43
+563687,Ramusmachi,2017,Rabi,Fallow,31,27
+563504,Jakhangaon,2017,Rabi,Fallow,179,28
+563719,Jaygaon,2017,Rabi,Fallow,137,43
+563511,Bhosare,2017,Rabi,Fallow,208,38
+563516,Jaygaon,2017,Rabi,Fallow,171,35
+563722,Velu,2017,Rabi,Fallow,187,49
+563726,Nhavi bk,2017,Rabi,Fallow,196,36
+563727,Pawarwadi,2017,Rabi,Fallow,54,33
+563743,Nagzari,2017,Rabi,Fallow,505,64
+563551,Yelmarwadi,2017,Rabi,Fallow,181,68
+568571,Palaskhel,2017,Rabi,Fallow,155,55
+561191,Pathasangvi,2017,Rabi,Fallow,307,32
+561192,Walha,2017,Rabi,Fallow,242,27
+561109,Kumbhephal,2017,Rabi,Fallow,315,43
+561083,Bodakha,2017,Rabi,Fallow,96,27
+561221,Hiwara,2017,Rabi,Fallow,192,52
+561315,Shelka Dhanora,2017,Rabi,Fallow,208,40
+561316,Kherda,2017,Rabi,Fallow,51,16
+559725,Kashidwadi,2017,Rabi,Fallow,94,39
+559752,Chandansawargaon,2017,Rabi,Fallow,187,19
+559773,Kalam Amba,2017,Rabi,Fallow,244,17
+559780,Palaskheda,2017,Rabi,Fallow,51,11
+559851,Jaybhaychi Wadi,2017,Rabi,Fallow,88,57
+559834,Wharkarwadi,2017,Rabi,Fallow,127,51
+559831,Amla,2017,Rabi,Fallow,124,27
+560013,Yelda,2017,Rabi,Fallow,740,55
+560019,Dongar Pimpla,2017,Rabi,Fallow,425,36
+559995,Shripatrayachiwadi,2017,Rabi,Fallow,42,14
+560027,Selu Amba,2017,Rabi,Fallow,151,25
+560018,Shepwadi,2017,Rabi,Fallow,199,41
+560036,Daithana Radi,2017,Rabi,Fallow,19,6
+560008,Patoda,2017,Rabi,Fallow,418,29
+560000,Kumbephal,2017,Rabi,Fallow,183,21
+561343,Wathawada,2017,Rabi,Fallow,529,50
+560694,Ashiv,2017,Rabi,Fallow,575,27
+562150,Bhagaiwadi,2017,Rabi,Fallow,106,41
+562165,Raleras,2017,Rabi,Fallow,183,35
+562181,Hiraj,2017,Rabi,Fallow,534,47
+562185,Belati,2017,Rabi,Fallow,211,32
+568871,Maithal,2017,Rabi,Fallow,173,68
+562602,Wani Chinchol,2017,Rabi,Fallow,472,59
+562557,Yelmar Mangewadi,2017,Rabi,Fallow,412,36
+568847,Bagalwadi,2017,Rabi,Fallow,78,33
+568820,Navalwadi,2017,Rabi,Fallow,238,58
+562615,Narale,2017,Rabi,Fallow,277,69
+568832,Belunki,2017,Rabi,Fallow,278,32
+560811,Tagarkheda,2017,Rabi,Fallow,219,14
+560808,Halgara,2017,Rabi,Fallow,177,12
+560808,Halgara,2017,Rabi,Fallow,8,18
+560808,Halgara,2017,Rabi,Fallow,2,45
+560826,Nadi Hattarga,2017,Rabi,Fallow,160,28
+560663,Ramegaon,2017,Rabi,Fallow,179,17
+560732,Anandwadi (gaur),2017,Rabi,Fallow,1,19
+560732,Anandwadi (gaur),2017,Rabi,Fallow,5,5
+560732,Anandwadi (gaur),2017,Rabi,Fallow,1,2
+560671,Dautpur,2017,Rabi,Fallow,170,19
+560075,Khapartong,2017,Rabi,Fallow,97,21
+530354,Pangartati,2017,Rabi,Fallow,224,67
+530386,Charmoli,2017,Rabi,Fallow,46,27
+530396,Shirla,2017,Rabi,Fallow,235,44
+530401,Jambharun,2017,Rabi,Fallow,232,74
+530537,Hatola,2017,Rabi,Fallow,163,34
+530573,Kherda Kh.,2017,Rabi,Fallow,305,58
+530855,Janori,2017,Rabi,Fallow,358,61
+530861,Kakadshivni,2017,Rabi,Fallow,450,73
+530904,Jaipur,2017,Rabi,Fallow,185,65
+543056,Yekamba,2017,Rabi,Fallow,31,29
+543045,Morchandi,2017,Rabi,Fallow,82,24
+543678,Kochi,2017,Rabi,Fallow,6,2
+542300,Rajur,2017,Rabi,Fallow,78,43
+542307,Khadki,2017,Rabi,Fallow,22,27
+543594,Warna,2017,Rabi,Fallow,185,65
+543650,Vedshi,2017,Rabi,Fallow,69,9
+543659,Khairgaon (kasar),2017,Rabi,Fallow,62,16
+532486,Sawanga,2017,Rabi,Fallow,27,8
+532445,Amdapur,2017,Rabi,Fallow,7,3
+532421,Wathoda,2017,Rabi,Fallow,10,2
+532420,Musalkhed,2017,Rabi,Fallow,19,7
+532426,Porgavhan,2017,Rabi,Fallow,29,5
+533808,BOTHALI,2017,Rabi,Fallow,20,15
+533818,KAKADDARA,2017,Rabi,Fallow,109,60
+532367,Tembhurkheda,2017,Rabi,Fallow,58,6
+532365,Gavhankund,2017,Rabi,Fallow,43,13
+530919,Dhanj  Bk,2017,Rabi,Fallow,501,78
+529705,Jitapur Pr. Rupagad,2017,Rabi,Fallow,22,5
+529722,Umara,2017,Rabi,Fallow,46,9
+529781,Mirzapur,2017,Rabi,Fallow,25,15
+530464,Sarav,2017,Rabi,Fallow,171,70
+530463,Kanheri,2017,Rabi,Fallow,401,39
+531377,Sadrabardi,2017,Rabi,Fallow,188,37
+531383,Laktu,2017,Rabi,Fallow,216,57
+531402,Sawalikheda,2017,Rabi,Fallow,390,59
+531455,Ghuti,2017,Rabi,Fallow,232,54
+548964,Khirdi,2017,Rabi,Fallow,179,33
+549006,Golegaon,2017,Rabi,Fallow,53,10
+549001,Borwadi,2017,Rabi,Fallow,18,15
+548725,Dongargaon Kawad,2017,Rabi,Fallow,435,86
+548745,Waghola,2017,Rabi,Fallow,238,77
+568779,Shelkewadi,2017,Rabi,Fallow,151,67
+568528,Renavi,2017,Rabi,Fallow,328,68
+568650,Biranwadi,2017,Rabi,Fallow,91,39
+568775,Kerewadi,2017,Rabi,Fallow,115,49
+568563,Tadachiwadi,2017,Rabi,Fallow,108,74
+568620,Autewadi,2017,Rabi,Fallow,137,66
+568620,Autewadi,2017,Rabi,Fallow,26,80
+568645,Panmalewadi,2017,Rabi,Fallow,39,32
+563669,Rui,2017,Rabi,Fallow,111,28
+556457,Pokhar,2017,Rabi,Fallow,19,41
+556507,Bhairavwadi,2017,Rabi,Fallow,20,73
+556901,Sawantwadi,2017,Rabi,Fallow,127,32
+556897,Undavadi Kade Pathar,2017,Rabi,Fallow,202,27
+556994,Lamjewadi,2017,Rabi,Fallow,189,46
+557060,Vyahali,2017,Rabi,Fallow,298,49
+563655,Bodhewadi (N.V.),2017,Rabi,Fallow,49,46
+563469,Kalewadi,2017,Rabi,Fallow,85,59
+563416,Mahimangad,2017,Rabi,Fallow,239,67
+563530,Gopuj,2017,Rabi,Fallow,169,41
+563518,Nandoshi,2017,Rabi,Fallow,92,65
+563432,Naravane,2017,Rabi,Fallow,814,69
+563435,Dhamani,2017,Rabi,Fallow,227,40
+568584,Ambewadi,2017,Rabi,Fallow,248,65
+561973,Bhend,2017,Rabi,Fallow,393,43
+561991,Anjangaon Kh.,2017,Rabi,Fallow,500,38
+562002,Londhewadi,2017,Rabi,Fallow,88,31
+561881,Malwadi,2017,Rabi,Fallow,391,40
+561859,Sarapdoh,2017,Rabi,Fallow,178,27
+561857,Shelgaon (K),2017,Rabi,Fallow,152,29
+561062,Katewadi,2017,Rabi,Fallow,148,46
+558583,Kumbhefal,2017,Rabi,Fallow,65,35
+558541,Supe,2017,Rabi,Fallow,352,54
+558534,Diksal,2017,Rabi,Fallow,499,56
+558833,Anandwadi,2017,Rabi,Fallow,102,29
+558821,Pimpalgaon Dani,2017,Rabi,Fallow,314,52
+562011,Khadkoni,2017,Rabi,Fallow,211,51
+562052,Dhotre,2017,Rabi,Fallow,384,48
+561305,Bhatshirapura,2017,Rabi,Fallow,165,35
+561306,Pimpalgaon Dola,2017,Rabi,Fallow,181,28
+559784,Anandgaon,2017,Rabi,Fallow,174,18
+559772,Kekat Sarni,2017,Rabi,Fallow,69,10
+559779,Depewadgaon,2017,Rabi,Fallow,71,13
+559868,Umbrayachiwadi,2017,Rabi,Fallow,120,36
+559904,Kavalyachiwadi,2017,Rabi,Fallow,41,9
+559917,Bhilegaon,2017,Rabi,Fallow,80,23
+560012,Mandva (pathan),2017,Rabi,Fallow,384,52
+559988,Chichkhandi,2017,Rabi,Fallow,550,56
+560028,Pokhari,2017,Rabi,Fallow,191,22
+560610,Yeloriwadi,2017,Rabi,Fallow,107,50
+560677,Yekambiwadi,2017,Rabi,Fallow,85,32
+561477,Kawaldara Tanda,2017,Rabi,Fallow,121,73
+561458,Sakanewadi,2017,Rabi,Fallow,247,43
+561446,Darphal,2017,Rabi,Fallow,107,22
+562164,Honsal,2017,Rabi,Fallow,369,43
+562158,Wadala,2017,Rabi,Fallow,504,39
+562181,Hiraj,2017,Rabi,Fallow,534,47
+562694,Asabewadi,2017,Rabi,Fallow,66,46
+568864,Lakdewadi,2017,Rabi,Fallow,323,76
+562653,Jitti,2017,Rabi,Fallow,329,61
+568844,Avandhi,2017,Rabi,Fallow,587,62
+568849,Mokashawadi,2017,Rabi,Fallow,106,40
+544882,Nanda Bk.,2017,Rabi,Fallow,265,59
+544888,Hadoli,2017,Rabi,Fallow,171,36
+545238,Kalambar Kh.,2017,Rabi,Fallow,46,21
+560888,Kamaroddinpur,2017,Rabi,Fallow,53,8
+560890,Nagtirthawadi,2017,Rabi,Fallow,42,17
+560805,Koyachiwadi,2017,Rabi,Fallow,0,1
+560806,Rajewadi,2017,Rabi,Fallow,38,25
+560804,Sangaraddiwadi,2017,Rabi,Fallow,34,10
+560805,Koyachiwadi,2017,Rabi,Fallow,1,8
+560805,Koyachiwadi,2017,Rabi,Fallow,3,8
+560805,Koyachiwadi,2017,Rabi,Fallow,0,2
+545303,Wagdarwadi,2017,Rabi,Fallow,219,87
+546633,Jununwadi,2017,Rabi,Fallow,153,85
+546579,Jamb kh,2017,Rabi,Fallow,79,31
+546555,Sawargaon,2017,Rabi,Fallow,402,74
+530353,Sawargaon,2017,Rabi,Fallow,715,85
+530358,Malsoor,2017,Rabi,Fallow,564,79
+530461,Chohagaon,2017,Rabi,Fallow,142,55
+530452,Lohgadtanda (N.V.),2017,Rabi,Fallow,62,45
+530743,Chakwa,2017,Rabi,Fallow,123,68
+530573,Kherda Kh.,2017,Rabi,Fallow,305,58
+530851,Bhadshivni,2017,Rabi,Fallow,461,69
+530896,Vilegaon,2017,Rabi,Fallow,787,79
+530753,Borwha bk.,2017,Rabi,Fallow,116,54
+542574,Shelodi,2017,Rabi,Fallow,123,31
+542636,Bothgavan,2017,Rabi,Fallow,41,25
+542627,Tapona,2017,Rabi,Fallow,145,63
+542933,Kalambula,2017,Rabi,Fallow,43,17
+546127,Ramwadi,2017,Rabi,Fallow,145,74
+546221,Kupti,2017,Rabi,Fallow,150,27
+546194,Jaroda,2017,Rabi,Fallow,71,25
+542983,Parjana,2017,Rabi,Fallow,17,8
+534248,FATTEPUR,2017,Rabi,Fallow,78,22
+534225,EKAMBA,2017,Rabi,Fallow,140,48
+534240,TALNI(BHAGWAT),2017,Rabi,Fallow,97,29
+542298,Tirzada,2017,Rabi,Fallow,97,44
+542227,Narsapur,2017,Rabi,Fallow,173,45
+543646,Sakhi-Kh,2017,Rabi,Fallow,60,26
+543660,Chondhi,2017,Rabi,Fallow,24,17
+542477,Dharamgaon,2017,Rabi,Fallow,14,29
+543331,Pandhurna Bk,2017,Rabi,Fallow,187,48
+543343,Kumbhari,2017,Rabi,Fallow,221,64
+542433,Shiwani Bk.,2017,Rabi,Fallow,187,71
+532376,Pimpalkhuta,2017,Rabi,Fallow,4,2
+532425,Beskheda,2017,Rabi,Fallow,16,4
+533621,Nandora,2017,Rabi,Fallow,32,46
+533617,Kajali,2017,Rabi,Fallow,43,21
+533813,AJANGAON,2017,Rabi,Fallow,195,39
+533814,TEMBHARI,2017,Rabi,Fallow,70,49
+534004,KHADKA,2017,Rabi,Fallow,6,3
+533913,GAIMUKH,2017,Rabi,Fallow,5,2
+533957,REHAKI(KALA),2017,Rabi,Fallow,7,2
+534819,Gondegaon,2017,Rabi,Fallow,52,28
+534815,Gaimukh,2017,Rabi,Fallow,20,13
+531606,Hilda,2017,Rabi,Fallow,22,38
+531539,Makhala,2017,Rabi,Fallow,86,45
+532333,Katsur,2017,Rabi,Fallow,25,3
+532342,Shirajgaon,2017,Rabi,Fallow,35,6
+533063,Kanzara,2017,Rabi,Fallow,491,72
+533065,Mokhad,2017,Rabi,Fallow,308,42
+533105,Pimpalgaon (Bainai),2017,Rabi,Fallow,213,58
+529748,Dangarkhed,2017,Rabi,Fallow,27,63
+529702,Rahnapur,2017,Rabi,Fallow,1,11
+529702,Rahnapur,2017,Rabi,Fallow,16,9
+529621,Chipi,2017,Rabi,Fallow,16,26
+529703,Shahapur Pr. Rupagad,2017,Rabi,Fallow,27,16
+528242,Khandvi,2017,Rabi,Fallow,158,37
+528208,Wadgaon,2017,Rabi,Fallow,113,55
+528364,Manardi,2017,Rabi,Fallow,121,37
+528362,Kakoda,2017,Rabi,Fallow,212,68
+528294,Salwan,2017,Rabi,Fallow,43,55
+531457,Mansubhawdi,2017,Rabi,Fallow,166,58
+531449,Jutpani,2017,Rabi,Fallow,379,64
+527450,Dahiwad Kh.,2017,Rabi,Fallow,388,67
+527462,Nagaon Kh.,2017,Rabi,Fallow,414,90
+528661,Ridhora Khandopant,2017,Rabi,Fallow,325,57
+528658,Sindkhed,2017,Rabi,Fallow,168,58
+528208,Wadgaon  Patan,2017,Rabi,Fallow,163,50
+558036,Jambhali,2017,Rabi,Fallow,226,30
+558056,Jogewadi,2017,Rabi,Fallow,211,57
+558731,Bandkhel,2017,Rabi,Fallow,215,41
+557949,Kaudgaon,2017,Rabi,Fallow,246,50
+549002,Mamnapur,2017,Rabi,Fallow,46,16
+549000,Gadana,2017,Rabi,Fallow,23,5
+549002,Mamnapur,2017,Rabi,Fallow,2,7
+548985,Mahamadpur,2017,Rabi,Fallow,49,39
+548675,Nidhona,2017,Rabi,Fallow,547,90
+548671,Wawana,2017,Rabi,Fallow,195,56
+548662,Hiwara,2017,Rabi,Fallow,231,50
+550460,Bopane,2017,Rabi,Fallow,105,35
+549125,Palkhed,2017,Rabi,Fallow,179,13
+549131,Ballali Sagaj,2017,Rabi,Fallow,144,20
+558098,Mehekari,2017,Rabi,Fallow,109,19
+558072,Manjar Sumbha,2017,Rabi,Fallow,171,30
+558288,Nandur Pathar,2017,Rabi,Fallow,390,66
+558268,Palaspur,2017,Rabi,Fallow,365,53
+551152,Wadzire,2017,Rabi,Fallow,167,25
+551195,Mohu,2017,Rabi,Fallow,219,38
+550493,Urdhul,2017,Rabi,Fallow,290,38
+527524,Javakhede,2017,Rabi,Fallow,1018,82
+525668,Dhamdai,2017,Rabi,Fallow,211,50
+525665,Adachhi,2017,Rabi,Fallow,100,20
+568509,Pare,2015,Rabi,Sown,266,47
+568618,Kamkatrewadi,2015,Rabi,Sown,43,26
+568575,Sherewadi,2015,Rabi,Sown,17,35
+568571,Palaskhel,2015,Rabi,Sown,171,70
+568541,Balvadi (Kha),2015,Rabi,Sown,436,38
+568524,Jondhalkhindi,2015,Rabi,Sown,121,56
+568519,Sangole,2015,Rabi,Sown,158,69
+563669,Rui,2015,Rabi,Sown,295,74
+563637,Bichukale,2015,Rabi,Sown,429,84
+563623,Anbatwadi,2015,Rabi,Sown,335,92
+556461,Waghapur,2015,Rabi,Sown,350,77
+556457,Pokhar,2015,Rabi,Sown,33,71
+556492,Sakurde,2015,Rabi,Sown,395,64
+556987,Takrarwadi,2015,Rabi,Sown,69,87
+556984,Shetphalgadhe,2015,Rabi,Sown,876,72
+556995,Nirgude,2015,Rabi,Sown,849,50
+557053,Ghorpadwadi,2015,Rabi,Sown,168,42
+563383,Anubhulewadi (N.V.),2015,Rabi,Sown,59,27
+563655,Bodhewadi (N.V.),2015,Rabi,Sown,90,84
+563370,Parkhandi,2015,Rabi,Sown,135,32
+563394,Bidal,2015,Rabi,Sown,332,27
+563429,Kiraksal,2015,Rabi,Sown,270,28
+563685,Bodhewadi (N.V.),2015,Rabi,Sown,114,46
+563687,Ramusmachi,2015,Rabi,Sown,66,58
+563504,Jakhangaon,2015,Rabi,Sown,412,64
+563719,Jaygaon,2015,Rabi,Sown,220,68
+563511,Bhosare,2015,Rabi,Sown,341,63
+563516,Jaygaon,2015,Rabi,Sown,304,62
+563722,Velu,2015,Rabi,Sown,203,54
+563726,Nhavi bk,2015,Rabi,Sown,355,65
+563727,Pawarwadi,2015,Rabi,Sown,119,72
+563743,Nagzari,2015,Rabi,Sown,303,39
+563551,Yelmarwadi,2015,Rabi,Sown,77,29
+568571,Palaskhel,2015,Rabi,Sown,156,55
+561191,Pathasangvi,2015,Rabi,Sown,356,37
+561192,Walha,2015,Rabi,Sown,317,35
+561109,Kumbhephal,2015,Rabi,Sown,166,23
+561083,Bodakha,2015,Rabi,Sown,33,9
+561221,Hiwara,2015,Rabi,Sown,189,51
+561315,Shelka Dhanora,2015,Rabi,Sown,135,26
+561316,Kherda,2015,Rabi,Sown,109,35
+559725,Kashidwadi,2015,Rabi,Sown,7,3
+559752,Chandansawargaon,2015,Rabi,Sown,398,40
+559773,Kalam Amba,2015,Rabi,Sown,499,35
+559780,Palaskheda,2015,Rabi,Sown,119,25
+559851,Jaybhaychi Wadi,2015,Rabi,Sown,11,7
+559834,Wharkarwadi,2015,Rabi,Sown,104,42
+559831,Amla,2015,Rabi,Sown,222,48
+560013,Yelda,2015,Rabi,Sown,197,15
+560019,Dongar Pimpla,2015,Rabi,Sown,254,22
+559995,Shripatrayachiwadi,2015,Rabi,Sown,168,57
+560027,Selu Amba,2015,Rabi,Sown,179,29
+560018,Shepwadi,2015,Rabi,Sown,143,29
+560036,Daithana Radi,2015,Rabi,Sown,109,32
+560008,Patoda,2015,Rabi,Sown,647,46
+560000,Kumbephal,2015,Rabi,Sown,323,36
+561343,Wathawada,2015,Rabi,Sown,385,36
+560694,Ashiv,2015,Rabi,Sown,1802,86
+562150,Bhagaiwadi,2015,Rabi,Sown,93,36
+562165,Raleras,2015,Rabi,Sown,258,49
+562181,Hiraj,2015,Rabi,Sown,599,53
+562185,Belati,2015,Rabi,Sown,401,60
+568871,Maithal,2015,Rabi,Sown,36,14
+562602,Wani Chinchol,2015,Rabi,Sown,106,13
+562557,Yelmar Mangewadi,2015,Rabi,Sown,667,58
+568847,Bagalwadi,2015,Rabi,Sown,117,49
+568820,Navalwadi,2015,Rabi,Sown,114,28
+562615,Narale,2015,Rabi,Sown,190,48
+568832,Belunki,2015,Rabi,Sown,652,74
+560811,Tagarkheda,2015,Rabi,Sown,1077,68
+560808,Halgara,2015,Rabi,Sown,951,65
+560808,Halgara,2015,Rabi,Sown,28,65
+560808,Halgara,2015,Rabi,Sown,2,61
+560826,Nadi Hattarga,2015,Rabi,Sown,254,44
+560663,Ramegaon,2015,Rabi,Sown,551,51
+560732,Anandwadi (gaur),2015,Rabi,Sown,2,57
+560732,Anandwadi (gaur),2015,Rabi,Sown,78,81
+560732,Anandwadi (gaur),2015,Rabi,Sown,32,87
+560671,Dautpur,2015,Rabi,Sown,470,51
+560075,Khapartong,2015,Rabi,Sown,40,8
+530354,Pangartati,2015,Rabi,Sown,105,31
+530386,Charmoli,2015,Rabi,Sown,135,80
+530396,Shirla,2015,Rabi,Sown,402,76
+530401,Jambharun,2015,Rabi,Sown,112,36
+530537,Hatola,2015,Rabi,Sown,354,75
+530573,Kherda Kh.,2015,Rabi,Sown,277,53
+530855,Janori,2015,Rabi,Sown,227,39
+530861,Kakadshivni,2015,Rabi,Sown,375,61
+530904,Jaipur,2015,Rabi,Sown,232,81
+543056,Yekamba,2015,Rabi,Sown,85,77
+543045,Morchandi,2015,Rabi,Sown,325,93
+543678,Kochi,2015,Rabi,Sown,291,98
+542300,Rajur,2015,Rabi,Sown,151,83
+542307,Khadki,2015,Rabi,Sown,33,39
+543594,Warna,2015,Rabi,Sown,174,61
+543650,Vedshi,2015,Rabi,Sown,617,80
+543659,Khairgaon (kasar),2015,Rabi,Sown,276,72
+532486,Sawanga,2015,Rabi,Sown,290,91
+532445,Amdapur,2015,Rabi,Sown,215,96
+532421,Wathoda,2015,Rabi,Sown,437,97
+532420,Musalkhed,2015,Rabi,Sown,240,92
+532426,Porgavhan,2015,Rabi,Sown,549,92
+533808,BOTHALI,2015,Rabi,Sown,92,69
+533818,KAKADDARA,2015,Rabi,Sown,66,36
+532367,Tembhurkheda,2015,Rabi,Sown,947,96
+532365,Gavhankund,2015,Rabi,Sown,312,93
+530919,Dhanj  Bk,2015,Rabi,Sown,375,58
+529705,Jitapur Pr. Rupagad,2015,Rabi,Sown,397,94
+529722,Umara,2015,Rabi,Sown,422,83
+529781,Mirzapur,2015,Rabi,Sown,104,64
+530464,Sarav,2015,Rabi,Sown,68,28
+530463,Kanheri,2015,Rabi,Sown,679,65
+531377,Sadrabardi,2015,Rabi,Sown,230,45
+531383,Laktu,2015,Rabi,Sown,87,23
+531402,Sawalikheda,2015,Rabi,Sown,121,18
+531455,Ghuti,2015,Rabi,Sown,116,27
+548964,Khirdi,2015,Rabi,Sown,364,67
+549006,Golegaon,2015,Rabi,Sown,434,81
+549001,Borwadi,2015,Rabi,Sown,74,62
+548725,Dongargaon Kawad,2015,Rabi,Sown,426,84
+548745,Waghola,2015,Rabi,Sown,230,75
+568779,Shelkewadi,2015,Rabi,Sown,95,42
+568528,Renavi,2015,Rabi,Sown,138,29
+568650,Biranwadi,2015,Rabi,Sown,114,49
+568775,Kerewadi,2015,Rabi,Sown,154,65
+568563,Tadachiwadi,2015,Rabi,Sown,34,23
+568620,Autewadi,2015,Rabi,Sown,65,31
+568620,Autewadi,2015,Rabi,Sown,10,30
+568645,Panmalewadi,2015,Rabi,Sown,83,70
+563669,Rui,2015,Rabi,Sown,295,74
+556457,Pokhar,2015,Rabi,Sown,33,71
+556507,Bhairavwadi,2015,Rabi,Sown,21,79
+556901,Sawantwadi,2015,Rabi,Sown,142,36
+556897,Undavadi Kade Pathar,2015,Rabi,Sown,196,26
+556994,Lamjewadi,2015,Rabi,Sown,287,70
+557060,Vyahali,2015,Rabi,Sown,153,25
+563655,Bodhewadi (N.V.),2015,Rabi,Sown,90,84
+563469,Kalewadi,2015,Rabi,Sown,62,43
+563416,Mahimangad,2015,Rabi,Sown,83,23
+563530,Gopuj,2015,Rabi,Sown,263,64
+563518,Nandoshi,2015,Rabi,Sown,60,42
+563432,Naravane,2015,Rabi,Sown,429,36
+563435,Dhamani,2015,Rabi,Sown,338,60
+568584,Ambewadi,2015,Rabi,Sown,190,50
+561973,Bhend,2015,Rabi,Sown,112,12
+561991,Anjangaon Kh.,2015,Rabi,Sown,319,24
+562002,Londhewadi,2015,Rabi,Sown,85,30
+561881,Malwadi,2015,Rabi,Sown,355,36
+561859,Sarapdoh,2015,Rabi,Sown,254,39
+561857,Shelgaon (K),2015,Rabi,Sown,178,34
+561062,Katewadi,2015,Rabi,Sown,57,18
+558583,Kumbhefal,2015,Rabi,Sown,71,38
+558541,Supe,2015,Rabi,Sown,119,18
+558534,Diksal,2015,Rabi,Sown,179,20
+558833,Anandwadi,2015,Rabi,Sown,193,55
+558821,Pimpalgaon Dani,2015,Rabi,Sown,285,48
+562011,Khadkoni,2015,Rabi,Sown,158,38
+562052,Dhotre,2015,Rabi,Sown,169,21
+561305,Bhatshirapura,2015,Rabi,Sown,50,11
+561306,Pimpalgaon Dola,2015,Rabi,Sown,64,10
+559784,Anandgaon,2015,Rabi,Sown,546,57
+559772,Kekat Sarni,2015,Rabi,Sown,255,37
+559779,Depewadgaon,2015,Rabi,Sown,90,17
+559868,Umbrayachiwadi,2015,Rabi,Sown,125,37
+559904,Kavalyachiwadi,2015,Rabi,Sown,197,45
+559917,Bhilegaon,2015,Rabi,Sown,158,45
+560012,Mandva (pathan),2015,Rabi,Sown,244,33
+559988,Chichkhandi,2015,Rabi,Sown,166,17
+560028,Pokhari,2015,Rabi,Sown,245,28
+560610,Yeloriwadi,2015,Rabi,Sown,16,7
+560677,Yekambiwadi,2015,Rabi,Sown,116,44
+561477,Kawaldara Tanda,2015,Rabi,Sown,40,24
+561458,Sakanewadi,2015,Rabi,Sown,158,27
+561446,Darphal,2015,Rabi,Sown,313,63
+562164,Honsal,2015,Rabi,Sown,372,43
+562158,Wadala,2015,Rabi,Sown,502,39
+562181,Hiraj,2015,Rabi,Sown,599,53
+562694,Asabewadi,2015,Rabi,Sown,24,17
+568864,Lakdewadi,2015,Rabi,Sown,70,16
+562653,Jitti,2015,Rabi,Sown,101,19
+568844,Avandhi,2015,Rabi,Sown,448,47
+568849,Mokashawadi,2015,Rabi,Sown,138,52
+544882,Nanda Bk.,2015,Rabi,Sown,46,10
+544888,Hadoli,2015,Rabi,Sown,76,16
+545238,Kalambar Kh.,2015,Rabi,Sown,111,51
+560888,Kamaroddinpur,2015,Rabi,Sown,347,55
+560890,Nagtirthawadi,2015,Rabi,Sown,90,37
+560805,Koyachiwadi,2015,Rabi,Sown,0,10
+560806,Rajewadi,2015,Rabi,Sown,54,35
+560804,Sangaraddiwadi,2015,Rabi,Sown,164,50
+560805,Koyachiwadi,2015,Rabi,Sown,9,50
+560805,Koyachiwadi,2015,Rabi,Sown,22,52
+560805,Koyachiwadi,2015,Rabi,Sown,10,49
+545303,Wagdarwadi,2015,Rabi,Sown,2,1
+546633,Jununwadi,2015,Rabi,Sown,55,31
+546579,Jamb kh,2015,Rabi,Sown,168,65
+546555,Sawargaon,2015,Rabi,Sown,116,21
+530353,Sawargaon,2015,Rabi,Sown,236,28
+530358,Malsoor,2015,Rabi,Sown,284,40
+530461,Chohagaon,2015,Rabi,Sown,193,75
+530452,Lohgadtanda (N.V.),2015,Rabi,Sown,64,46
+530743,Chakwa,2015,Rabi,Sown,145,80
+530573,Kherda Kh.,2015,Rabi,Sown,277,53
+530851,Bhadshivni,2015,Rabi,Sown,490,73
+530896,Vilegaon,2015,Rabi,Sown,890,90
+530753,Borwha bk.,2015,Rabi,Sown,140,65
+542574,Shelodi,2015,Rabi,Sown,349,87
+542636,Bothgavan,2015,Rabi,Sown,147,90
+542627,Tapona,2015,Rabi,Sown,203,87
+542933,Kalambula,2015,Rabi,Sown,229,87
+546127,Ramwadi,2015,Rabi,Sown,134,69
+546221,Kupti,2015,Rabi,Sown,465,82
+546194,Jaroda,2015,Rabi,Sown,190,67
+542983,Parjana,2015,Rabi,Sown,181,84
+534248,FATTEPUR,2015,Rabi,Sown,242,67
+534225,EKAMBA,2015,Rabi,Sown,232,80
+534240,TALNI(BHAGWAT),2015,Rabi,Sown,199,61
+542298,Tirzada,2015,Rabi,Sown,171,78
+542227,Narsapur,2015,Rabi,Sown,281,74
+543646,Sakhi-Kh,2015,Rabi,Sown,153,66
+543660,Chondhi,2015,Rabi,Sown,67,48
+542477,Dharamgaon,2015,Rabi,Sown,40,86
+543331,Pandhurna Bk,2015,Rabi,Sown,337,86
+543343,Kumbhari,2015,Rabi,Sown,191,55
+542433,Shiwani Bk.,2015,Rabi,Sown,183,69
+532376,Pimpalkhuta,2015,Rabi,Sown,204,100
+532425,Beskheda,2015,Rabi,Sown,335,94
+533621,Nandora,2015,Rabi,Sown,17,24
+533617,Kajali,2015,Rabi,Sown,140,68
+533813,AJANGAON,2015,Rabi,Sown,253,51
+533814,TEMBHARI,2015,Rabi,Sown,71,49
+534004,KHADKA,2015,Rabi,Sown,203,94
+533913,GAIMUKH,2015,Rabi,Sown,209,93
+533957,REHAKI(KALA),2015,Rabi,Sown,321,97
+534819,Gondegaon,2015,Rabi,Sown,127,68
+534815,Gaimukh,2015,Rabi,Sown,136,88
+531606,Hilda,2015,Rabi,Sown,17,30
+531539,Makhala,2015,Rabi,Sown,105,55
+532333,Katsur,2015,Rabi,Sown,581,80
+532342,Shirajgaon,2015,Rabi,Sown,513,84
+533063,Kanzara,2015,Rabi,Sown,463,68
+533065,Mokhad,2015,Rabi,Sown,549,75
+533105,Pimpalgaon (Bainai),2015,Rabi,Sown,277,76
+529748,Dangarkhed,2015,Rabi,Sown,11,26
+529702,Rahnapur,2015,Rabi,Sown,9,80
+529702,Rahnapur,2015,Rabi,Sown,162,89
+529621,Chipi,2015,Rabi,Sown,19,31
+529703,Shahapur Pr. Rupagad,2015,Rabi,Sown,128,75
+528242,Khandvi,2015,Rabi,Sown,320,75
+528208,Wadgaon,2015,Rabi,Sown,157,76
+528364,Manardi,2015,Rabi,Sown,316,97
+528362,Kakoda,2015,Rabi,Sown,238,77
+528294,Salwan,2015,Rabi,Sown,17,21
+531457,Mansubhawdi,2015,Rabi,Sown,86,30
+531449,Jutpani,2015,Rabi,Sown,108,18
+527450,Dahiwad Kh.,2015,Rabi,Sown,266,46
+527462,Nagaon Kh.,2015,Rabi,Sown,159,35
+528661,Ridhora Khandopant,2015,Rabi,Sown,287,50
+528658,Sindkhed,2015,Rabi,Sown,178,61
+528208,Wadgaon  Patan,2015,Rabi,Sown,240,73
+558036,Jambhali,2015,Rabi,Sown,468,62
+558056,Jogewadi,2015,Rabi,Sown,120,32
+558731,Bandkhel,2015,Rabi,Sown,263,51
+557949,Kaudgaon,2015,Rabi,Sown,284,57
+549002,Mamnapur,2015,Rabi,Sown,186,63
+549000,Gadana,2015,Rabi,Sown,366,88
+549002,Mamnapur,2015,Rabi,Sown,17,67
+548985,Mahamadpur,2015,Rabi,Sown,82,64
+548675,Nidhona,2015,Rabi,Sown,362,60
+548671,Wawana,2015,Rabi,Sown,232,67
+548662,Hiwara,2015,Rabi,Sown,258,56
+550460,Bopane,2015,Rabi,Sown,124,41
+549125,Palkhed,2015,Rabi,Sown,1025,72
+549131,Ballali Sagaj,2015,Rabi,Sown,449,62
+558098,Mehekari,2015,Rabi,Sown,406,70
+558072,Manjar Sumbha,2015,Rabi,Sown,230,40
+558288,Nandur Pathar,2015,Rabi,Sown,370,63
+558268,Palaspur,2015,Rabi,Sown,468,68
+551152,Wadzire,2015,Rabi,Sown,503,74
+551195,Mohu,2015,Rabi,Sown,378,65
+550493,Urdhul,2015,Rabi,Sown,475,62
+527524,Javakhede,2015,Rabi,Sown,677,54
+525668,Dhamdai,2015,Rabi,Sown,344,81
+525665,Adachhi,2015,Rabi,Sown,402,82
+568509,Pare,2016,Rabi,Sown,260,46
+568618,Kamkatrewadi,2016,Rabi,Sown,57,35
+568575,Sherewadi,2016,Rabi,Sown,8,17
+568571,Palaskhel,2016,Rabi,Sown,115,47
+568541,Balvadi (Kha),2016,Rabi,Sown,233,20
+568524,Jondhalkhindi,2016,Rabi,Sown,75,35
+568519,Sangole,2016,Rabi,Sown,95,42
+563669,Rui,2016,Rabi,Sown,249,62
+563637,Bichukale,2016,Rabi,Sown,304,60
+563623,Anbatwadi,2016,Rabi,Sown,273,75
+556461,Waghapur,2016,Rabi,Sown,175,39
+556457,Pokhar,2016,Rabi,Sown,26,56
+556492,Sakurde,2016,Rabi,Sown,106,17
+556987,Takrarwadi,2016,Rabi,Sown,55,70
+556984,Shetphalgadhe,2016,Rabi,Sown,721,59
+556995,Nirgude,2016,Rabi,Sown,946,56
+557053,Ghorpadwadi,2016,Rabi,Sown,246,61
+563383,Anubhulewadi (N.V.),2016,Rabi,Sown,62,28
+563655,Bodhewadi (N.V.),2016,Rabi,Sown,64,60
+563370,Parkhandi,2016,Rabi,Sown,211,50
+563394,Bidal,2016,Rabi,Sown,347,28
+563429,Kiraksal,2016,Rabi,Sown,253,27
+563685,Bodhewadi (N.V.),2016,Rabi,Sown,111,45
+563687,Ramusmachi,2016,Rabi,Sown,63,56
+563504,Jakhangaon,2016,Rabi,Sown,438,68
+563719,Jaygaon,2016,Rabi,Sown,136,42
+563511,Bhosare,2016,Rabi,Sown,290,53
+563516,Jaygaon,2016,Rabi,Sown,279,57
+563722,Velu,2016,Rabi,Sown,178,47
+563726,Nhavi bk,2016,Rabi,Sown,282,52
+563727,Pawarwadi,2016,Rabi,Sown,104,63
+563743,Nagzari,2016,Rabi,Sown,267,34
+563551,Yelmarwadi,2016,Rabi,Sown,69,26
+568571,Palaskhel,2016,Rabi,Sown,112,39
+561191,Pathasangvi,2016,Rabi,Sown,657,68
+561192,Walha,2016,Rabi,Sown,671,74
+561109,Kumbhephal,2016,Rabi,Sown,464,63
+561083,Bodakha,2016,Rabi,Sown,221,62
+561221,Hiwara,2016,Rabi,Sown,163,44
+561315,Shelka Dhanora,2016,Rabi,Sown,267,51
+561316,Kherda,2016,Rabi,Sown,251,80
+559725,Kashidwadi,2016,Rabi,Sown,112,46
+559752,Chandansawargaon,2016,Rabi,Sown,715,72
+559773,Kalam Amba,2016,Rabi,Sown,1044,73
+559780,Palaskheda,2016,Rabi,Sown,430,92
+559851,Jaybhaychi Wadi,2016,Rabi,Sown,34,22
+559834,Wharkarwadi,2016,Rabi,Sown,116,47
+559831,Amla,2016,Rabi,Sown,308,66
+560013,Yelda,2016,Rabi,Sown,388,29
+560019,Dongar Pimpla,2016,Rabi,Sown,556,48
+559995,Shripatrayachiwadi,2016,Rabi,Sown,236,79
+560027,Selu Amba,2016,Rabi,Sown,430,70
+560018,Shepwadi,2016,Rabi,Sown,253,52
+560036,Daithana Radi,2016,Rabi,Sown,325,95
+560008,Patoda,2016,Rabi,Sown,1116,78
+560000,Kumbephal,2016,Rabi,Sown,661,74
+561343,Wathawada,2016,Rabi,Sown,366,35
+560694,Ashiv,2016,Rabi,Sown,1579,75
+562150,Bhagaiwadi,2016,Rabi,Sown,159,62
+562165,Raleras,2016,Rabi,Sown,360,69
+562181,Hiraj,2016,Rabi,Sown,624,55
+562185,Belati,2016,Rabi,Sown,447,67
+568871,Maithal,2016,Rabi,Sown,81,32
+562602,Wani Chinchol,2016,Rabi,Sown,332,41
+562557,Yelmar Mangewadi,2016,Rabi,Sown,498,43
+568847,Bagalwadi,2016,Rabi,Sown,136,57
+568820,Navalwadi,2016,Rabi,Sown,143,35
+562615,Narale,2016,Rabi,Sown,152,38
+568832,Belunki,2016,Rabi,Sown,427,48
+560811,Tagarkheda,2016,Rabi,Sown,1357,85
+560808,Halgara,2016,Rabi,Sown,1246,85
+560808,Halgara,2016,Rabi,Sown,35,80
+560808,Halgara,2016,Rabi,Sown,1,42
+560826,Nadi Hattarga,2016,Rabi,Sown,369,64
+560663,Ramegaon,2016,Rabi,Sown,902,83
+560732,Anandwadi (gaur),2016,Rabi,Sown,3,83
+560732,Anandwadi (gaur),2016,Rabi,Sown,84,88
+560732,Anandwadi (gaur),2016,Rabi,Sown,37,99
+560671,Dautpur,2016,Rabi,Sown,671,73
+560075,Khapartong,2016,Rabi,Sown,344,73
+530354,Pangartati,2016,Rabi,Sown,137,41
+530386,Charmoli,2016,Rabi,Sown,127,75
+530396,Shirla,2016,Rabi,Sown,437,83
+530401,Jambharun,2016,Rabi,Sown,178,57
+530537,Hatola,2016,Rabi,Sown,340,71
+530573,Kherda Kh.,2016,Rabi,Sown,302,57
+530855,Janori,2016,Rabi,Sown,323,55
+530861,Kakadshivni,2016,Rabi,Sown,413,67
+530904,Jaipur,2016,Rabi,Sown,176,62
+543056,Yekamba,2016,Rabi,Sown,80,73
+543045,Morchandi,2016,Rabi,Sown,319,91
+543678,Kochi,2016,Rabi,Sown,270,91
+542300,Rajur,2016,Rabi,Sown,142,78
+542307,Khadki,2016,Rabi,Sown,37,44
+543594,Warna,2016,Rabi,Sown,154,54
+543650,Vedshi,2016,Rabi,Sown,680,88
+543659,Khairgaon (kasar),2016,Rabi,Sown,294,77
+532486,Sawanga,2016,Rabi,Sown,289,90
+532445,Amdapur,2016,Rabi,Sown,214,95
+532421,Wathoda,2016,Rabi,Sown,426,95
+532420,Musalkhed,2016,Rabi,Sown,241,92
+532426,Porgavhan,2016,Rabi,Sown,505,84
+533808,BOTHALI,2016,Rabi,Sown,89,66
+533818,KAKADDARA,2016,Rabi,Sown,58,32
+532367,Tembhurkheda,2016,Rabi,Sown,915,93
+532365,Gavhankund,2016,Rabi,Sown,303,90
+530919,Dhanj  Bk,2016,Rabi,Sown,443,69
+529705,Jitapur Pr. Rupagad,2016,Rabi,Sown,394,94
+529722,Umara,2016,Rabi,Sown,454,89
+529781,Mirzapur,2016,Rabi,Sown,114,71
+530464,Sarav,2016,Rabi,Sown,69,28
+530463,Kanheri,2016,Rabi,Sown,645,62
+531377,Sadrabardi,2016,Rabi,Sown,267,53
+531383,Laktu,2016,Rabi,Sown,198,52
+531402,Sawalikheda,2016,Rabi,Sown,142,22
+531455,Ghuti,2016,Rabi,Sown,158,37
+548964,Khirdi,2016,Rabi,Sown,393,72
+549006,Golegaon,2016,Rabi,Sown,456,85
+549001,Borwadi,2016,Rabi,Sown,99,82
+548725,Dongargaon Kawad,2016,Rabi,Sown,420,83
+548745,Waghola,2016,Rabi,Sown,202,66
+568779,Shelkewadi,2016,Rabi,Sown,54,24
+568528,Renavi,2016,Rabi,Sown,125,26
+568650,Biranwadi,2016,Rabi,Sown,115,50
+568775,Kerewadi,2016,Rabi,Sown,51,22
+568563,Tadachiwadi,2016,Rabi,Sown,16,11
+568620,Autewadi,2016,Rabi,Sown,53,26
+568620,Autewadi,2016,Rabi,Sown,3,9
+568645,Panmalewadi,2016,Rabi,Sown,72,60
+563669,Rui,2016,Rabi,Sown,249,62
+556457,Pokhar,2016,Rabi,Sown,26,56
+556507,Bhairavwadi,2016,Rabi,Sown,8,31
+556901,Sawantwadi,2016,Rabi,Sown,248,63
+556897,Undavadi Kade Pathar,2016,Rabi,Sown,457,61
+556994,Lamjewadi,2016,Rabi,Sown,196,48
+557060,Vyahali,2016,Rabi,Sown,331,54
+563655,Bodhewadi (N.V.),2016,Rabi,Sown,64,60
+563469,Kalewadi,2016,Rabi,Sown,61,42
+563416,Mahimangad,2016,Rabi,Sown,99,28
+563530,Gopuj,2016,Rabi,Sown,223,54
+563518,Nandoshi,2016,Rabi,Sown,54,38
+563432,Naravane,2016,Rabi,Sown,342,29
+563435,Dhamani,2016,Rabi,Sown,312,55
+568584,Ambewadi,2016,Rabi,Sown,123,32
+561973,Bhend,2016,Rabi,Sown,520,57
+561991,Anjangaon Kh.,2016,Rabi,Sown,810,61
+562002,Londhewadi,2016,Rabi,Sown,216,76
+561881,Malwadi,2016,Rabi,Sown,543,55
+561859,Sarapdoh,2016,Rabi,Sown,408,62
+561857,Shelgaon (K),2016,Rabi,Sown,357,68
+561062,Katewadi,2016,Rabi,Sown,161,51
+558583,Kumbhefal,2016,Rabi,Sown,121,65
+558541,Supe,2016,Rabi,Sown,274,42
+558534,Diksal,2016,Rabi,Sown,399,45
+558833,Anandwadi,2016,Rabi,Sown,252,72
+558821,Pimpalgaon Dani,2016,Rabi,Sown,304,51
+562011,Khadkoni,2016,Rabi,Sown,166,40
+562052,Dhotre,2016,Rabi,Sown,285,35
+561305,Bhatshirapura,2016,Rabi,Sown,299,64
+561306,Pimpalgaon Dola,2016,Rabi,Sown,435,68
+559784,Anandgaon,2016,Rabi,Sown,742,77
+559772,Kekat Sarni,2016,Rabi,Sown,564,81
+559779,Depewadgaon,2016,Rabi,Sown,436,81
+559868,Umbrayachiwadi,2016,Rabi,Sown,173,51
+559904,Kavalyachiwadi,2016,Rabi,Sown,381,86
+559917,Bhilegaon,2016,Rabi,Sown,258,73
+560012,Mandva (pathan),2016,Rabi,Sown,314,42
+559988,Chichkhandi,2016,Rabi,Sown,258,26
+560028,Pokhari,2016,Rabi,Sown,668,76
+560610,Yeloriwadi,2016,Rabi,Sown,105,49
+560677,Yekambiwadi,2016,Rabi,Sown,152,58
+561477,Kawaldara Tanda,2016,Rabi,Sown,44,27
+561458,Sakanewadi,2016,Rabi,Sown,319,55
+561446,Darphal,2016,Rabi,Sown,366,74
+562164,Honsal,2016,Rabi,Sown,518,60
+562158,Wadala,2016,Rabi,Sown,856,66
+562181,Hiraj,2016,Rabi,Sown,624,55
+562694,Asabewadi,2016,Rabi,Sown,48,33
+568864,Lakdewadi,2016,Rabi,Sown,53,12
+562653,Jitti,2016,Rabi,Sown,117,22
+568844,Avandhi,2016,Rabi,Sown,386,40
+568849,Mokashawadi,2016,Rabi,Sown,131,49
+544882,Nanda Bk.,2016,Rabi,Sown,104,23
+544888,Hadoli,2016,Rabi,Sown,269,57
+545238,Kalambar Kh.,2016,Rabi,Sown,196,89
+560888,Kamaroddinpur,2016,Rabi,Sown,591,93
+560890,Nagtirthawadi,2016,Rabi,Sown,207,85
+560805,Koyachiwadi,2016,Rabi,Sown,3,75
+560806,Rajewadi,2016,Rabi,Sown,103,67
+560804,Sangaraddiwadi,2016,Rabi,Sown,289,87
+560805,Koyachiwadi,2016,Rabi,Sown,17,93
+560805,Koyachiwadi,2016,Rabi,Sown,40,97
+560805,Koyachiwadi,2016,Rabi,Sown,21,97
+545303,Wagdarwadi,2016,Rabi,Sown,50,20
+546633,Jununwadi,2016,Rabi,Sown,26,14
+546579,Jamb kh,2016,Rabi,Sown,178,69
+546555,Sawargaon,2016,Rabi,Sown,124,23
+530353,Sawargaon,2016,Rabi,Sown,339,40
+530358,Malsoor,2016,Rabi,Sown,316,44
+530461,Chohagaon,2016,Rabi,Sown,240,93
+530452,Lohgadtanda (N.V.),2016,Rabi,Sown,89,65
+530743,Chakwa,2016,Rabi,Sown,138,76
+530573,Kherda Kh.,2016,Rabi,Sown,302,57
+530851,Bhadshivni,2016,Rabi,Sown,453,67
+530896,Vilegaon,2016,Rabi,Sown,793,80
+530753,Borwha bk.,2016,Rabi,Sown,144,67
+542574,Shelodi,2016,Rabi,Sown,331,83
+542636,Bothgavan,2016,Rabi,Sown,145,89
+542627,Tapona,2016,Rabi,Sown,173,74
+542933,Kalambula,2016,Rabi,Sown,217,83
+546127,Ramwadi,2016,Rabi,Sown,112,57
+546221,Kupti,2016,Rabi,Sown,418,74
+546194,Jaroda,2016,Rabi,Sown,198,70
+542983,Parjana,2016,Rabi,Sown,205,95
+534248,FATTEPUR,2016,Rabi,Sown,200,56
+534225,EKAMBA,2016,Rabi,Sown,192,66
+534240,TALNI(BHAGWAT),2016,Rabi,Sown,191,58
+542298,Tirzada,2016,Rabi,Sown,163,74
+542227,Narsapur,2016,Rabi,Sown,286,75
+543646,Sakhi-Kh,2016,Rabi,Sown,186,81
+543660,Chondhi,2016,Rabi,Sown,110,78
+542477,Dharamgaon,2016,Rabi,Sown,35,75
+543331,Pandhurna Bk,2016,Rabi,Sown,267,68
+543343,Kumbhari,2016,Rabi,Sown,170,49
+542433,Shiwani Bk.,2016,Rabi,Sown,184,70
+532376,Pimpalkhuta,2016,Rabi,Sown,200,98
+532425,Beskheda,2016,Rabi,Sown,308,86
+533621,Nandora,2016,Rabi,Sown,21,30
+533617,Kajali,2016,Rabi,Sown,99,48
+533813,AJANGAON,2016,Rabi,Sown,212,43
+533814,TEMBHARI,2016,Rabi,Sown,59,41
+534004,KHADKA,2016,Rabi,Sown,189,88
+533913,GAIMUKH,2016,Rabi,Sown,194,87
+533957,REHAKI(KALA),2016,Rabi,Sown,314,95
+534819,Gondegaon,2016,Rabi,Sown,123,66
+534815,Gaimukh,2016,Rabi,Sown,130,84
+531606,Hilda,2016,Rabi,Sown,34,60
+531539,Makhala,2016,Rabi,Sown,103,54
+532333,Katsur,2016,Rabi,Sown,546,75
+532342,Shirajgaon,2016,Rabi,Sown,494,81
+533063,Kanzara,2016,Rabi,Sown,449,66
+533065,Mokhad,2016,Rabi,Sown,569,77
+533105,Pimpalgaon (Bainai),2016,Rabi,Sown,273,75
+529748,Dangarkhed,2016,Rabi,Sown,18,43
+529702,Rahnapur,2016,Rabi,Sown,8,71
+529702,Rahnapur,2016,Rabi,Sown,154,85
+529621,Chipi,2016,Rabi,Sown,31,53
+529703,Shahapur Pr. Rupagad,2016,Rabi,Sown,135,80
+528242,Khandvi,2016,Rabi,Sown,368,86
+528208,Wadgaon,2016,Rabi,Sown,158,77
+528364,Manardi,2016,Rabi,Sown,311,95
+528362,Kakoda,2016,Rabi,Sown,168,54
+528294,Salwan,2016,Rabi,Sown,23,29
+531457,Mansubhawdi,2016,Rabi,Sown,122,42
+531449,Jutpani,2016,Rabi,Sown,304,51
+527450,Dahiwad Kh.,2016,Rabi,Sown,469,81
+527462,Nagaon Kh.,2016,Rabi,Sown,273,59
+528661,Ridhora Khandopant,2016,Rabi,Sown,373,65
+528658,Sindkhed,2016,Rabi,Sown,242,83
+528208,Wadgaon  Patan,2016,Rabi,Sown,223,68
+558036,Jambhali,2016,Rabi,Sown,452,60
+558056,Jogewadi,2016,Rabi,Sown,89,24
+558731,Bandkhel,2016,Rabi,Sown,269,52
+557949,Kaudgaon,2016,Rabi,Sown,297,60
+549002,Mamnapur,2016,Rabi,Sown,236,80
+549000,Gadana,2016,Rabi,Sown,380,92
+549002,Mamnapur,2016,Rabi,Sown,21,86
+548985,Mahamadpur,2016,Rabi,Sown,99,78
+548675,Nidhona,2016,Rabi,Sown,442,73
+548671,Wawana,2016,Rabi,Sown,294,85
+548662,Hiwara,2016,Rabi,Sown,273,59
+550460,Bopane,2016,Rabi,Sown,201,67
+549125,Palkhed,2016,Rabi,Sown,1114,78
+549131,Ballali Sagaj,2016,Rabi,Sown,377,52
+558098,Mehekari,2016,Rabi,Sown,473,81
+558072,Manjar Sumbha,2016,Rabi,Sown,429,75
+558288,Nandur Pathar,2016,Rabi,Sown,162,27
+558268,Palaspur,2016,Rabi,Sown,371,54
+551152,Wadzire,2016,Rabi,Sown,480,71
+551195,Mohu,2016,Rabi,Sown,362,62
+550493,Urdhul,2016,Rabi,Sown,485,63
+527524,Javakhede,2016,Rabi,Sown,414,33
+525668,Dhamdai,2016,Rabi,Sown,372,88
+525665,Adachhi,2016,Rabi,Sown,444,91
+568509,Pare,2017,Rabi,Sown,342,60
+568618,Kamkatrewadi,2017,Rabi,Sown,61,37
+568575,Sherewadi,2017,Rabi,Sown,12,24
+568571,Palaskhel,2017,Rabi,Sown,137,56
+568541,Balvadi (Kha),2017,Rabi,Sown,521,45
+568524,Jondhalkhindi,2017,Rabi,Sown,88,41
+568519,Sangole,2017,Rabi,Sown,130,57
+563669,Rui,2017,Rabi,Sown,289,72
+563637,Bichukale,2017,Rabi,Sown,371,73
+563623,Anbatwadi,2017,Rabi,Sown,297,81
+556461,Waghapur,2017,Rabi,Sown,267,59
+556457,Pokhar,2017,Rabi,Sown,27,59
+556492,Sakurde,2017,Rabi,Sown,306,50
+556987,Takrarwadi,2017,Rabi,Sown,57,72
+556984,Shetphalgadhe,2017,Rabi,Sown,725,60
+556995,Nirgude,2017,Rabi,Sown,857,50
+557053,Ghorpadwadi,2017,Rabi,Sown,235,59
+563383,Anubhulewadi (N.V.),2017,Rabi,Sown,75,34
+563655,Bodhewadi (N.V.),2017,Rabi,Sown,58,54
+563370,Parkhandi,2017,Rabi,Sown,231,55
+563394,Bidal,2017,Rabi,Sown,676,54
+563429,Kiraksal,2017,Rabi,Sown,265,28
+563685,Bodhewadi (N.V.),2017,Rabi,Sown,139,57
+563687,Ramusmachi,2017,Rabi,Sown,82,73
+563504,Jakhangaon,2017,Rabi,Sown,467,72
+563719,Jaygaon,2017,Rabi,Sown,184,57
+563511,Bhosare,2017,Rabi,Sown,334,62
+563516,Jaygaon,2017,Rabi,Sown,316,65
+563722,Velu,2017,Rabi,Sown,192,51
+563726,Nhavi bk,2017,Rabi,Sown,351,64
+563727,Pawarwadi,2017,Rabi,Sown,110,67
+563743,Nagzari,2017,Rabi,Sown,280,36
+563551,Yelmarwadi,2017,Rabi,Sown,83,32
+568571,Palaskhel,2017,Rabi,Sown,129,45
+561191,Pathasangvi,2017,Rabi,Sown,654,68
+561192,Walha,2017,Rabi,Sown,664,73
+561109,Kumbhephal,2017,Rabi,Sown,418,57
+561083,Bodakha,2017,Rabi,Sown,260,73
+561221,Hiwara,2017,Rabi,Sown,179,48
+561315,Shelka Dhanora,2017,Rabi,Sown,314,60
+561316,Kherda,2017,Rabi,Sown,263,84
+559725,Kashidwadi,2017,Rabi,Sown,148,61
+559752,Chandansawargaon,2017,Rabi,Sown,799,81
+559773,Kalam Amba,2017,Rabi,Sown,1179,83
+559780,Palaskheda,2017,Rabi,Sown,417,89
+559851,Jaybhaychi Wadi,2017,Rabi,Sown,66,43
+559834,Wharkarwadi,2017,Rabi,Sown,121,49
+559831,Amla,2017,Rabi,Sown,342,73
+560013,Yelda,2017,Rabi,Sown,603,45
+560019,Dongar Pimpla,2017,Rabi,Sown,741,64
+559995,Shripatrayachiwadi,2017,Rabi,Sown,255,86
+560027,Selu Amba,2017,Rabi,Sown,459,75
+560018,Shepwadi,2017,Rabi,Sown,288,59
+560036,Daithana Radi,2017,Rabi,Sown,322,94
+560008,Patoda,2017,Rabi,Sown,1004,71
+560000,Kumbephal,2017,Rabi,Sown,707,79
+561343,Wathawada,2017,Rabi,Sown,528,50
+560694,Ashiv,2017,Rabi,Sown,1532,73
+562150,Bhagaiwadi,2017,Rabi,Sown,150,59
+562165,Raleras,2017,Rabi,Sown,337,65
+562181,Hiraj,2017,Rabi,Sown,604,53
+562185,Belati,2017,Rabi,Sown,454,68
+568871,Maithal,2017,Rabi,Sown,83,32
+562602,Wani Chinchol,2017,Rabi,Sown,330,41
+562557,Yelmar Mangewadi,2017,Rabi,Sown,747,64
+568847,Bagalwadi,2017,Rabi,Sown,161,67
+568820,Navalwadi,2017,Rabi,Sown,175,42
+562615,Narale,2017,Rabi,Sown,123,31
+568832,Belunki,2017,Rabi,Sown,603,68
+560811,Tagarkheda,2017,Rabi,Sown,1371,86
+560808,Halgara,2017,Rabi,Sown,1289,88
+560808,Halgara,2017,Rabi,Sown,36,82
+560808,Halgara,2017,Rabi,Sown,2,55
+560826,Nadi Hattarga,2017,Rabi,Sown,412,72
+560663,Ramegaon,2017,Rabi,Sown,901,83
+560732,Anandwadi (gaur),2017,Rabi,Sown,3,81
+560732,Anandwadi (gaur),2017,Rabi,Sown,91,95
+560732,Anandwadi (gaur),2017,Rabi,Sown,36,98
+560671,Dautpur,2017,Rabi,Sown,744,81
+560075,Khapartong,2017,Rabi,Sown,375,79
+530354,Pangartati,2017,Rabi,Sown,111,33
+530386,Charmoli,2017,Rabi,Sown,123,73
+530396,Shirla,2017,Rabi,Sown,294,56
+530401,Jambharun,2017,Rabi,Sown,81,26
+530537,Hatola,2017,Rabi,Sown,312,66
+530573,Kherda Kh.,2017,Rabi,Sown,223,42
+530855,Janori,2017,Rabi,Sown,224,39
+530861,Kakadshivni,2017,Rabi,Sown,166,27
+530904,Jaipur,2017,Rabi,Sown,100,35
+543056,Yekamba,2017,Rabi,Sown,78,71
+543045,Morchandi,2017,Rabi,Sown,267,76
+543678,Kochi,2017,Rabi,Sown,292,98
+542300,Rajur,2017,Rabi,Sown,105,57
+542307,Khadki,2017,Rabi,Sown,61,73
+543594,Warna,2017,Rabi,Sown,101,35
+543650,Vedshi,2017,Rabi,Sown,700,91
+543659,Khairgaon (kasar),2017,Rabi,Sown,322,84
+532486,Sawanga,2017,Rabi,Sown,293,92
+532445,Amdapur,2017,Rabi,Sown,217,97
+532421,Wathoda,2017,Rabi,Sown,440,98
+532420,Musalkhed,2017,Rabi,Sown,242,93
+532426,Porgavhan,2017,Rabi,Sown,569,95
+533808,BOTHALI,2017,Rabi,Sown,114,85
+533818,KAKADDARA,2017,Rabi,Sown,74,40
+532367,Tembhurkheda,2017,Rabi,Sown,925,94
+532365,Gavhankund,2017,Rabi,Sown,292,87
+530919,Dhanj  Bk,2017,Rabi,Sown,142,22
+529705,Jitapur Pr. Rupagad,2017,Rabi,Sown,399,95
+529722,Umara,2017,Rabi,Sown,465,91
+529781,Mirzapur,2017,Rabi,Sown,136,85
+530464,Sarav,2017,Rabi,Sown,73,30
+530463,Kanheri,2017,Rabi,Sown,639,61
+531377,Sadrabardi,2017,Rabi,Sown,321,63
+531383,Laktu,2017,Rabi,Sown,164,43
+531402,Sawalikheda,2017,Rabi,Sown,267,41
+531455,Ghuti,2017,Rabi,Sown,199,46
+548964,Khirdi,2017,Rabi,Sown,364,67
+549006,Golegaon,2017,Rabi,Sown,484,90
+549001,Borwadi,2017,Rabi,Sown,102,85
+548725,Dongargaon Kawad,2017,Rabi,Sown,72,14
+548745,Waghola,2017,Rabi,Sown,69,23
+568779,Shelkewadi,2017,Rabi,Sown,74,33
+568528,Renavi,2017,Rabi,Sown,151,32
+568650,Biranwadi,2017,Rabi,Sown,141,61
+568775,Kerewadi,2017,Rabi,Sown,120,51
+568563,Tadachiwadi,2017,Rabi,Sown,38,26
+568620,Autewadi,2017,Rabi,Sown,71,34
+568620,Autewadi,2017,Rabi,Sown,6,20
+568645,Panmalewadi,2017,Rabi,Sown,81,68
+563669,Rui,2017,Rabi,Sown,289,72
+556457,Pokhar,2017,Rabi,Sown,27,59
+556507,Bhairavwadi,2017,Rabi,Sown,7,27
+556901,Sawantwadi,2017,Rabi,Sown,265,68
+556897,Undavadi Kade Pathar,2017,Rabi,Sown,543,73
+556994,Lamjewadi,2017,Rabi,Sown,220,54
+557060,Vyahali,2017,Rabi,Sown,309,51
+563655,Bodhewadi (N.V.),2017,Rabi,Sown,58,54
+563469,Kalewadi,2017,Rabi,Sown,60,41
+563416,Mahimangad,2017,Rabi,Sown,118,33
+563530,Gopuj,2017,Rabi,Sown,243,59
+563518,Nandoshi,2017,Rabi,Sown,50,35
+563432,Naravane,2017,Rabi,Sown,361,31
+563435,Dhamani,2017,Rabi,Sown,340,60
+568584,Ambewadi,2017,Rabi,Sown,134,35
+561973,Bhend,2017,Rabi,Sown,528,57
+561991,Anjangaon Kh.,2017,Rabi,Sown,818,62
+562002,Londhewadi,2017,Rabi,Sown,195,69
+561881,Malwadi,2017,Rabi,Sown,589,60
+561859,Sarapdoh,2017,Rabi,Sown,476,73
+561857,Shelgaon (K),2017,Rabi,Sown,376,71
+561062,Katewadi,2017,Rabi,Sown,170,54
+558583,Kumbhefal,2017,Rabi,Sown,121,65
+558541,Supe,2017,Rabi,Sown,296,46
+558534,Diksal,2017,Rabi,Sown,394,44
+558833,Anandwadi,2017,Rabi,Sown,246,71
+558821,Pimpalgaon Dani,2017,Rabi,Sown,285,48
+562011,Khadkoni,2017,Rabi,Sown,200,49
+562052,Dhotre,2017,Rabi,Sown,419,52
+561305,Bhatshirapura,2017,Rabi,Sown,301,65
+561306,Pimpalgaon Dola,2017,Rabi,Sown,459,72
+559784,Anandgaon,2017,Rabi,Sown,790,82
+559772,Kekat Sarni,2017,Rabi,Sown,628,90
+559779,Depewadgaon,2017,Rabi,Sown,465,87
+559868,Umbrayachiwadi,2017,Rabi,Sown,217,64
+559904,Kavalyachiwadi,2017,Rabi,Sown,400,91
+559917,Bhilegaon,2017,Rabi,Sown,274,77
+560012,Mandva (pathan),2017,Rabi,Sown,359,48
+559988,Chichkhandi,2017,Rabi,Sown,424,44
+560028,Pokhari,2017,Rabi,Sown,692,78
+560610,Yeloriwadi,2017,Rabi,Sown,109,50
+560677,Yekambiwadi,2017,Rabi,Sown,178,68
+561477,Kawaldara Tanda,2017,Rabi,Sown,44,27
+561458,Sakanewadi,2017,Rabi,Sown,331,57
+561446,Darphal,2017,Rabi,Sown,388,78
+562164,Honsal,2017,Rabi,Sown,498,57
+562158,Wadala,2017,Rabi,Sown,796,61
+562181,Hiraj,2017,Rabi,Sown,604,53
+562694,Asabewadi,2017,Rabi,Sown,78,54
+568864,Lakdewadi,2017,Rabi,Sown,101,24
+562653,Jitti,2017,Rabi,Sown,212,39
+568844,Avandhi,2017,Rabi,Sown,367,38
+568849,Mokashawadi,2017,Rabi,Sown,161,60
+544882,Nanda Bk.,2017,Rabi,Sown,183,41
+544888,Hadoli,2017,Rabi,Sown,300,64
+545238,Kalambar Kh.,2017,Rabi,Sown,174,79
+560888,Kamaroddinpur,2017,Rabi,Sown,584,92
+560890,Nagtirthawadi,2017,Rabi,Sown,203,83
+560805,Koyachiwadi,2017,Rabi,Sown,4,99
+560806,Rajewadi,2017,Rabi,Sown,116,75
+560804,Sangaraddiwadi,2017,Rabi,Sown,297,90
+560805,Koyachiwadi,2017,Rabi,Sown,17,92
+560805,Koyachiwadi,2017,Rabi,Sown,38,92
+560805,Koyachiwadi,2017,Rabi,Sown,21,98
+545303,Wagdarwadi,2017,Rabi,Sown,33,13
+546633,Jununwadi,2017,Rabi,Sown,27,15
+546579,Jamb kh,2017,Rabi,Sown,178,69
+546555,Sawargaon,2017,Rabi,Sown,143,26
+530353,Sawargaon,2017,Rabi,Sown,131,15
+530358,Malsoor,2017,Rabi,Sown,151,21
+530461,Chohagaon,2017,Rabi,Sown,116,45
+530452,Lohgadtanda (N.V.),2017,Rabi,Sown,75,55
+530743,Chakwa,2017,Rabi,Sown,58,32
+530573,Kherda Kh.,2017,Rabi,Sown,223,42
+530851,Bhadshivni,2017,Rabi,Sown,211,31
+530896,Vilegaon,2017,Rabi,Sown,203,21
+530753,Borwha bk.,2017,Rabi,Sown,100,46
+542574,Shelodi,2017,Rabi,Sown,277,69
+542636,Bothgavan,2017,Rabi,Sown,122,75
+542627,Tapona,2017,Rabi,Sown,87,37
+542933,Kalambula,2017,Rabi,Sown,219,83
+546127,Ramwadi,2017,Rabi,Sown,50,26
+546221,Kupti,2017,Rabi,Sown,417,73
+546194,Jaroda,2017,Rabi,Sown,212,75
+542983,Parjana,2017,Rabi,Sown,198,92
+534248,FATTEPUR,2017,Rabi,Sown,281,78
+534225,EKAMBA,2017,Rabi,Sown,151,52
+534240,TALNI(BHAGWAT),2017,Rabi,Sown,231,71
+542298,Tirzada,2017,Rabi,Sown,123,56
+542227,Narsapur,2017,Rabi,Sown,209,55
+543646,Sakhi-Kh,2017,Rabi,Sown,170,74
+543660,Chondhi,2017,Rabi,Sown,117,83
+542477,Dharamgaon,2017,Rabi,Sown,33,71
+543331,Pandhurna Bk,2017,Rabi,Sown,206,52
+543343,Kumbhari,2017,Rabi,Sown,126,36
+542433,Shiwani Bk.,2017,Rabi,Sown,77,29
+532376,Pimpalkhuta,2017,Rabi,Sown,201,98
+532425,Beskheda,2017,Rabi,Sown,343,96
+533621,Nandora,2017,Rabi,Sown,38,54
+533617,Kajali,2017,Rabi,Sown,163,79
+533813,AJANGAON,2017,Rabi,Sown,298,61
+533814,TEMBHARI,2017,Rabi,Sown,74,51
+534004,KHADKA,2017,Rabi,Sown,209,97
+533913,GAIMUKH,2017,Rabi,Sown,220,98
+533957,REHAKI(KALA),2017,Rabi,Sown,325,98
+534819,Gondegaon,2017,Rabi,Sown,135,72
+534815,Gaimukh,2017,Rabi,Sown,136,87
+531606,Hilda,2017,Rabi,Sown,36,62
+531539,Makhala,2017,Rabi,Sown,105,55
+532333,Katsur,2017,Rabi,Sown,701,97
+532342,Shirajgaon,2017,Rabi,Sown,574,94
+533063,Kanzara,2017,Rabi,Sown,188,28
+533065,Mokhad,2017,Rabi,Sown,426,58
+533105,Pimpalgaon (Bainai),2017,Rabi,Sown,152,42
+529748,Dangarkhed,2017,Rabi,Sown,16,37
+529702,Rahnapur,2017,Rabi,Sown,10,89
+529702,Rahnapur,2017,Rabi,Sown,165,91
+529621,Chipi,2017,Rabi,Sown,44,74
+529703,Shahapur Pr. Rupagad,2017,Rabi,Sown,142,84
+528242,Khandvi,2017,Rabi,Sown,268,63
+528208,Wadgaon,2017,Rabi,Sown,93,45
+528364,Manardi,2017,Rabi,Sown,206,63
+528362,Kakoda,2017,Rabi,Sown,98,32
+528294,Salwan,2017,Rabi,Sown,36,45
+531457,Mansubhawdi,2017,Rabi,Sown,123,42
+531449,Jutpani,2017,Rabi,Sown,214,36
+527450,Dahiwad Kh.,2017,Rabi,Sown,191,33
+527462,Nagaon Kh.,2017,Rabi,Sown,45,10
+528661,Ridhora Khandopant,2017,Rabi,Sown,245,43
+528658,Sindkhed,2017,Rabi,Sown,123,42
+528208,Wadgaon  Patan,2017,Rabi,Sown,167,50
+558036,Jambhali,2017,Rabi,Sown,528,70
+558056,Jogewadi,2017,Rabi,Sown,159,43
+558731,Bandkhel,2017,Rabi,Sown,303,59
+557949,Kaudgaon,2017,Rabi,Sown,248,50
+549002,Mamnapur,2017,Rabi,Sown,248,84
+549000,Gadana,2017,Rabi,Sown,392,95
+549002,Mamnapur,2017,Rabi,Sown,23,93
+548985,Mahamadpur,2017,Rabi,Sown,78,61
+548675,Nidhona,2017,Rabi,Sown,59,10
+548671,Wawana,2017,Rabi,Sown,151,44
+548662,Hiwara,2017,Rabi,Sown,228,50
+550460,Bopane,2017,Rabi,Sown,196,65
+549125,Palkhed,2017,Rabi,Sown,1252,87
+549131,Ballali Sagaj,2017,Rabi,Sown,581,80
+558098,Mehekari,2017,Rabi,Sown,474,81
+558072,Manjar Sumbha,2017,Rabi,Sown,403,70
+558288,Nandur Pathar,2017,Rabi,Sown,199,34
+558268,Palaspur,2017,Rabi,Sown,326,47
+551152,Wadzire,2017,Rabi,Sown,512,75
+551195,Mohu,2017,Rabi,Sown,363,62
+550493,Urdhul,2017,Rabi,Sown,479,62
+527524,Javakhede,2017,Rabi,Sown,225,18
+525668,Dhamdai,2017,Rabi,Sown,213,50
+525665,Adachhi,2017,Rabi,Sown,389,80

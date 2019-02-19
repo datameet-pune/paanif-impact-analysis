@@ -21,14 +21,14 @@ ReactDOM.render(
   document.querySelector('.wrapper')
 );
 
-$('#filter-close').on('click', function() {
-  $('#slideout_inner').toggleClass('clicked');
-  $('#filter-close').toggleClass('filter-hide');
-  $('#hamburger').toggleClass('filter-hide');
-});
-
-$('#hamburger').on('click', function() {
-  $('#slideout_inner').toggleClass('clicked');
-  $('#filter-close').toggleClass('filter-hide');
-  $('#hamburger').toggleClass('filter-hide');
-});
+// $('#filter-close').on('click', function() {
+//   $('#slideout_inner').toggleClass('clicked');
+//   $('#filter-close').toggleClass('filter-hide');
+//   $('#hamburger').toggleClass('filter-hide');
+// });
+//
+// $('#hamburger').on('click', function() {
+//   $('#slideout_inner').toggleClass('clicked');
+//   $('#filter-close').toggleClass('filter-hide');
+//   $('#hamburger').toggleClass('filter-hide');
+// });

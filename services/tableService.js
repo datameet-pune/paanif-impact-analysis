@@ -280,7 +280,7 @@ function getSoilMoistureIndexData(req, res) {
 
       // kharif
       const kharifBefore = _.filter(type, {
-        season: 'KHARIF',
+        season: 'OCTOBER',
         year: beforeYear
       })[0];
 
@@ -289,7 +289,7 @@ function getSoilMoistureIndexData(req, res) {
         : 'NA';
 
       const rabiBefore = _.filter(type, {
-        season: 'RABI',
+        season: 'NOVEMBER',
         year: beforeYear
       })[0];
       rabi['before'].soil_moisture_index = rabiBefore
@@ -297,14 +297,14 @@ function getSoilMoistureIndexData(req, res) {
         : 'NA';
 
       const kharifAfter = _.filter(type, {
-        season: 'KHARIF',
+        season: 'OCTOBER',
         year: afterYear
       })[0];
       kharif['after'].soil_moisture_index = kharifAfter
         ? kharifAfter.soil_moisture_index
         : 'NA';
 
-      const rabiAfter = _.filter(type, { season: 'RABI', year: afterYear })[0];
+      const rabiAfter = _.filter(type, { season: 'NOVEMBER', year: afterYear })[0];
       rabi['after'].soil_moisture_index = rabiAfter
         ? rabiAfter.soil_moisture_index
         : 'NA';
